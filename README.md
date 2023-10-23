@@ -30,9 +30,8 @@ pip install -e .
    ```shell
    droidbot -a <path\to\.apk> -o <output\of\app> -task <your task> -keep_env -keep_app
    ```
-   you can try the scripts in the ./scripts folder, and the DroidTask are listed in [the form](https://docs.google.com/spreadsheets/d/1r2v9BtQ-Xlsc5tUIFZbkBodL07bqKcCnaaaYAJQnUHU/edit?usp=sharing)
+   you can try the scripts in the ./scripts folder, and the tasks from the DroidTask are listed in [the form](https://docs.google.com/spreadsheets/d/1r2v9BtQ-Xlsc5tUIFZbkBodL07bqKcCnaaaYAJQnUHU/edit?usp=sharing).
 
-## How to 
 
 Note that AutoDroid is currently for research purpose only. It may perform unintended actions. Please use at your own risk.
 
