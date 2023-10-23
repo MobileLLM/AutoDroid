@@ -32,6 +32,11 @@ pip install -e .
    ```
    you can try the scripts in the ./scripts folder, and the tasks from the DroidTask are listed in [the form](https://docs.google.com/spreadsheets/d/1r2v9BtQ-Xlsc5tUIFZbkBodL07bqKcCnaaaYAJQnUHU/edit?usp=sharing).
 
+## Lmitations
+
+We find that AutoDroid could not determine whether a task has been completed in many cases, which will be fixed in our future works.
+
+## Note
 
 Note that AutoDroid is currently for research purpose only. It may perform unintended actions. Please use at your own risk.
 

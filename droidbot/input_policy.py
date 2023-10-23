@@ -681,8 +681,12 @@ class TaskPolicy(UtgBasedInputPolicy):
         #     self.memory = Memory(app_name=self.app.app_name, app_output_path=self.device.output_dir)
         if use_memory:
             self.similar_ele_path, self.similar_ele_function, self.similar_ele_statement = self.get_most_similar_element()
-            print(f'============\nFound element: {self.similar_ele_statement}\nPath: {self.similar_ele_path}\nFunction: {self.similar_ele_function}\n============')
-            self.state_ele_memory = {}  # memorize some important states that contain elements of insight
+            if not self.similar_ele_function:
+                self.use_memory = False
+                print('=============\nWarning: Did not find the memory of this app, the app memory is disabled\n=============')
+            else:
+                print(f'============\nFound element: {self.similar_ele_statement}\nPath: {self.similar_ele_path}\nFunction: {self.similar_ele_function}\n============')
+                self.state_ele_memory = {}  # memorize some important states that contain elements of insight
 
     def get_most_similar_element(self):
         from InstructorEmbedding import INSTRUCTOR
@@ -698,6 +702,8 @@ class TaskPolicy(UtgBasedInputPolicy):
         with open('memory/embedded_elements_desc.json') as file:
             embeddings = json.load(file)
         app_name = self.device.output_dir.split('/')[-1]
+        if app_name not in embeddings.keys():
+            return None, None, None
         app_embeddings = embeddings[app_name]
 
         # similarities = {}
