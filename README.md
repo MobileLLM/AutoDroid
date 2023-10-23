@@ -12,13 +12,8 @@ Make sure you have:
 Then clone this repo and install with `pip`:
 
 ```shell
-<<<<<<< HEAD
-git clone git@github.com:wenh18/AutoDroid-sys.git
-cd AutoDroid-sys/
-=======
-git clone https://github.com/honeynet/droidbot.git
-cd droidbot/
->>>>>>> c135eec2b09caa5ede5e63312941e0551c590363
+git clone git@github.com:wenh18/AutoDroidSys.git
+cd AutoDroidSys/
 pip install -e .
 ```
 
