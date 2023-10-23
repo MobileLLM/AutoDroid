@@ -1,0 +1,1 @@
+- Input text for event description - Navigate up to previous screen - Add a new event type - View holidays - View regular events

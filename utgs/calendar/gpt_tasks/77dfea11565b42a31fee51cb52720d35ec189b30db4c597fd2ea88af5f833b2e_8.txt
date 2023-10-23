@@ -1,0 +1,1 @@
+Set the time for the event reminder, choose between AM and PM, select the hour from 1 to 12, switch to text input mode for time input, cancel the time selection, confirm the selected time.

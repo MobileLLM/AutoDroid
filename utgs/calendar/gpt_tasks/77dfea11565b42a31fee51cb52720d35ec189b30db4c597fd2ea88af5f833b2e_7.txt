@@ -1,0 +1,1 @@
+Display the calendar for the month of July 2023.  Navigate to the previous month.  Navigate to the next month.  Cancel and exit the calendar screen.  Confirm and save the selected date.  Return to the previous screen.

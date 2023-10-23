@@ -1,0 +1,1 @@
+Display holidays, regular events, and the option to add a new event type.

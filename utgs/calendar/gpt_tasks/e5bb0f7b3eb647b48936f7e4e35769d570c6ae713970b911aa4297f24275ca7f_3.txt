@@ -1,0 +1,1 @@
+Create a new event type with a title and color. Edit an existing event type. Add holidays or regular events.

@@ -1,0 +1,1 @@
+Set the time and frequency of event reminders, cancel or save the event, specify the title, location, and description of the event, set the event as an all-day event or not, choose the date and time of the event, set a reminder before the event, add additional reminders, choose the repetition pattern of the event.

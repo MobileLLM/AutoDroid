@@ -1,0 +1,1 @@
+Allow Calendar to access photos, media, and files on your device. Allow access to internal, alarms, Android, audiobooks, DCIM, documents, download, movies, music, notifications, pictures, podcasts, ringtones. Select a file. Cancel the action. Go back to the previous screen.

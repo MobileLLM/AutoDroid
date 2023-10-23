@@ -1,0 +1,1 @@
+The function of this GUI screen is to allow the user to input text.

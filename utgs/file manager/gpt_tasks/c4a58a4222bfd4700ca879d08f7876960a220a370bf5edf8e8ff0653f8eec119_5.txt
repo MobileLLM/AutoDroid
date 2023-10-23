@@ -1,0 +1,1 @@
+Display a list of files. Display a list of recently accessed files. Display storage analysis. Cancel the current operation. Confirm and proceed with the current operation. Go back to the previous screen.

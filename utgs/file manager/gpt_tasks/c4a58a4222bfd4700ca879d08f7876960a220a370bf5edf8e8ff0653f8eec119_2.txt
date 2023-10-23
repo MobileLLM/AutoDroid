@@ -1,0 +1,1 @@
+Customize the colors of the app's theme, text, background, primary elements, and app icon.

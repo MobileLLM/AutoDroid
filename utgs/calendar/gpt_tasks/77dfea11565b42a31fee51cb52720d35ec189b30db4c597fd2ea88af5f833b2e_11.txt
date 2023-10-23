@@ -1,0 +1,1 @@
+Set the event reminder to no reminder, at start, 1 minute before, 5 minutes before, 10 minutes before, 30 minutes before, 1 hour before, and custom. Set the reminder unit to minutes, hours, or days. Cancel or confirm the reminder settings.

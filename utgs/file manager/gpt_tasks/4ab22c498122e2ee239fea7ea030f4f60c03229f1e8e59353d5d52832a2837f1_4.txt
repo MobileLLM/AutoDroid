@@ -1,0 +1,1 @@
+- Select storage - Check/uncheck Internal storage - Check/uncheck SD Card - Go back - Go to home folder - Open SD Card folder (1 item) - Open Android folder (1 item) - Open DCIM folder (0 items) - Open Download folder (0 items) - Open LOST.DIR folder (0 items) - Open Music folder (0 items) - Open Notifications folder

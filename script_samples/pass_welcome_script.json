@@ -1,0 +1,30 @@
+{
+    "views": {
+        "first_time_use_carousel": {
+            "resource_id": ".*first_time_use_carousel"
+        }
+    },
+    "states": {
+        "welcome_state": {
+            "activity": ".*FirstTimeUseCarouselActivity",
+            "views": ["first_time_use_carousel"]
+        }
+    },
+    "operations": {
+        "swipe_operation": [
+            {
+                "event_type": "scroll",
+                "target_view": "first_time_use_carousel",
+                "direction": "RIGHT"
+            },
+            {
+                "event_type": "scroll",
+                "target_view": "first_time_use_carousel",
+                "direction": "RIGHT"
+            }
+        ]
+    },
+    "main": {
+        "welcome_state": ["swipe_operation"]
+    }
+}

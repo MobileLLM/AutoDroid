@@ -1,0 +1,1 @@
+Collapse the UI screen. Search for items by typing in at least 2 characters. Clear the current search query. Display a message if no items are found. 

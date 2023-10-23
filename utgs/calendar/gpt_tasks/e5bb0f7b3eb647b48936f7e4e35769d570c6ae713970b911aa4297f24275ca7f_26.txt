@@ -1,0 +1,1 @@
+Set the size of the calendar display to small, medium, or large.

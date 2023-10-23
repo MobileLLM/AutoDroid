@@ -1,0 +1,1 @@
+View internal calendar events View alarms Cancel current action Confirm current action Return to previous screen Access the calendar Search for events Change the calendar view Access additional options Navigate to the month of July Create a new event

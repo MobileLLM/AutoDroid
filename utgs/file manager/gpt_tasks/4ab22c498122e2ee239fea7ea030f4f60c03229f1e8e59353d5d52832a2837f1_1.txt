@@ -1,0 +1,1 @@
+Sort files by name, size, last modified, or extension. Sort in ascending or descending order. Sort numeric parts by actual value. Apply sorting settings to this folder only. Cancel, OK, go back.

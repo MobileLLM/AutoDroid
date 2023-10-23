@@ -1,0 +1,1 @@
+Change view type, stop showing hidden media, access settings, access about information, go back, view music items.

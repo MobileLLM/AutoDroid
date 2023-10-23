@@ -1,0 +1,681 @@
+records:
+- Choice: 2
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Add a new note</p>\n <input id=1 >Label</input>\n <p id=2>New note\
+    \ type:</p>\n <checkbox id=3 checked=True>Text note</checkbox>\n <checkbox id=4\
+    \ checked=False>Checklist</checkbox>\n <button id=5>Cancel</button>\n <button\
+    \ id=6>OK</button>\n <button id=7>go back</button>"
+  new_state_str: 67f3b94e0e34c3430a429ef07289bd7b94c6e3b80719e6fc9d839c0f23ad3b4f
+  state_str: d5209f39a2e32892f7ea467acca08507883580cc984e6f9a7219eb4d0ed70800
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Add a new note</p>\n <input id=1 >Label</input>\n <p id=2>New note\
+    \ type:</p>\n <checkbox id=3 checked=False>Text note</checkbox>\n <checkbox id=4\
+    \ checked=True>Checklist</checkbox>\n <button id=5>Cancel</button>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 1d832e8a3eaca63650806e61bb2e4d6707fb07d077e168297e487f58db9692eb
+  state_str: 11278e6ad9dc07e01c861614bfb2f25ccad0e636d3623e5bb0fe30fd54b1d155
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Add a new note</p>\n <input id=1 >Label</input>\n <p id=2>New note\
+    \ type:</p>\n <checkbox id=3 checked=True>Text note</checkbox>\n <checkbox id=4\
+    \ checked=False>Checklist</checkbox>\n <button id=5>Cancel</button>\n <button\
+    \ id=6>OK</button>\n <button id=7>go back</button>"
+  new_state_str: 67f3b94e0e34c3430a429ef07289bd7b94c6e3b80719e6fc9d839c0f23ad3b4f
+  state_str: d5209f39a2e32892f7ea467acca08507883580cc984e6f9a7219eb4d0ed70800
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 4
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Diary</button>
+
+    <p id=5>General note</p>
+
+    <input id=6>Insert text here</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 31b21e28301a234ddcc1a929aae1a0994e9f678f5fc9ed621e8123c4519d926d
+  state_str:
+  - fde5567d29fdd4d3d7e6ec9bd36805674e6bf2a4efa51f60df692f69761dae8b
+- Choice: 1
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Open note</p>\n <checkbox id=1 checked=True>Diary</checkbox>\n <checkbox\
+    \ id=2 checked=False>General note</checkbox>\n <checkbox id=3 checked=False>Create\
+    \ a new note</checkbox>\n <button id=4>go back</button>"
+  new_state_str: 7efdbef7ed868349f608932f3bdef34ceee6c77fe26bd575357b5c22f83861f9
+  state_str: 350b7b14e4918be1f25c87e2051ebeffa002830a4b3c7af0dd6003f5751ad122
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Rename note</p>\n <input id=1 >Diary</input>\n <button id=2>Cancel</button>\n\
+    \ <button id=3>OK</button>\n <button id=4>go back</button>"
+  new_state_str: d85b7ab3ab074ba9075255e6c07f590bcb9b0a4311164df52f1242687e153a6a
+  state_str: 0eedfbd8b89d5c7c8d5825d51b8de2a6a19b19caae8ef593c3ab49e9d573883a
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Rename note</p>\n <input id=1 >Diary</input>\n <button id=2>Cancel</button>\n\
+    \ <button id=3>OK</button>\n <button id=4>go back</button>"
+  new_state_str: d85b7ab3ab074ba9075255e6c07f590bcb9b0a4311164df52f1242687e153a6a
+  state_str: 0eedfbd8b89d5c7c8d5825d51b8de2a6a19b19caae8ef593c3ab49e9d573883a
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Add to Home screen</p>\n <p id=1>Touch & hold to place manually</p>\n\
+    \ <p id=2>Diary</p>\n <button id=4>Cancel</button>\n <button id=5>Add automatically</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 7d6f87374454c95a2e08dfacd3fe1b4e068626e1a9954723d191796f50bf3453
+  state_str: f2e2d28a5d15945bb6c85ec4924fbf5d61ed6753036c40fa7a55ffbf5c52c744
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 11
+  Input: 'null'
+  State: "<p id=0>Downloads</p>\n <p id=1>FILES IN DOWNLOADS</p>\n <button id=2 text='List\
+    \ view'></button>\n <button id=3 text='Show roots'></button>\n <p id=4>Downloads</p>\n\
+    \ <button id=5 text='New folder'></button>\n <button id=6 text='More options'></button>\n\
+    \ <p id=7>Diary.pdf</p>\n <p id=8>6.24 kB</p>\n <p id=9>Jun 30</p>\n <input id=10\
+    \ >Diary.txt</input>\n <button id=11>SAVE</button>\n <button id=12>go back</button>"
+  new_state_str: 116e30059d4712a3e2a39a6747be36968a1e2f72e53b9bcee1bcd1bc875aa030
+  state_str: 113e18b47e5f7bc9736f329621e4bab5d4bef4455fd274b7e663e04139f9cefb
+- Choice: 2
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Update the file itself at updating the note\n\
+    (note </checkbox>\n <checkbox id=1 checked=False>Only export the current file\
+    \ content\n(changing the</checkbox>\n <button id=2>go back</button>"
+  new_state_str: 960353b1affd0b2c421f0cf8a75b6497c066254fb9241986de5120bbd9c66082
+  state_str: 3e20f0155ac6725adbd3e7088caecb38eeada2e81a6d40a1ab31e918ab86dfa2
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 15
+  Input: 'null'
+  State: "<p id=0>Downloads</p>\n <p id=1>FILES IN DOWNLOADS</p>\n <button id=2 text='List\
+    \ view'></button>\n <button id=3 text='Show roots'></button>\n <p id=4>Downloads</p>\n\
+    \ <button id=5 text='New folder'></button>\n <button id=6 text='More options'></button>\n\
+    \ <p id=7>Diary.txt</p>\n <p id=8>0 B</p>\n <p id=9>11:10 AM</p>\n <p id=10>Diary.pdf</p>\n\
+    \ <p id=11>6.24 kB</p>\n <p id=12>Jun 30</p>\n <input id=13 >Notes_2023_07_01_11_10_51</input>\n\
+    \ <button id=14>SAVE</button>\n <button id=15>go back</button>"
+  new_state_str: 4b612f04a7389c72db76762439ae114fd2ec88a0423ec423578228cee9eec7fe
+  state_str: 821908dfea60a5dfb509caa607366b0fc443b3d6993a3ebfdccb1abfbbb6716d
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Expand handle'></button>\n <button id=1>Save as PDF</button>\n\
+    \ <button id=2 text='Summary, copies 1, paper size Letter'>Copies:<br>1<br>Paper\
+    \ size:<br>Letter</button>\n <button id=3 text='Page 1 of 1'>1/1</button>\n <button\
+    \ id=4 text='Save to PDF'></button>\n <button id=5>go back</button>"
+  new_state_str: d8dc4abb0e56e5f4a2054cebed843fab68f8accaf9b3302aefe20c7e5204846d
+  state_str: 7fa3771bee88f639da3e9e464083ddfc83bf5fec7b64f11f36f1031ababee1c5
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 9
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to delete note \"Diary\"?</p>\n <button id=1>Cancel</button>\n\
+    \ <button id=2>Delete</button>\n <button id=3>go back</button>"
+  new_state_str: fc6060f782647d6f5d40da6d29994f951b643b36ad707888bc79a8f35db6323c
+  state_str: 1690bc0d85368814cfabdc33e9b0185f2899e20e221ab6b9171ca0d85650435f
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 10
+  Input: 'null'
+  State: "<button id=0>Rename note</button>\n <button id=1>Share</button>\n <button\
+    \ id=2>Create shortcut</button>\n <button id=3>Lock note</button>\n <button id=4>Open\
+    \ file</button>\n <button id=5>Import notes</button>\n <button id=6>Export as\
+    \ file</button>\n <button id=7>Export all notes</button>\n <button id=8>Print</button>\n\
+    \ <button id=9>Delete note</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>About</button>\n <button id=12>go back</button>"
+  new_state_str: d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a
+  state_str: 4e5778fa48b7653d78c78d9fc93185b3bf480d25f784957a6e6ce8b90ed6573d
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Font size<br>100%</button>
+
+    <p id=6>TEXT</p>
+
+    <checkbox id=7 checked=False>Show word count</checkbox>
+
+    <checkbox id=8 checked=False>Make links and emails clickable</checkbox>
+
+    <checkbox id=9 checked=False>Use monospaced font</checkbox>
+
+    <checkbox id=10 checked=False>Use Incognito mode of keyboards</checkbox>
+
+    <checkbox id=11 checked=True>Enable line wrap</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=13>Alignment<br>Left</button>
+
+    <p id=14>STARTUP</p>
+
+    <checkbox id=15 checked=True>Place cursor to the end of note</checkbox>
+
+    <checkbox id=16 checked=True>Show keyboard on startup</checkbox>
+
+    <checkbox id=17 checked=False>Show a note picker on startup</checkbox>
+
+    <p id=18>SAVING</p>
+
+    <checkbox id=19 checked=True>Autosave notes</checkbox>
+
+    <checkbox id=20 checked=False>Display save success messages</checkbox>'
+  new_state_str: 10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809
+  state_str:
+  - 39b01c276cdb4bbfcd2599eb4911fa70d30685d0ec6786436e43e04002b142dd
+  - 8b1898f69cd76af3a92398911eaa47fa62fd64ac5c12cbf3b48eadd5a807d499
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Font size<br>100%</button>
+
+    <p id=6>TEXT</p>
+
+    <checkbox id=7 checked=False>Show word count</checkbox>
+
+    <checkbox id=8 checked=False>Make links and emails clickable</checkbox>
+
+    <checkbox id=9 checked=False>Use monospaced font</checkbox>
+
+    <checkbox id=10 checked=False>Use Incognito mode of keyboards</checkbox>
+
+    <checkbox id=11 checked=True>Enable line wrap</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=13>Alignment<br>Left</button>
+
+    <p id=14>STARTUP</p>
+
+    <checkbox id=15 checked=True>Place cursor to the end of note</checkbox>
+
+    <checkbox id=16 checked=True>Show keyboard on startup</checkbox>
+
+    <checkbox id=17 checked=False>Show a note picker on startup</checkbox>
+
+    <p id=18>SAVING</p>
+
+    <checkbox id=19 checked=True>Autosave notes</checkbox>
+
+    <checkbox id=20 checked=False>Display save success messages</checkbox>'
+  new_state_str: 10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809
+  state_str:
+  - 39b01c276cdb4bbfcd2599eb4911fa70d30685d0ec6786436e43e04002b142dd
+  - 8b1898f69cd76af3a92398911eaa47fa62fd64ac5c12cbf3b48eadd5a807d499
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Thank you for using Simple Notes.\nFor more simple apps please visit\
+    \ SimpleMobileTools.com.</p>\n <button id=1>OK</button>\n <button id=2>go back</button>"
+  new_state_str: cc0ad8171fb50c89daabf7d3bedd6473f809ff93cfca73750ae07b12b984dbaf
+  state_str: ee5510206121e9f712d9f3c16d9e999de673a453645a3c942f8470ba99870541
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Font size<br>100%</button>
+
+    <p id=6>TEXT</p>
+
+    <checkbox id=7 checked=False>Show word count</checkbox>
+
+    <checkbox id=8 checked=False>Make links and emails clickable</checkbox>
+
+    <checkbox id=9 checked=False>Use monospaced font</checkbox>
+
+    <checkbox id=10 checked=False>Use Incognito mode of keyboards</checkbox>
+
+    <checkbox id=11 checked=True>Enable line wrap</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=13>Alignment<br>Left</button>
+
+    <p id=14>STARTUP</p>
+
+    <checkbox id=15 checked=True>Place cursor to the end of note</checkbox>
+
+    <checkbox id=16 checked=True>Show keyboard on startup</checkbox>
+
+    <checkbox id=17 checked=False>Show a note picker on startup</checkbox>
+
+    <p id=18>SAVING</p>
+
+    <checkbox id=19 checked=True>Autosave notes</checkbox>
+
+    <checkbox id=20 checked=False>Display save success messages</checkbox>'
+  new_state_str: 10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809
+  state_str:
+  - 39b01c276cdb4bbfcd2599eb4911fa70d30685d0ec6786436e43e04002b142dd
+  - 8b1898f69cd76af3a92398911eaa47fa62fd64ac5c12cbf3b48eadd5a807d499
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Left</checkbox>\n <checkbox id=1 checked=False>Center</checkbox>\n\
+    \ <checkbox id=2 checked=False>Right</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 19b0f2d1f0537d87dd631b7f6e2fb941b2ddd78db91d75c58c9b0eebe03a5177
+  state_str: 520618f1ad3aeff9a9795f70261ca25bfcd5c5227f73843cb1c18c228240a8cf
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Font size<br>100%</button>
+
+    <p id=6>TEXT</p>
+
+    <checkbox id=7 checked=False>Show word count</checkbox>
+
+    <checkbox id=8 checked=False>Make links and emails clickable</checkbox>
+
+    <checkbox id=9 checked=False>Use monospaced font</checkbox>
+
+    <checkbox id=10 checked=False>Use Incognito mode of keyboards</checkbox>
+
+    <checkbox id=11 checked=True>Enable line wrap</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=13>Alignment<br>Left</button>
+
+    <p id=14>STARTUP</p>
+
+    <checkbox id=15 checked=True>Place cursor to the end of note</checkbox>
+
+    <checkbox id=16 checked=True>Show keyboard on startup</checkbox>
+
+    <checkbox id=17 checked=False>Show a note picker on startup</checkbox>
+
+    <p id=18>SAVING</p>
+
+    <checkbox id=19 checked=True>Autosave notes</checkbox>
+
+    <checkbox id=20 checked=False>Display save success messages</checkbox>'
+  new_state_str: 10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809
+  state_str:
+  - 39b01c276cdb4bbfcd2599eb4911fa70d30685d0ec6786436e43e04002b142dd
+  - 8b1898f69cd76af3a92398911eaa47fa62fd64ac5c12cbf3b48eadd5a807d499
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>Diary</p>
+
+    <button id=5>General note</button>
+
+    <input id=6>2023.6.10 Sunny</input>
+
+    <button id=7>go back</button>'
+  new_state_str: 8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476
+  state_str:
+  - 7dd599d9b413a75be1c426d9601dea75356fae2f5064cf4377daf3cb209125a6
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <input id=4>Search</input>
+
+    <p id=5>Diary</p>
+
+    <button id=6>General note</button>
+
+    <input id=7>2023.6.10 Sunny</input>
+
+    <button id=8>go back</button>'
+  new_state_str: 80c8894dd01fda61803f0495b6c15d7772ae5b80e449bce9fa9f211d475b9def
+  state_str:
+  - e9b09ac8faee61b717beab2b131c4c76d7dbfc4c56071069971944178ec002ba
+- Choice: -1
+  Input: 'null'
+  State: '<button id=0 text=''Search''></button>
+
+    <button id=1 text=''Open note''></button>
+
+    <button id=2 text=''Create a new note''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <input id=4>Search</input>
+
+    <p id=5>Diary</p>
+
+    <button id=6>General note</button>
+
+    <input id=7>2023.6.10 Sunny</input>
+
+    <button id=8>go back</button>'
+  new_state_str: 80c8894dd01fda61803f0495b6c15d7772ae5b80e449bce9fa9f211d475b9def
+  state_str:
+  - e9b09ac8faee61b717beab2b131c4c76d7dbfc4c56071069971944178ec002ba
+step_num: 43
+task_name: utg

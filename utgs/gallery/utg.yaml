@@ -1,0 +1,1481 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Complete action using</p>
+
+    <button id=1>Camera</button>
+
+    <button id=2>Just once</button>
+
+    <button id=3>Always</button>
+
+    <button id=4>go back</button>'
+  new_state_str: 1fe2495c877d5fb97b300a4b11940855c97f6c7ec5c0ec6e0305af52b0887714
+  state_str:
+  - 6dea963809b244f2b935d000b5e4b96eaee7d65675e19a5ad874c033885c7df1
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=False>Name</checkbox>\n <checkbox\
+    \ id=2 checked=False>Path</checkbox>\n <checkbox id=3 checked=False>Size</checkbox>\n\
+    \ <checkbox id=4 checked=True>Last modified</checkbox>\n <checkbox id=5 checked=False>Date\
+    \ taken</checkbox>\n <checkbox id=6 checked=False>Random</checkbox>\n <checkbox\
+    \ id=7 checked=False>Custom</checkbox>\n <checkbox id=8 checked=False>Ascending</checkbox>\n\
+    \ <checkbox id=9 checked=True>Descending</checkbox>\n <button id=10>Cancel</button>\n\
+    \ <button id=11>OK</button>\n <button id=12>go back</button>"
+  new_state_str: bcdc8bc32ab330c072627acc28b712faa15abff6c965ca31c5db8d7ec7f3ccd3
+  state_str: e320bb03bf9b2201df03239ce7793363fda22ca45cc40f775695b3b936cea660
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 7
+  Input: 'null'
+  State: "<p id=0>Filter media</p>\n <checkbox id=1 checked=True>Images</checkbox>\n\
+    \ <checkbox id=2 checked=True>Videos</checkbox>\n <checkbox id=3 checked=True>GIFs</checkbox>\n\
+    \ <checkbox id=4 checked=True>RAW images</checkbox>\n <checkbox id=5 checked=True>SVGs</checkbox>\n\
+    \ <checkbox id=6 checked=False>Portraits</checkbox>\n <button id=7>Cancel</button>\n\
+    \ <button id=8>OK</button>\n <button id=9>go back</button>"
+  new_state_str: f296892e0ae3270e7e5851ec7aa50dd071de98f2905930ac1676391c0f1f64dd
+  state_str: f51b84edd57448421e3770471c7d0cf23f31f6b0e500aa3cd2146bd9cec87f15
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Grid</checkbox>\n <checkbox id=1 checked=False>List</checkbox>\n\
+    \ <checkbox id=2 checked=False>Group direct subfolders</checkbox>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 7dff668a1a1b95194b239f49899f5b1b85768029e3f9067123d3277b3a8b9f3b
+  state_str: fad1a1487884864535e069370c5f1db8062f199a79ad3f8c758b0d9f52389abc
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>1 item</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Podcasts<br>0 items</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=18>screen_2023-06-30_143638.png<br>0 B</button>
+
+    <p id=19 text=''handleImage''></p>'
+  new_state_str: 439da42741fa3e717568b85f7850d504c6e01288f51f6e8036e63fc0cf7da179
+  state_str:
+  - 98b951ce04ed3308764e9a2e9e04c53e41fe18b872892ae1ae1eea535e414ba6
+  - 5c510586212f3ab1289430a98059f590bfdd058ac6c15907834b118893d9b67e
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=True>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=False>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa
+  state_str: 2f92e2a72473dec647207c0fa93dbe9138269c84c1581b8e2a36290cd6289484
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>SD Card</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>1 item</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>0 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>0 items</button>
+
+    <button id=8>LOST.DIR<br>0 items</button>
+
+    <button id=9>Movies<br>0 items</button>
+
+    <button id=10>Music<br>0 items</button>
+
+    <button id=11>Notifications<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Pictures<br>0 items</button>
+
+    <button id=16>Podcasts<br>0 items</button>
+
+    <button id=17>Ringtones<br>0 items</button>
+
+    <p id=18 text=''handleImage''></p>'
+  new_state_str: f4e3bb56b18f61edcbc485302f7614a0c5ba2e590c7ce1e15e06c3272314ca1e
+  state_str:
+  - 018b55e91625d7d16a6380fe06091118e1c1a06768ad6c5826f69eb9706d95a2
+  - 6b8de8f566bcf947760a08eb302036aff2057235200cd89f30b5416b84b80e2c
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=False>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=True>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 35eaf64d1ecc1be38d8ba6b606c51c8f981caee6862065502be6803f57796b58
+  state_str: 69f0e1d00536dbf68cd0a64d2e8cd945cf7d1ec662eb1ca3ec4eb18ea4e4dac2
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>1 item</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Podcasts<br>0 items</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=18>screen_2023-06-30_143638.png<br>0 B</button>
+
+    <p id=19 text=''handleImage''></p>'
+  new_state_str: 439da42741fa3e717568b85f7850d504c6e01288f51f6e8036e63fc0cf7da179
+  state_str:
+  - 98b951ce04ed3308764e9a2e9e04c53e41fe18b872892ae1ae1eea535e414ba6
+  - 5c510586212f3ab1289430a98059f590bfdd058ac6c15907834b118893d9b67e
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Create new folder</p>\n <input id=1 >Internal/</input>\n <input\
+    \ id=2 >Title</input>\n <button id=3>Cancel</button>\n <button id=4>OK</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 62201a86c54e8da86647b398f58a99a0615b95e99ce263caf628d12b35799c48
+  state_str: 51b87f0720f86932040500e03cbbd4f3307e8b8edbd765bfbd0ccc26ce7523e7
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 15
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>1 column</checkbox>
+
+    <checkbox id=1 checked=True>2 columns</checkbox>
+
+    <checkbox id=2 checked=False>3 columns</checkbox>
+
+    <checkbox id=3 checked=False>4 columns</checkbox>
+
+    <checkbox id=4 checked=False>5 columns</checkbox>
+
+    <checkbox id=5 checked=False>6 columns</checkbox>
+
+    <checkbox id=6 checked=False>7 columns</checkbox>
+
+    <checkbox id=7 checked=False>8 columns</checkbox>
+
+    <checkbox id=8 checked=False>9 columns</checkbox>
+
+    <checkbox id=9 checked=False>10 columns</checkbox>
+
+    <checkbox id=10 checked=False>11 columns</checkbox>
+
+    <checkbox id=11 checked=False>12 columns</checkbox>
+
+    <checkbox id=12 checked=False>13 columns</checkbox>
+
+    <checkbox id=13 checked=False>14 columns</checkbox>
+
+    <checkbox id=14 checked=False>15 columns</checkbox>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>16 columns</checkbox>
+
+    <checkbox id=17 checked=False>17 columns</checkbox>
+
+    <checkbox id=18 checked=False>18 columns</checkbox>
+
+    <checkbox id=19 checked=False>19 columns</checkbox>
+
+    <checkbox id=20 checked=False>20 columns</checkbox>'
+  new_state_str: 3d2fb79219ed38df93493d5435d95ee98f91059cb992b203b17bb80fe3ee03e0
+  state_str:
+  - 2f0667899014288d9a4603d4ad1a96e2d72b5e6028eb159596a4e2e7c6b1430e
+  - 568665804d4085aa4ebfc9a23336d1b636536ceb50a9f2572ecf97811c4fa212
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0>Sort by</button>\n <button id=1>Filter media</button>\n <button\
+    \ id=2>Change view type</button>\n <button id=3>Temporarily show hidden</button>\n\
+    \ <button id=4>Temporarily show excluded</button>\n <button id=5>Create new folder</button>\n\
+    \ <button id=6>Column count</button>\n <button id=7>Settings</button>\n <button\
+    \ id=8>About</button>\n <button id=9>go back</button>"
+  new_state_str: f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc
+  state_str: 62409de9ff271ddcfd1127b1b0607e1121d86b4c33c729be5a3a7df29dcc02a2
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache<br>2.4 MB</button>
+
+    <button id=58>Export favorites</button>
+
+    <button id=59>Import favorites</button>
+
+    <button id=60>Export settings</button>
+
+    <button id=61>Import settings</button>'
+  new_state_str: e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - c6c6756f9e2a784437fe019c94227b56fa1435d531c0c5804438b0e74fd24579
+  - 6436e9cb662c0b4848f5032df6d4d091e34f2f10b3983e3266ca29f15d6ada20
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache<br>2.4 MB</button>
+
+    <button id=58>Export favorites</button>
+
+    <button id=59>Import favorites</button>
+
+    <button id=60>Export settings</button>
+
+    <button id=61>Import settings</button>'
+  new_state_str: e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - dc6e092ea16d73242e0dfedc61db2fa4819b739219699ed481027c03f5b598d7
+  - 59842f0bf383da8b6b560ab6191c8ac337a470d29452ac1d882cef6f8ce56769
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Speed</checkbox>\n <checkbox id=1 checked=False>Compromise</checkbox>\n\
+    \ <checkbox id=2 checked=False>Avoid showing invalid files</checkbox>\n <button\
+    \ id=3>go back</button>"
+  new_state_str: e4a794e809bcf58fa0ca0ed45cf1a92b7b212cb82db7d3a70e21a63c34749186
+  state_str: 358abe2f207ec53f456dd0f173cd610a09ea5b11e1a41176b845fd458d081c5a
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache<br>2.4 MB</button>
+
+    <button id=58>Export favorites</button>
+
+    <button id=59>Import favorites</button>
+
+    <button id=60>Export settings</button>
+
+    <button id=61>Import settings</button>'
+  new_state_str: e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - dc6e092ea16d73242e0dfedc61db2fa4819b739219699ed481027c03f5b598d7
+  - 6436e9cb662c0b4848f5032df6d4d091e34f2f10b3983e3266ca29f15d6ada20
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Included folders</p>\n <button id=1 text='Add folder'></button>\n\
+    \ <p id=2>If you have some folders which contain media, but were not recognized\
+    \ by the app, you can add them manually here.\n\nAdding some items here will not\
+    \ exclude any other folder.</p>\n <button id=3>go back</button>"
+  new_state_str: a0054e64f7fd8323b726966d1b4fdb1fdd5f8a2a5f9bc0325952e490f2b3da79
+  state_str: 68a20c3fdd6406be0413da82791fbbb2ffe209e00e22c227c65b48fe4a72aaec
+- Choice: 7
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache</button>
+
+    <button id=58>Clear cache<br>2.4 MB</button>
+
+    <button id=59>Export favorites</button>
+
+    <button id=60>Import favorites</button>
+
+    <button id=61>Export settings</button>
+
+    <button id=62>Import settings</button>'
+  new_state_str: b1c3c890e54515a04e321d35af0328cdce2b22c11f5375faf000c082bdb1416f
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - c6c6756f9e2a784437fe019c94227b56fa1435d531c0c5804438b0e74fd24579
+  - 09763f76c7b054b2e529877f21519061e6223d446e8ef005e7ffe83f1c743741
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Excluded folders</p>\n <button id=1 text='Add folder'></button>\n\
+    \ <p id=2>Excluding folders will make them together with their subfolders hidden\
+    \ just in Simple Gallery, they will still be visible in other applications.\n\n\
+    If you want to hide them from other apps too, use the Hide function.</p>\n <button\
+    \ id=3>go back</button>"
+  new_state_str: 075474cc3814f2330ca5c0f164517189e565440073b31fd926ac36e22e3d8cc7
+  state_str: 54ff1c1f557f25897a594ddb0a76d93d18481f31e904d7f2f582d8fa754b0aa1
+- Choice: 19
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache<br>2.4 MB</button>
+
+    <button id=58>Export favorites</button>
+
+    <button id=59>Import favorites</button>
+
+    <button id=60>Export settings</button>
+
+    <button id=61>Import settings</button>'
+  new_state_str: e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - eb3fc065de3bc9962251ec5ab7f999e080d149932db89bf33d56b2292356fd5a
+  - 59842f0bf383da8b6b560ab6191c8ac337a470d29452ac1d882cef6f8ce56769
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0>Thumbnail spacing<br>1x</button>\n <checkbox id=1 checked=False>Rounded\
+    \ corners</checkbox>\n <checkbox id=2 checked=False>Animate GIFs at thumbnails</checkbox>\n\
+    \ <checkbox id=3 checked=False>Show video durations</checkbox>\n <checkbox id=4\
+    \ checked=True>Show image file types</checkbox>\n <checkbox id=5 checked=True>Mark\
+    \ favorite items</checkbox>\n <button id=6>Cancel</button>\n <button id=7>OK</button>\n\
+    \ <button id=8>go back</button>"
+  new_state_str: 0dfc17195a1ba68a96bc502389e3627b0981e51a59f5fcf4c6f20058633516fb
+  state_str: 58ec6c6fbfadf952b90e9caaf866468462d968128a740a5096d1abab6d2c708d
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>File loading priority<br>Speed</button>
+
+    <button id=6>Manage included folders</button>
+
+    <button id=7>Manage excluded folders</button>
+
+    <checkbox id=8 checked=False>Show hidden items</checkbox>
+
+    <checkbox id=9 checked=False>Search all files instead of folders on the main sc</checkbox>
+
+    <p id=10>VIDEOS</p>
+
+    <checkbox id=11 checked=False>Play videos automatically</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remember last video playback position</checkbox>
+
+    <checkbox id=14 checked=False>Loop videos</checkbox>
+
+    <checkbox id=15 checked=False>Always open videos on a separate screen with new
+    h</checkbox>
+
+    <checkbox id=16 checked=True>Allow controlling video volume and brightness with</checkbox>
+
+    <p id=17>THUMBNAILS</p>
+
+    <checkbox id=18 checked=True>Crop thumbnails into squares</checkbox>
+
+    <button id=19>File thumbnail style</button>
+
+    <button id=20>Folder thumbnail style<br>Square</button>
+
+    <p id=21>SCROLLING</p>
+
+    <checkbox id=22 checked=False>Scroll thumbnails horizontally</checkbox>
+
+    <checkbox id=23 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <p id=24>FULLSCREEN MEDIA</p>
+
+    <checkbox id=25 checked=False>Max brightness when viewing fullscreen media</checkbox>
+
+    <checkbox id=26 checked=False>Black background at fullscreen media</checkbox>
+
+    <checkbox id=27 checked=False>Automatically hide system UI at fullscreen media</checkbox>
+
+    <checkbox id=28 checked=False>Allow instantly changing media by clicking on scre</checkbox>
+
+    <checkbox id=29 checked=False>Allow controlling photo brightness with vertical
+    g</checkbox>
+
+    <checkbox id=30 checked=True>Allow closing the fullscreen view with a down gest</checkbox>
+
+    <checkbox id=31 checked=True>Show a notch if available</checkbox>
+
+    <button id=32>Rotate fullscreen media by<br>System setting</button>
+
+    <p id=33>DEEP ZOOMABLE IMAGES</p>
+
+    <checkbox id=34 checked=True>Allow deep zooming images</checkbox>
+
+    <checkbox id=35 checked=True>Allow rotating images with gestures</checkbox>
+
+    <checkbox id=36 checked=False>Show images in the highest possible quality</checkbox>
+
+    <checkbox id=37 checked=False>Allow 1:1 zooming in with two double taps</checkbox>
+
+    <p id=38>EXTENDED DETAILS</p>
+
+    <checkbox id=39 checked=False>Show extended details over fullscreen media</checkbox>
+
+    <p id=40>SECURITY</p>
+
+    <checkbox id=41 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=42 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=43 checked=False>Password protect file deletion and moving</checkbox>
+
+    <p id=44>FILE OPERATIONS</p>
+
+    <checkbox id=45 checked=False>Delete empty folders after deleting their content</checkbox>
+
+    <checkbox id=46 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=47 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=48>BOTTOM ACTIONS</p>
+
+    <checkbox id=49 checked=True>Show some action buttons at the bottom of the scre</checkbox>
+
+    <button id=50>Manage visible bottom actions</button>
+
+    <p id=51>RECYCLE BIN</p>
+
+    <checkbox id=52 checked=True>Move items into the Recycle Bin instead of deletin</checkbox>
+
+    <checkbox id=53 checked=True>Show the Recycle Bin at the folders screen</checkbox>
+
+    <checkbox id=54 checked=False>Show the Recycle Bin as the last item on the main
+    </checkbox>
+
+    <button id=55>Empty the Recycle Bin<br>0 B</button>
+
+    <p id=56>MIGRATING</p>
+
+    <button id=57>Clear cache</button>
+
+    <button id=58>Clear cache<br>2.4 MB</button>
+
+    <button id=59>Export favorites</button>
+
+    <button id=60>Import favorites</button>
+
+    <button id=61>Export settings</button>
+
+    <button id=62>Import settings</button>'
+  new_state_str: b1c3c890e54515a04e321d35af0328cdce2b22c11f5375faf000c082bdb1416f
+  state_str:
+  - 9357a956fef6809e161ea1cd4be6e6ac4ab2e32176c831c0c325b95150edc3e3
+  - b4a7ba21d9adf890438ad5aba59ed6be8570e3f5c36feb69d22776ebf7818239
+  - 44db51775d1374979475e4d619bbd221faf716e8bc9dab2990a6dae84f12a521
+  - 930d50b3d792421886f837afa4b3e2020bfcfcb74ca943c94ae647385c3f1fc4
+  - c6c6756f9e2a784437fe019c94227b56fa1435d531c0c5804438b0e74fd24579
+  - 09763f76c7b054b2e529877f21519061e6223d446e8ef005e7ffe83f1c743741
+  - e46bbaa8701b111fcdf3c0da17964f9881fd0d74bcd8bf08630fd9824d9bbfa9
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search in Internal</input>
+
+    <button id=1 text=''Toggle filename visibility''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>go back</button>'
+  new_state_str: f48966ab2fd7d96f8892f62c2b8040354b716ab44818e9b60cd5d91e9545de1e
+  state_str:
+  - 5dd652e59fff77a1a36ea169dc23f3052fd36eb6ea6dd8a5f44f5e86fd5b5047
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search in DCIM</input>
+
+    <button id=1 text=''Toggle filename visibility''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>go back</button>'
+  new_state_str: c4867c874a83f1245254d117e2f3761349f3beeeedd4fb03c66f737ccafa242a
+  state_str:
+  - 47203338b2fa5e21d22f1397ac0d72d9e74179220d59ef833c7ad7889aaa726d
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search files</input>
+
+    <button id=1 text=''Toggle filename visibility''></button>
+
+    <button id=2 text=''Switch to folder view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Yesterday</button>
+
+    <button id=5>go back</button>'
+  new_state_str: 827a24e214c3d5fda9cba05c5e5bc5c9d0e6d3e81a093a080e8cc952e01740c9
+  state_str:
+  - 28e7102d7cd52a46b68fd080f33254ac5eea5d7372f06e4b5e580b62d1a1cd6c
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search files</input>
+
+    <button id=1 text=''Toggle filename visibility''></button>
+
+    <button id=2 text=''Switch to folder view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Yesterday</button>
+
+    <button id=5>screen_2023-06-30_143638.png</button>
+
+    <button id=6>screen_2023-06-30_141247.png</button>
+
+    <button id=7>pic1.jpg</button>
+
+    <button id=8>pic2.jpg</button>
+
+    <button id=9>video1.mp4</button>
+
+    <button id=10>video2.mp4</button>
+
+    <button id=11>video3.mp4</button>
+
+    <button id=12>pic3.jpg</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 5671bd90bd97eca48538d0127d0ed1c838f79ec595814f95d2db8dddb827ebab
+  state_str:
+  - 5dbe3cc23b572af8f7650a5181bf10285a632173e1b6e2ae283c22618540121b
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search files</input>
+
+    <button id=1 text=''Toggle filename visibility''></button>
+
+    <button id=2 text=''Switch to folder view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Yesterday</button>
+
+    <button id=5>go back</button>'
+  new_state_str: 827a24e214c3d5fda9cba05c5e5bc5c9d0e6d3e81a093a080e8cc952e01740c9
+  state_str:
+  - 28e7102d7cd52a46b68fd080f33254ac5eea5d7372f06e4b5e580b62d1a1cd6c
+- Choice: -1
+  Input: 'null'
+  State: '<input id=0>Search folders</input>
+
+    <button id=1 text=''Open camera''></button>
+
+    <button id=2 text=''Show all folders content''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal<br>2</button>
+
+    <button id=5>DCIM<br>6</button>
+
+    <button id=6>go back</button>'
+  new_state_str: a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b
+  state_str:
+  - 073664fc497d71c2d6fbd0680dbdd396ec5cf3939cd9a21af17a8da3b79c7f67
+step_num: 47
+task_name: utg

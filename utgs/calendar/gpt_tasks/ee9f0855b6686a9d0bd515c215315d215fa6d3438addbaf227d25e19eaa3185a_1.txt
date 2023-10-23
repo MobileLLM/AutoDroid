@@ -1,0 +1,1 @@
+Select a file from Internal storage, Alarms, Android, Audiobooks, DCIM, Documents, Download, Movies, Music, Notifications, Pictures, Podcasts, Ringtones. The selected file can be canceled or returned to the previous screen.

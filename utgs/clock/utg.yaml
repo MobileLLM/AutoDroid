@@ -1,0 +1,779 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 9
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors (Locked)</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <checkbox id=6 checked=True>Prevent phone from sleeping while the app is in fo</checkbox>
+
+    <checkbox id=7 checked=True>Start week on Sunday</checkbox>
+
+    <p id=8>ALARM TAB</p>
+
+    <button id=9>Max reminder duration<br>5 minutes</button>
+
+    <checkbox id=10 checked=True>Increase volume gradually</checkbox>
+
+    <checkbox id=11 checked=True>Always use same snooze time</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=15>Max reminder duration<br>1 minute</button>
+
+    <button id=13>Snooze time<br>10 minutes</button>
+
+    <p id=14>TIMER TAB</p>'
+  new_state_str: c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3
+  state_str:
+  - 8ca1a7f61e2e262def087258691c8087fe61d29b65f13d858b951a26a4f60508
+  - 3b6bfd774b42f098c0497a6311825bf81ff76f204ec65127653a5dcf3337d3e3
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>1 minute</checkbox>\n <checkbox id=1 checked=True>5\
+    \ minutes</checkbox>\n <checkbox id=2 checked=False>10 minutes</checkbox>\n <checkbox\
+    \ id=3 checked=False>30 minutes</checkbox>\n <checkbox id=4 checked=False>1 hour</checkbox>\n\
+    \ <checkbox id=5 checked=False>Custom</checkbox>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 108039bf498ec6f740c32cae29e400b56a62c9be94fb8a0c87da58f54e61ca18
+  state_str: 2a6338d1c668c051d7052521601b7b6e2db20151496654fcd091513c88954438
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors (Locked)</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <checkbox id=6 checked=True>Prevent phone from sleeping while the app is in fo</checkbox>
+
+    <checkbox id=7 checked=True>Start week on Sunday</checkbox>
+
+    <p id=8>ALARM TAB</p>
+
+    <button id=9>Max reminder duration<br>5 minutes</button>
+
+    <checkbox id=10 checked=True>Increase volume gradually</checkbox>
+
+    <checkbox id=11 checked=True>Always use same snooze time</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=15>Max reminder duration<br>1 minute</button>
+
+    <button id=13>Snooze time<br>10 minutes</button>
+
+    <p id=14>TIMER TAB</p>'
+  new_state_str: c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3
+  state_str:
+  - 8ca1a7f61e2e262def087258691c8087fe61d29b65f13d858b951a26a4f60508
+  - 3b6bfd774b42f098c0497a6311825bf81ff76f204ec65127653a5dcf3337d3e3
+- Choice: 6
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>1 minute</checkbox>\n <checkbox id=1 checked=False>5\
+    \ minutes</checkbox>\n <checkbox id=2 checked=True>10 minutes</checkbox>\n <checkbox\
+    \ id=3 checked=False>30 minutes</checkbox>\n <checkbox id=4 checked=False>1 hour</checkbox>\n\
+    \ <checkbox id=5 checked=False>Custom</checkbox>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 2563cd0132df7babcf5f9118008656bfd16c87e3d799ad0d679adbe9d56e76d1
+  state_str: bebf6d12b8cf870d8061f56ca3ecab587c5749763900a472a6bac04d02a21603
+- Choice: 15
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors (Locked)</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <checkbox id=6 checked=True>Prevent phone from sleeping while the app is in fo</checkbox>
+
+    <checkbox id=7 checked=True>Start week on Sunday</checkbox>
+
+    <p id=8>ALARM TAB</p>
+
+    <button id=9>Max reminder duration<br>5 minutes</button>
+
+    <checkbox id=10 checked=True>Increase volume gradually</checkbox>
+
+    <checkbox id=11 checked=True>Always use same snooze time</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=15>Max reminder duration<br>1 minute</button>
+
+    <button id=13>Snooze time<br>10 minutes</button>
+
+    <p id=14>TIMER TAB</p>'
+  new_state_str: c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3
+  state_str:
+  - 8ca1a7f61e2e262def087258691c8087fe61d29b65f13d858b951a26a4f60508
+  - 3b6bfd774b42f098c0497a6311825bf81ff76f204ec65127653a5dcf3337d3e3
+- Choice: 6
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>1 minute</checkbox>\n <checkbox id=1 checked=False>5\
+    \ minutes</checkbox>\n <checkbox id=2 checked=False>10 minutes</checkbox>\n <checkbox\
+    \ id=3 checked=False>30 minutes</checkbox>\n <checkbox id=4 checked=False>1 hour</checkbox>\n\
+    \ <checkbox id=5 checked=False>Custom</checkbox>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 88b83f316a333199154fb1ad50c83943aea478deaf68b4f778cbfd3e257f7713
+  state_str: c56a8a0919c5035694ed90b4cc625969edb4813637cedc2072639b00f1dbf6c4
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors (Locked)</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <checkbox id=6 checked=True>Prevent phone from sleeping while the app is in fo</checkbox>
+
+    <checkbox id=7 checked=True>Start week on Sunday</checkbox>
+
+    <p id=8>ALARM TAB</p>
+
+    <button id=9>Max reminder duration<br>5 minutes</button>
+
+    <checkbox id=10 checked=True>Increase volume gradually</checkbox>
+
+    <checkbox id=11 checked=True>Always use same snooze time</checkbox>
+
+    <button id=12>go back</button>
+
+    <button id=15>Max reminder duration<br>1 minute</button>
+
+    <button id=13>Snooze time<br>10 minutes</button>
+
+    <p id=14>TIMER TAB</p>'
+  new_state_str: c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3
+  state_str:
+  - 8ca1a7f61e2e262def087258691c8087fe61d29b65f13d858b951a26a4f60508
+  - 3b6bfd774b42f098c0497a6311825bf81ff76f204ec65127653a5dcf3337d3e3
+- Choice: 4
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>05:00</button>\n <checkbox id=1 checked=False>Vibrate</checkbox>\n\
+    \ <button id=2>Default (Cesium)</button>\n <input id=3 >Label</input>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: e8d6ea2d2c622928441bd48f7d265f64d14c26665a18fdd92d2535e87abe4062
+  state_str: 52065d7b3b7e00f3c0dfb9a3e7fc2a80485cf725cab68b5ba7dee658a0dcc7bf
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 6
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=5>Clock</p>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <button id=8>Timer</button>
+
+    <button id=9>go back</button>'
+  new_state_str: b2ddbbfba7219a3fc8de3343b42be3211aa9902802bbb7b8c1f0149e06210499
+  state_str:
+  - 76fca088bb3a7bc73f0502fdbce1da43d3df03dd1f42e5850d1784319a8f21d3
+  - 76fca088bb3a7bc73f0502fdbce1da43d3df03dd1f42e5850d1784319a8f21d3
+- Choice: 4
+  Input: 'null'
+  State: '<button id=0 text=''Sort by''></button>
+
+    <button id=1 text=''More apps from us''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''About''></button>
+
+    <button id=4>7:00 am<br>Mon, Tue, Wed, Thu, Fri</button>
+
+    <button id=5>9:00 am<br>Sun, Sat</button>
+
+    <button id=6>Clock</button>
+
+    <p id=7>Alarm</p>
+
+    <button id=8>Stopwatch</button>
+
+    <button id=9>Timer</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d
+  state_str:
+  - 9c8b7368c467d8fbe3e7eb2c100ef13cc72a98fccaaf829837c42bc9d7e2ed66
+- Choice: 9
+  Input: 'null'
+  State: " <button id=1>S</button>\n <button id=2>M</button>\n <button id=3>T</button>\n\
+    \ <button id=4>W</button>\n <button id=5>T</button>\n <button id=6>F</button>\n\
+    \ <button id=7>S</button>\n <checkbox id=8 checked=False>Vibrate</checkbox>\n\
+    \ <button id=9>Default (Cesium)</button>\n <input id=10 >Label</input>\n <button\
+    \ id=11>Cancel</button>\n <button id=12>OK</button>\n <button id=13>go back</button>"
+  new_state_str: 9d99b0a713bd7cc17a913f7a8127df984fec4d4a9a8e7676f4891f144b126986
+  state_str: 7de92aa931ba8d78196718540fe5be35811650e2b747761270102d1e46452cc0
+- Choice: 14
+  Input: 'null'
+  State: '<p id=0>Your sounds</p>
+
+    <checkbox id=1 checked=False>Add a new sound</checkbox>
+
+    <p id=2>System sounds</p>
+
+    <checkbox id=3 checked=False>No sound</checkbox>
+
+    <checkbox id=4 checked=False>Argon</checkbox>
+
+    <checkbox id=5 checked=False>Barium</checkbox>
+
+    <checkbox id=6 checked=False>BeeBeep Alarm</checkbox>
+
+    <checkbox id=7 checked=False>Beep-Beep-Beep Alarm</checkbox>
+
+    <checkbox id=8 checked=False>Buzzer Alarm</checkbox>
+
+    <checkbox id=9 checked=False>Carbon</checkbox>
+
+    <checkbox id=10 checked=False>Cesium</checkbox>
+
+    <checkbox id=11 checked=False>Fermium</checkbox>
+
+    <checkbox id=12 checked=False>Hassium</checkbox>
+
+    <button id=13>Cancel</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Helium</checkbox>
+
+    <checkbox id=17 checked=False>Krypton</checkbox>
+
+    <checkbox id=18 checked=False>Neon</checkbox>
+
+    <checkbox id=19 checked=False>Neptunium</checkbox>
+
+    <checkbox id=20 checked=False>Nobelium</checkbox>
+
+    <checkbox id=21 checked=False>Osmium</checkbox>
+
+    <checkbox id=22 checked=False>Oxygen</checkbox>
+
+    <checkbox id=23 checked=False>Piezo Alarm</checkbox>
+
+    <checkbox id=24 checked=False>Platinum</checkbox>
+
+    <checkbox id=25 checked=False>Plutonium</checkbox>
+
+    <checkbox id=26 checked=False>Rooster Alarm</checkbox>
+
+    <checkbox id=27 checked=False>Scandium</checkbox>'
+  new_state_str: c4814a6207d0182dff9710e56ac693646b3324b789ee67584d011088e91cd1c4
+  state_str:
+  - c97dc69fc9a1979a568e4672538159b088d97285c348900e976dbbd3de95421e
+  - 208a204944fcbdfe63a93248898775ae1728988a873017f7ad467481f234b683
+  - 0cfc017ab6981f7e85302361b3bb2801deb271f9f75666000af0ccbc7b0e2316
+- Choice: 11
+  Input: 'null'
+  State: " <button id=1>S</button>\n <button id=2>M</button>\n <button id=3>T</button>\n\
+    \ <button id=4>W</button>\n <button id=5>T</button>\n <button id=6>F</button>\n\
+    \ <button id=7>S</button>\n <checkbox id=8 checked=False>Vibrate</checkbox>\n\
+    \ <button id=9>Default (Cesium)</button>\n <input id=10 >Label</input>\n <button\
+    \ id=11>Cancel</button>\n <button id=12>OK</button>\n <button id=13>go back</button>"
+  new_state_str: 9d99b0a713bd7cc17a913f7a8127df984fec4d4a9a8e7676f4891f144b126986
+  state_str: 7de92aa931ba8d78196718540fe5be35811650e2b747761270102d1e46452cc0
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Sort by''></button>
+
+    <button id=1 text=''More apps from us''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''About''></button>
+
+    <button id=4>7:00 am<br>Mon, Tue, Wed, Thu, Fri</button>
+
+    <button id=5>9:00 am<br>Sun, Sat</button>
+
+    <button id=6>Clock</button>
+
+    <p id=7>Alarm</p>
+
+    <button id=8>Stopwatch</button>
+
+    <button id=9>Timer</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d
+  state_str:
+  - 9c8b7368c467d8fbe3e7eb2c100ef13cc72a98fccaaf829837c42bc9d7e2ed66
+- Choice: 9
+  Input: 'null'
+  State: "<button id=0>9:00 am</button>\n <button id=1>S</button>\n <button id=2>M</button>\n\
+    \ <button id=3>T</button>\n <button id=4>W</button>\n <button id=5>T</button>\n\
+    \ <button id=6>F</button>\n <button id=7>S</button>\n <checkbox id=8 checked=False>Vibrate</checkbox>\n\
+    \ <button id=9>Default (Cesium)</button>\n <input id=10 >Label</input>\n <button\
+    \ id=11>Cancel</button>\n <button id=12>OK</button>\n <button id=13>go back</button>"
+  new_state_str: f909564be197db0f7e5de120ffc5bdecd6a0dec748e1305ad874d86cb3a6dcb4
+  state_str: 7de92aa931ba8d78196718540fe5be35811650e2b747761270102d1e46452cc0
+- Choice: 15
+  Input: 'null'
+  State: '<p id=0>Your sounds</p>
+
+    <checkbox id=1 checked=False>Add a new sound</checkbox>
+
+    <p id=2>System sounds</p>
+
+    <checkbox id=3 checked=False>No sound</checkbox>
+
+    <checkbox id=4 checked=False>Argon</checkbox>
+
+    <checkbox id=5 checked=False>Barium</checkbox>
+
+    <checkbox id=6 checked=False>BeeBeep Alarm</checkbox>
+
+    <checkbox id=7 checked=False>Beep-Beep-Beep Alarm</checkbox>
+
+    <checkbox id=8 checked=False>Buzzer Alarm</checkbox>
+
+    <checkbox id=9 checked=False>Carbon</checkbox>
+
+    <checkbox id=10 checked=False>Cesium</checkbox>
+
+    <checkbox id=11 checked=False>Fermium</checkbox>
+
+    <checkbox id=12 checked=False>Hassium</checkbox>
+
+    <button id=13>Cancel</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Helium</checkbox>
+
+    <checkbox id=17 checked=False>Krypton</checkbox>
+
+    <checkbox id=18 checked=False>Neon</checkbox>
+
+    <checkbox id=19 checked=False>Neptunium</checkbox>
+
+    <checkbox id=20 checked=False>Nobelium</checkbox>
+
+    <checkbox id=21 checked=False>Osmium</checkbox>
+
+    <checkbox id=22 checked=False>Oxygen</checkbox>
+
+    <checkbox id=23 checked=False>Piezo Alarm</checkbox>
+
+    <checkbox id=24 checked=False>Platinum</checkbox>
+
+    <checkbox id=25 checked=False>Plutonium</checkbox>
+
+    <checkbox id=26 checked=False>Rooster Alarm</checkbox>
+
+    <checkbox id=27 checked=False>Scandium</checkbox>'
+  new_state_str: c4814a6207d0182dff9710e56ac693646b3324b789ee67584d011088e91cd1c4
+  state_str:
+  - c97dc69fc9a1979a568e4672538159b088d97285c348900e976dbbd3de95421e
+  - 4cd5301da90551cc860005403c85fad49d9b7bdb58c874593456de41b2536228
+  - 0cfc017ab6981f7e85302361b3bb2801deb271f9f75666000af0ccbc7b0e2316
+- Choice: 11
+  Input: 'null'
+  State: "<button id=0>9:00 am</button>\n <button id=1>S</button>\n <button id=2>M</button>\n\
+    \ <button id=3>T</button>\n <button id=4>W</button>\n <button id=5>T</button>\n\
+    \ <button id=6>F</button>\n <button id=7>S</button>\n <checkbox id=8 checked=False>Vibrate</checkbox>\n\
+    \ <button id=9>Default (Cesium)</button>\n <input id=10 >Label</input>\n <button\
+    \ id=11>Cancel</button>\n <button id=12>OK</button>\n <button id=13>go back</button>"
+  new_state_str: f909564be197db0f7e5de120ffc5bdecd6a0dec748e1305ad874d86cb3a6dcb4
+  state_str: 7de92aa931ba8d78196718540fe5be35811650e2b747761270102d1e46452cc0
+- Choice: 8
+  Input: 'null'
+  State: '<button id=0 text=''Sort by''></button>
+
+    <button id=1 text=''More apps from us''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''About''></button>
+
+    <button id=4>7:00 am<br>Mon, Tue, Wed, Thu, Fri</button>
+
+    <button id=5>9:00 am<br>Sun, Sat</button>
+
+    <button id=6>Clock</button>
+
+    <p id=7>Alarm</p>
+
+    <button id=8>Stopwatch</button>
+
+    <button id=9>Timer</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d
+  state_str:
+  - 9c8b7368c467d8fbe3e7eb2c100ef13cc72a98fccaaf829837c42bc9d7e2ed66
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>0.0</button>
+
+    <button id=4>Clock</button>
+
+    <button id=5>Alarm</button>
+
+    <p id=6>Stopwatch</p>
+
+    <button id=7>Timer</button>
+
+    <button id=8>go back</button>'
+  new_state_str: b21791a8bb89972e81e8b9d3e4ddf93de440716d1c87b9d042f40d346f48079c
+  state_str:
+  - cae6535c5663b79fb119add55cab7370e053d7b9e772e12dcd662843bc94e58c
+- Choice: 6
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 9
+  Input: 'null'
+  State: '<button id=0 text=''Sort by''></button>
+
+    <button id=1 text=''More apps from us''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''About''></button>
+
+    <button id=4>7:00 am<br>Mon, Tue, Wed, Thu, Fri</button>
+
+    <button id=5>9:00 am<br>Sun, Sat</button>
+
+    <button id=6>Clock</button>
+
+    <p id=7>Alarm</p>
+
+    <button id=8>Stopwatch</button>
+
+    <button id=9>Timer</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d
+  state_str:
+  - 9c8b7368c467d8fbe3e7eb2c100ef13cc72a98fccaaf829837c42bc9d7e2ed66
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>0.0</button>
+
+    <button id=4>Clock</button>
+
+    <button id=5>Alarm</button>
+
+    <p id=6>Stopwatch</p>
+
+    <button id=7>Timer</button>
+
+    <button id=8>go back</button>'
+  new_state_str: b21791a8bb89972e81e8b9d3e4ddf93de440716d1c87b9d042f40d346f48079c
+  state_str:
+  - cae6535c5663b79fb119add55cab7370e053d7b9e772e12dcd662843bc94e58c
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>05:00</button>\n <checkbox id=1 checked=False>Vibrate</checkbox>\n\
+    \ <button id=2>Default (Cesium)</button>\n <input id=3 >Label</input>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: e8d6ea2d2c622928441bd48f7d265f64d14c26665a18fdd92d2535e87abe4062
+  state_str: 52065d7b3b7e00f3c0dfb9a3e7fc2a80485cf725cab68b5ba7dee658a0dcc7bf
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>05:00</button>\n <checkbox id=1 checked=False>Vibrate</checkbox>\n\
+    \ <button id=2>Default (Cesium)</button>\n <input id=3 >Label</input>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: e8d6ea2d2c622928441bd48f7d265f64d14c26665a18fdd92d2535e87abe4062
+  state_str: 52065d7b3b7e00f3c0dfb9a3e7fc2a80485cf725cab68b5ba7dee658a0dcc7bf
+- Choice: 7
+  Input: 'null'
+  State: "<input id=0 >00</input>\n <p id=1>:</p>\n <input id=2 >05</input>\n <p id=3>:</p>\n\
+    \ <input id=4 >00</input>\n <button id=5>Cancel</button>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: f4f8a01c4da0c6a7814b8b426e7de3e913be221bbc8d3de95e0ccc2be9af9e48
+  state_str: 4fb36569ea711bdf70996bc7b46fa0d82db1666e208fa104cc15f83a29e9a2ea
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>05:00</button>\n <checkbox id=1 checked=False>Vibrate</checkbox>\n\
+    \ <button id=2>Default (Cesium)</button>\n <input id=3 >Label</input>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: e8d6ea2d2c622928441bd48f7d265f64d14c26665a18fdd92d2535e87abe4062
+  state_str: 52065d7b3b7e00f3c0dfb9a3e7fc2a80485cf725cab68b5ba7dee658a0dcc7bf
+- Choice: 15
+  Input: 'null'
+  State: '<p id=0>Your sounds</p>
+
+    <checkbox id=1 checked=False>Add a new sound</checkbox>
+
+    <p id=2>System sounds</p>
+
+    <checkbox id=3 checked=False>No sound</checkbox>
+
+    <checkbox id=4 checked=False>Argon</checkbox>
+
+    <checkbox id=5 checked=False>Barium</checkbox>
+
+    <checkbox id=6 checked=False>BeeBeep Alarm</checkbox>
+
+    <checkbox id=7 checked=False>Beep-Beep-Beep Alarm</checkbox>
+
+    <checkbox id=8 checked=False>Buzzer Alarm</checkbox>
+
+    <checkbox id=9 checked=False>Carbon</checkbox>
+
+    <checkbox id=10 checked=False>Cesium</checkbox>
+
+    <checkbox id=11 checked=False>Fermium</checkbox>
+
+    <checkbox id=12 checked=False>Hassium</checkbox>
+
+    <button id=13>Cancel</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Helium</checkbox>
+
+    <checkbox id=17 checked=False>Krypton</checkbox>
+
+    <checkbox id=18 checked=False>Neon</checkbox>
+
+    <checkbox id=19 checked=False>Neptunium</checkbox>
+
+    <checkbox id=20 checked=False>Nobelium</checkbox>
+
+    <checkbox id=21 checked=False>Osmium</checkbox>
+
+    <checkbox id=22 checked=False>Oxygen</checkbox>
+
+    <checkbox id=23 checked=False>Piezo Alarm</checkbox>
+
+    <checkbox id=24 checked=False>Platinum</checkbox>
+
+    <checkbox id=25 checked=False>Plutonium</checkbox>
+
+    <checkbox id=26 checked=False>Rooster Alarm</checkbox>
+
+    <checkbox id=27 checked=False>Scandium</checkbox>'
+  new_state_str: c4814a6207d0182dff9710e56ac693646b3324b789ee67584d011088e91cd1c4
+  state_str:
+  - c97dc69fc9a1979a568e4672538159b088d97285c348900e976dbbd3de95421e
+  - 208a204944fcbdfe63a93248898775ae1728988a873017f7ad467481f234b683
+  - 0cfc017ab6981f7e85302361b3bb2801deb271f9f75666000af0ccbc7b0e2316
+- Choice: -1
+  Input: 'null'
+  State: "<button id=0>05:00</button>\n <checkbox id=1 checked=False>Vibrate</checkbox>\n\
+    \ <button id=2>Default (Cesium)</button>\n <input id=3 >Label</input>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: e8d6ea2d2c622928441bd48f7d265f64d14c26665a18fdd92d2535e87abe4062
+  state_str: 52065d7b3b7e00f3c0dfb9a3e7fc2a80485cf725cab68b5ba7dee658a0dcc7bf
+step_num: 27
+task_name: utg

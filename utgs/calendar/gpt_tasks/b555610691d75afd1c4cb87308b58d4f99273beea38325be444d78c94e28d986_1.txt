@@ -1,0 +1,1 @@
+Customize colors of the app interface, including theme, text color, background color, and primary color. Apply the colors to all Simple Apps. Choose between light, dark, dark red, black & white, or custom color options.

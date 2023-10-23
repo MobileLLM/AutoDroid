@@ -1,0 +1,1001 @@
+records:
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''About''></button>
+
+    <button id=1 text=''More options''></button>
+
+    <p id=2>COLOR CUSTOMIZATION</p>
+
+    <button id=3>Customize colors (Locked)</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <p id=6>SHUTTER</p>
+
+    <checkbox id=7 checked=True>Shutter sound</checkbox>
+
+    <checkbox id=8 checked=False>Use volume buttons as shutter</checkbox>
+
+    <p id=9>SAVING</p>
+
+    <checkbox id=10 checked=True>Save photo exif metadata</checkbox>
+
+    <checkbox id=11 checked=True>Flip front camera photos horizontally</checkbox>
+
+    <button id=12>Save photos and videos to (Locked)<br>DCIM</button>
+
+    <button id=13>Photo compression quality<br>80%</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Capture mode<br>Minimize latency</button>'
+  new_state_str: be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f
+  state_str:
+  - f55f1d91388cb111d4a14a982462962845bf4fabda611f347376c4ee6609d74b
+  - 0e07f0e1d67a5715fae0d722eef47f9a0369d0a621087c1ebfa773c2bd449d0a
+- Choice: 11
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>100%</checkbox>\n <checkbox id=1 checked=False>95%</checkbox>\n\
+    \ <checkbox id=2 checked=False>90%</checkbox>\n <checkbox id=3 checked=False>85%</checkbox>\n\
+    \ <checkbox id=4 checked=True>80%</checkbox>\n <checkbox id=5 checked=False>75%</checkbox>\n\
+    \ <checkbox id=6 checked=False>70%</checkbox>\n <checkbox id=7 checked=False>65%</checkbox>\n\
+    \ <checkbox id=8 checked=False>60%</checkbox>\n <checkbox id=9 checked=False>55%</checkbox>\n\
+    \ <checkbox id=10 checked=False>50%</checkbox>\n <button id=11>go back</button>"
+  new_state_str: fc63633d276f5f311e9a772a8b4c25b0d386064b8b7d22520af1e43de47529b2
+  state_str: 6b99b6d35ddb3e5fb201fdb69970d61c1781dbd65a823517e9ccb88fdb465863
+- Choice: 15
+  Input: 'null'
+  State: '<button id=0 text=''About''></button>
+
+    <button id=1 text=''More options''></button>
+
+    <p id=2>COLOR CUSTOMIZATION</p>
+
+    <button id=3>Customize colors (Locked)</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <p id=6>SHUTTER</p>
+
+    <checkbox id=7 checked=True>Shutter sound</checkbox>
+
+    <checkbox id=8 checked=False>Use volume buttons as shutter</checkbox>
+
+    <p id=9>SAVING</p>
+
+    <checkbox id=10 checked=True>Save photo exif metadata</checkbox>
+
+    <checkbox id=11 checked=True>Flip front camera photos horizontally</checkbox>
+
+    <button id=12>Save photos and videos to (Locked)<br>DCIM</button>
+
+    <button id=13>Photo compression quality<br>80%</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Capture mode<br>Minimize latency</button>'
+  new_state_str: be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f
+  state_str:
+  - f55f1d91388cb111d4a14a982462962845bf4fabda611f347376c4ee6609d74b
+  - 0e07f0e1d67a5715fae0d722eef47f9a0369d0a621087c1ebfa773c2bd449d0a
+- Choice: 2
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Minimize latency</checkbox>\n <checkbox id=1\
+    \ checked=False>Maximize quality</checkbox>\n <button id=2>go back</button>"
+  new_state_str: f641a251595eb30fb76401f9d58e16b21a840b184c390915d35769c7b638e125
+  state_str: 803a373d3b144a9b122bcc69931cf803c13f0bc366c777c5b726e66184e5e754
+- Choice: 14
+  Input: 'null'
+  State: '<button id=0 text=''About''></button>
+
+    <button id=1 text=''More options''></button>
+
+    <p id=2>COLOR CUSTOMIZATION</p>
+
+    <button id=3>Customize colors (Locked)</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <p id=6>SHUTTER</p>
+
+    <checkbox id=7 checked=True>Shutter sound</checkbox>
+
+    <checkbox id=8 checked=False>Use volume buttons as shutter</checkbox>
+
+    <p id=9>SAVING</p>
+
+    <checkbox id=10 checked=True>Save photo exif metadata</checkbox>
+
+    <checkbox id=11 checked=True>Flip front camera photos horizontally</checkbox>
+
+    <button id=12>Save photos and videos to (Locked)<br>DCIM</button>
+
+    <button id=13>Photo compression quality<br>80%</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Capture mode<br>Minimize latency</button>'
+  new_state_str: be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f
+  state_str:
+  - f55f1d91388cb111d4a14a982462962845bf4fabda611f347376c4ee6609d74b
+  - 0e07f0e1d67a5715fae0d722eef47f9a0369d0a621087c1ebfa773c2bd449d0a
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Toggle\
+    \ the flashlight mode'></button>\n <button id=2 text='Resolution'></button>\n\
+    \ <button id=3 text='Settings'></button>\n <button id=4 text='Video'>Video</button>\n\
+    \ <p id=5 text='Photo'></p>\n <p id=6>Photo</p>\n <button id=7 text='Toggle front/back\
+    \ camera'></button>\n <button id=8 text='Shutter'></button>\n <button id=9 text='View\
+    \ last captured media'></button>\n <button id=10>go back</button>"
+  new_state_str: 6b487e7860b4bcc2b78505508b20891f3434e16e473a55e614b91c875249e809
+  state_str: 89ec00c5a4b58fb355df5679f98f56cc3100526ff698b73e551c5d21763061e5
+- Choice: 14
+  Input: 'null'
+  State: '<button id=0 text=''About''></button>
+
+    <button id=1 text=''More options''></button>
+
+    <p id=2>COLOR CUSTOMIZATION</p>
+
+    <button id=3>Customize colors (Locked)</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Purchase Simple Thank You</button>
+
+    <p id=6>SHUTTER</p>
+
+    <checkbox id=7 checked=True>Shutter sound</checkbox>
+
+    <checkbox id=8 checked=False>Use volume buttons as shutter</checkbox>
+
+    <p id=9>SAVING</p>
+
+    <checkbox id=10 checked=True>Save photo exif metadata</checkbox>
+
+    <checkbox id=11 checked=True>Flip front camera photos horizontally</checkbox>
+
+    <button id=12>Save photos and videos to (Locked)<br>DCIM</button>
+
+    <button id=13>Photo compression quality<br>80%</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Capture mode<br>Minimize latency</button>'
+  new_state_str: be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f
+  state_str:
+  - f55f1d91388cb111d4a14a982462962845bf4fabda611f347376c4ee6609d74b
+  - 0e07f0e1d67a5715fae0d722eef47f9a0369d0a621087c1ebfa773c2bd449d0a
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Toggle\
+    \ the flashlight mode'></button>\n <button id=2 text='Resolution'></button>\n\
+    \ <button id=3 text='Settings'></button>\n <button id=4 text='Video'>Video</button>\n\
+    \ <p id=5 text='Photo'></p>\n <p id=6>Photo</p>\n <button id=7 text='Toggle front/back\
+    \ camera'></button>\n <button id=8 text='Shutter'></button>\n <button id=9 text='View\
+    \ last captured media'></button>\n <button id=10>go back</button>"
+  new_state_str: 6b487e7860b4bcc2b78505508b20891f3434e16e473a55e614b91c875249e809
+  state_str: 89ec00c5a4b58fb355df5679f98f56cc3100526ff698b73e551c5d21763061e5
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Resolution'></button>\n <button id=1 text='Settings'></button>\n\
+    \ <p id=2 text='Video'></p>\n <p id=3>Video</p>\n <button id=4 text='Photo'>Photo</button>\n\
+    \ <button id=5 text='Toggle front/back camera'></button>\n <button id=6 text='Shutter'></button>\n\
+    \ <button id=7 text='View last captured media'></button>\n <button id=8>go back</button>"
+  new_state_str: de630b21122c64a3fe10ecfaed57c4f75aa0ccc034c0d4f0829a1eceee1cd316
+  state_str: c88f8bf3fd8ca79792a792e440299de099d26a2518c293226fd85a5aa21017fa
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Rotate right</button>\n <button id=1>Rotate left</button>\n\
+    \ <button id=2>Rotate by 180\xBA</button>\n <button id=3>go back</button>"
+  new_state_str: b85c0edc1b54705cf5f91dce3d464afe475ee6043af156be966ffc0fabc49582
+  state_str: 5ed1b12b6d9176e662558f882bbfa204f4fc0fcd2793168d90835cb88b1711ae
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Save as''></button>
+
+    <button id=2 text=''Rotate''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: 1c3d85795f30f7072b53f1c0021459dc742227f450e3f438ef74fc857a7015fe
+  state_str:
+  - 22eab9935f1bc623cac0ff9de250fc8b4923a528f2835877398dc962fece6e96
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Save as</p>\n <input id=1 >Internal/DCIM/</input>\n <input id=2\
+    \ >pic3</input>\n <input id=3 >jpg</input>\n <button id=4>Cancel</button>\n <button\
+    \ id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: 34c71e0a523c1ff4c2a477ffecb8038723d8c79322d8aa899f938f42a0ade947
+  state_str: de5bbe0ca175dda6eeea0091f2d15b99484c66812291397b4e18a53ea7db6b31
+- Choice: 8
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Save as''></button>
+
+    <button id=2 text=''Rotate''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: 1c3d85795f30f7072b53f1c0021459dc742227f450e3f438ef74fc857a7015fe
+  state_str:
+  - 22eab9935f1bc623cac0ff9de250fc8b4923a528f2835877398dc962fece6e96
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Rotate right</button>\n <button id=1>Rotate left</button>\n\
+    \ <button id=2>Rotate by 180\xBA</button>\n <button id=3>go back</button>"
+  new_state_str: b85c0edc1b54705cf5f91dce3d464afe475ee6043af156be966ffc0fabc49582
+  state_str: 5ed1b12b6d9176e662558f882bbfa204f4fc0fcd2793168d90835cb88b1711ae
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Save as''></button>
+
+    <button id=2 text=''Rotate''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: 1c3d85795f30f7072b53f1c0021459dc742227f450e3f438ef74fc857a7015fe
+  state_str:
+  - 22eab9935f1bc623cac0ff9de250fc8b4923a528f2835877398dc962fece6e96
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Save as</p>\n <input id=1 >Internal/DCIM/</input>\n <input id=2\
+    \ >pic3</input>\n <input id=3 >jpg</input>\n <button id=4>Cancel</button>\n <button\
+    \ id=5>OK</button>\n <button id=6>go back</button>"
+  new_state_str: 34c71e0a523c1ff4c2a477ffecb8038723d8c79322d8aa899f938f42a0ade947
+  state_str: de5bbe0ca175dda6eeea0091f2d15b99484c66812291397b4e18a53ea7db6b31
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>File \"pic3.jpg\" already exists. Overwrite?</p>\n <button id=1>No</button>\n\
+    \ <button id=2>Yes</button>\n <button id=3>go back</button>"
+  new_state_str: 32dbaff474d342fd8ca77a020b07dd99a3fc04fbb616bbc641d0d4524504d0a7
+  state_str: 73765dbc582bb346aebb2bc035b7e716e6c1729c2f718bc96af3fc8752bfd43a
+- Choice: 8
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 19
+  Input: 'null'
+  State: "<p id=0>Properties</p>\n <p id=1>Name</p>\n <p id=2>pic3.jpg</p>\n <p id=3>Path</p>\n\
+    \ <p id=4>/storage/emulated/0/DCIM</p>\n <p id=5>Size</p>\n <p id=6>61.5 kB</p>\n\
+    \ <p id=7>Resolution</p>\n <p id=8>1280 x 606 (0.8MP)</p>\n <p id=9>Last modified</p>\n\
+    \ <p id=10>30.06.2023, 12:15 PM</p>\n <p id=11>Date taken</p>\n <p id=12>30.06.2023,\
+    \ 12:15 PM</p>\n <p id=13>Camera</p>\n <p id=14>Google sdk_gphone_x86</p>\n <p\
+    \ id=15>EXIF</p>\n <p id=16>5.0mm  1/100s  ISO-100</p>\n <button id=17>GPS coordinates<br>0.0,\
+    \ 0.0</button>\n <button id=18>Remove EXIF</button>\n <button id=19>OK</button>\n\
+    \ <button id=20>go back</button>"
+  new_state_str: cc08f33bcb26b46c31defd9712cc902dc9c63c7ea5f6bf78c682b5f56631646c
+  state_str: 7f572f97229beda7ce7741a286c74289b1c56c0cba5014e640f480dadc9b5a71
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Rename</p>\n <input id=1 >pic3</input>\n <input id=2 >jpg</input>\n\
+    \ <button id=3>Cancel</button>\n <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 6c8e1a983c6456180e0e8c4c514aa3236dfe185cacca71a4c1c348ba9d9bab82
+  state_str: 9d672ebf4d7ba3a7d67275133752a576c1b0782ad6f471dc738821d70d669789
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Select destination</p>\n <button id=1>DCIM<br>6</button>\n <button\
+    \ id=2>Other folder</button>\n <button id=3>Cancel</button>\n <button id=4>OK</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: ae571e20fdff6720466325a2e400ba95cfa8709d8a6d312291e51667a17b4213
+  state_str: f197b9c538c1b26447b0175fbe3204faaf9d8e3718d1dc34cc11a97afdfa09dd
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Select destination</p>\n <button id=1>DCIM<br>6</button>\n <button\
+    \ id=2>Other folder</button>\n <button id=3>Cancel</button>\n <button id=4>OK</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: ae571e20fdff6720466325a2e400ba95cfa8709d8a6d312291e51667a17b4213
+  state_str: f197b9c538c1b26447b0175fbe3204faaf9d8e3718d1dc34cc11a97afdfa09dd
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Select a folder</p>\n <button id=1>Internal</button>\n <button id=2>>\
+    \ DCIM</button>\n <button id=3>pic1.jpg<br>61.4 kB</button>\n <button id=4>pic2.jpg<br>22.9\
+    \ kB</button>\n <button id=5>pic3.jpg<br>61.5 kB</button>\n <button id=6>video1.mp4<br>562.2\
+    \ kB</button>\n <button id=7>video2.mp4<br>46.4 MB</button>\n <button id=8>video3.mp4<br>7.9\
+    \ MB</button>\n <button id=9>Cancel</button>\n <button id=10>OK</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 36b957c9a6eae7a6c86933c9f6b9b384c0b5247c5767a8afe535816879658cb5
+  state_str: 400706dd9e290c421cad7f7742dfa2ace2ffb45c122ad3e560e8a8d5519cb453
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=True>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=False>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa
+  state_str: 2f92e2a72473dec647207c0fa93dbe9138269c84c1581b8e2a36290cd6289484
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>SD Card</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>1 item</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>0 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>0 items</button>
+
+    <button id=8>LOST.DIR<br>0 items</button>
+
+    <button id=9>Movies<br>0 items</button>
+
+    <button id=10>Music<br>0 items</button>
+
+    <button id=11>Notifications<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Pictures<br>0 items</button>
+
+    <button id=16>Podcasts<br>0 items</button>
+
+    <button id=17>Ringtones<br>0 items</button>
+
+    <p id=18 text=''handleImage''></p>'
+  new_state_str: f4e3bb56b18f61edcbc485302f7614a0c5ba2e590c7ce1e15e06c3272314ca1e
+  state_str:
+  - 018b55e91625d7d16a6380fe06091118e1c1a06768ad6c5826f69eb9706d95a2
+  - 6b8de8f566bcf947760a08eb302036aff2057235200cd89f30b5416b84b80e2c
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Add to Home screen</p>\n <p id=1>Touch & hold to place manually</p>\n\
+    \ <p id=2>pic3.jpg</p>\n <button id=4>Cancel</button>\n <button id=5>Add automatically</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 2ce0ce5ef5b07019e9729194e7323bdc87877c36b8a4cd55f2427edd27789449
+  state_str: 22eb3d544d6844e91f0a77b583e42a81f5ecea77c2ebbbfb87cd530beeec0419
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Change orientation</p>\n <button id=1>Force portrait</button>\n\
+    \ <button id=2>Force landscape</button>\n <button id=3>Use default orientation</button>\n\
+    \ <button id=4>go back</button>"
+  new_state_str: 3b13d8a611db53137d69c3ee8372b669241dbde6b3bf434a38222a30cfcf561e
+  state_str: cfeae6ad52a4630b739962894b321a5c37f14edc4169c1532a6b0fa833267333
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Expand handle'></button>\n <button id=1>Save as PDF</button>\n\
+    \ <button id=2 text='Summary, copies 1, paper size Letter'>Copies:<br>1<br>Paper\
+    \ size:<br>Letter</button>\n <button id=3 text='Page 1 of 1'>1/1</button>\n <button\
+    \ id=4 text='Save to PDF'></button>\n <button id=5>go back</button>"
+  new_state_str: d8dc4abb0e56e5f4a2054cebed843fab68f8accaf9b3302aefe20c7e5204846d
+  state_str: 7fa3771bee88f639da3e9e464083ddfc83bf5fec7b64f11f36f1031ababee1c5
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>Downloads</p>\n <p id=1>FILES IN DOWNLOADS</p>\n <button id=2 text='List\
+    \ view'></button>\n <button id=3 text='Show roots'></button>\n <p id=4>Downloads</p>\n\
+    \ <button id=5 text='New folder'></button>\n <button id=6 text='More options'></button>\n\
+    \ <p id=7>Diary.pdf</p>\n <p id=8>6.24 kB</p>\n <p id=9>Jun 30</p>\n <input id=10\
+    \ >pic3.jpg</input>\n <button id=11>SAVE</button>\n <button id=12>go back</button>"
+  new_state_str: 7dbda301e5283dc4e2bd19349c209d758878021484254956b28096bf83dfa517
+  state_str: b49a005093324b93a8f045ff1e370084a4743bc5198f4e394fdae582d40e579b
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Expand handle'></button>\n <button id=1>Save as PDF</button>\n\
+    \ <button id=2 text='Summary, copies 1, paper size Letter'>Copies:<br>1<br>Paper\
+    \ size:<br>Letter</button>\n <button id=3 text='Page 1 of 1'>1/1</button>\n <button\
+    \ id=4 text='Save to PDF'></button>\n <button id=5>go back</button>"
+  new_state_str: d8dc4abb0e56e5f4a2054cebed843fab68f8accaf9b3302aefe20c7e5204846d
+  state_str: 7fa3771bee88f639da3e9e464083ddfc83bf5fec7b64f11f36f1031ababee1c5
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 9
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 7
+  Input: 'null'
+  State: "<input id=0 >1280</input>\n <p id=1>:</p>\n <input id=2 >606</input>\n <input\
+    \ id=3 >Internal/DCIM/</input>\n <input id=4 >pic3</input>\n <input id=5 >jpg</input>\n\
+    \ <button id=6>Cancel</button>\n <button id=7>OK</button>\n <button id=8>go back</button>"
+  new_state_str: 05439376b08f3a4ec00debd52cc232b6c91e797fb80d5bf7d6a66a19f97a3e2c
+  state_str: 950c35c27b542949f4dcc289cf49c87a24f28bdbb2b204571855749e54f4242b
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>File \"pic3.jpg\" already exists. Overwrite?</p>\n <button id=1>No</button>\n\
+    \ <button id=2>Yes</button>\n <button id=3>go back</button>"
+  new_state_str: 32dbaff474d342fd8ca77a020b07dd99a3fc04fbb616bbc641d0d4524504d0a7
+  state_str: 73765dbc582bb346aebb2bc035b7e716e6c1729c2f718bc96af3fc8752bfd43a
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 11
+  Input: 'null'
+  State: "<button id=0>Rename</button>\n <button id=1>Hide</button>\n <button id=2>Copy\
+    \ to</button>\n <button id=3>Move to</button>\n <button id=4>Create shortcut</button>\n\
+    \ <button id=5>Open with</button>\n <button id=6>Set as</button>\n <button id=7>Change\
+    \ orientation</button>\n <button id=8>Print</button>\n <button id=9>Resize</button>\n\
+    \ <button id=10>Show on map</button>\n <button id=11>Slideshow</button>\n <button\
+    \ id=12>Settings</button>\n <button id=13>go back</button>"
+  new_state_str: 90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22
+  state_str: 627ab4f9b8075b2622088777274cd557b0332b45c7a65d1b4cb44a54992c35d4
+- Choice: 8
+  Input: 'null'
+  State: "<p id=0>Interval</p>\n <input id=1 >5</input>\n <button id=2>Animation<br>Slide</button>\n\
+    \ <checkbox id=3 checked=False>Include videos</checkbox>\n <checkbox id=4 checked=False>Include\
+    \ GIFs</checkbox>\n <checkbox id=5 checked=False>Random order</checkbox>\n <checkbox\
+    \ id=6 checked=False>Move backwards</checkbox>\n <checkbox id=7 checked=False>Loop\
+    \ slideshow</checkbox>\n <button id=8>Cancel</button>\n <button id=9>OK</button>\n\
+    \ <button id=10>go back</button>"
+  new_state_str: 33122048a244f8c47e311dd09b072b0e93656461a2388359aa9c570f3966d7e5
+  state_str: d196dd7b36e74d866cbe074ab96fb8cb18ce3611355f1c97f75e9fc554f7953d
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 7
+  Input: 'null'
+  State: '<p id=0>Edit with</p>
+
+    <button id=1>Gallery<br>Basic Editor</button>
+
+    <button id=2>Photos</button>
+
+    <button id=3>Draw</button>
+
+    <button id=4>Markup</button>
+
+    <button id=5>Just once</button>
+
+    <button id=6>Always</button>
+
+    <button id=7>go back</button>'
+  new_state_str: 56d9874580c990f0b25ed9f97f016ca4c96074345486857b324b273934397964
+  state_str:
+  - 9bbdc02dc343f620ede144001278e6ba330d9263d000668bcb3d10088a56c13a
+- Choice: 7
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to move \"pic3.jpg\" (252.7 kB) into the Recycle\
+    \ Bin?</p>\n <checkbox id=1 checked=False>Do not ask again in this session</checkbox>\n\
+    \ <button id=2>No</button>\n <button id=3>Yes</button>\n <button id=4>go back</button>"
+  new_state_str: 9204fffe58de3098a45867317f113f5217e9e0dc90b978efb2bc2b8b78ece344
+  state_str: a5aac7dfee71c7d70aef447ddf6b63093192125ee460daa90762940af91db84c
+- Choice: -1
+  Input: 'null'
+  State: '<p id=0>pic3.jpg</p>
+
+    <button id=1 text=''Rotate''></button>
+
+    <button id=2 text=''Properties''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4 text=''Toggle favorite''></button>
+
+    <button id=5 text=''Edit''></button>
+
+    <button id=6 text=''Share''></button>
+
+    <button id=7 text=''Delete''></button>
+
+    <button id=8>go back</button>'
+  new_state_str: f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1
+  state_str:
+  - 1d423634a7686aeb54dcd3e9084178d9176e4c73e2d71ccafb069c34f1aa46b0
+step_num: 67
+task_name: exploring

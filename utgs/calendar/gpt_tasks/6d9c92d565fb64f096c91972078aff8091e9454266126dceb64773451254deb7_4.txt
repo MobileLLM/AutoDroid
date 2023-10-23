@@ -1,0 +1,1 @@
+Edit the type of event, enter a title for the event, select regular event, choose a color for the event, cancel the changes, save the changes, enter the event details.

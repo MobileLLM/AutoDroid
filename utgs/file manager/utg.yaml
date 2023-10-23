@@ -1,0 +1,1672 @@
+records:
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1
+  state_str:
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=True>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=False>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa
+  state_str: 2f92e2a72473dec647207c0fa93dbe9138269c84c1581b8e2a36290cd6289484
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>SD Card</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>1 item</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>0 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>0 items</button>
+
+    <button id=11>LOST.DIR<br>0 items</button>
+
+    <button id=12>Movies<br>0 items</button>
+
+    <button id=13>Music<br>0 items</button>
+
+    <button id=14>Notifications</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Notifications<br>0 items</button>
+
+    <button id=20>Pictures<br>0 items</button>
+
+    <button id=21>Podcasts<br>0 items</button>
+
+    <button id=22>Ringtones<br>0 items</button>
+
+    <p id=23 text=''handleImage''></p>'
+  new_state_str: 5f85df70a940e359b72b4d31661621c0d94c5b998ad8e89651396c59162f3e69
+  state_str:
+  - 7b4686894d03be9d6730652feac61496c7d2c53d7632870d9bc44a4d6daa6a61
+  - 31b4426efe42e540bb6eeb7f823610698050f311b1094d9273e70ebdda9cc022
+  - 7b4686894d03be9d6730652feac61496c7d2c53d7632870d9bc44a4d6daa6a61
+  - 31b4426efe42e540bb6eeb7f823610698050f311b1094d9273e70ebdda9cc022
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=False>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=True>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 35eaf64d1ecc1be38d8ba6b606c51c8f981caee6862065502be6803f57796b58
+  state_str: 69f0e1d00536dbf68cd0a64d2e8cd945cf7d1ec662eb1ca3ec4eb18ea4e4dac2
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1
+  state_str:
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=True>Name</checkbox>\n <checkbox\
+    \ id=2 checked=False>Size</checkbox>\n <checkbox id=3 checked=False>Last modified</checkbox>\n\
+    \ <checkbox id=4 checked=False>Extension</checkbox>\n <checkbox id=5 checked=True>Ascending</checkbox>\n\
+    \ <checkbox id=6 checked=False>Descending</checkbox>\n <checkbox id=7 checked=True>Sort\
+    \ numeric parts by actual value</checkbox>\n <checkbox id=8 checked=False>Use\
+    \ for this folder only</checkbox>\n <button id=9>Cancel</button>\n <button id=10>OK</button>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: 09ad42473280bde683eb0eba19cf0fa1d6f9e5fee18da388335f9a12083addf9
+  state_str: 1b96b64f0c9169fcb5dab0ad688205673c7848445c53ba1bd261d0b8e883dded
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1
+  state_str:
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Change view type</button>\n <button id=1>Temporarily show hidden</button>\n\
+    \ <button id=2>Settings</button>\n <button id=3>About</button>\n <button id=4>go\
+    \ back</button>"
+  new_state_str: ce01d730ec0ae96e87e9bb5eecb040aef29009e196349116a85f3fcb5d492b95
+  state_str: 82da263807cbbbb1a894c2533925cc016ebe96355a5dcbe031862251886a01b4
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Grid</checkbox>\n <checkbox id=1 checked=True>List</checkbox>\n\
+    \ <checkbox id=2 checked=False>Use for this folder only</checkbox>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 3637082f8e47c215b0c148a7bcdcb7567e25c6ba14434360a2a28352f0d527ac
+  state_str: 8a53f4652f551f3f7150b8f59e6c5e9bf24eca7e1f12d07e59c62f2011099577
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1
+  state_str:
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+  - d79cfad652e218cd5a30b834bc83e933482c182c11318b890e0d68fbab50f65b
+  - 8398e99dc3c68bd08572f3eec91d2c64577bd3a1ab36824cd2555585c514ea6c
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Change view type</button>\n <button id=1>Temporarily show hidden</button>\n\
+    \ <button id=2>Settings</button>\n <button id=3>About</button>\n <button id=4>go\
+    \ back</button>"
+  new_state_str: ce01d730ec0ae96e87e9bb5eecb040aef29009e196349116a85f3fcb5d492b95
+  state_str: 82da263807cbbbb1a894c2533925cc016ebe96355a5dcbe031862251886a01b4
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>1 item</button>
+
+    <button id=12>Music<br>2 items</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>1 item</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 5b598302c601fcb9e3a4228f26c47319b71743c5688a5c70bbf67b0e5d789e5d
+  state_str:
+  - 3ebda023fa9ee1a01a44a4e0d968628ac6f945137a6ddde3a01a822c4abbd0d5
+  - d6b5f20188fe2e3d2ea9f73e44527fb1c32f7b34c6e8a25200009c9ea562de12
+  - 3ebda023fa9ee1a01a44a4e0d968628ac6f945137a6ddde3a01a822c4abbd0d5
+  - d6b5f20188fe2e3d2ea9f73e44527fb1c32f7b34c6e8a25200009c9ea562de12
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Change view type</button>\n <button id=1>Stop showing hidden\
+    \ media</button>\n <button id=2>Settings</button>\n <button id=3>About</button>\n\
+    \ <button id=4>go back</button>"
+  new_state_str: 074d79dbfa564173dcbfa3085ec248d0e1e0a793ab7888e744daec90d7d9aefa
+  state_str: 0c41cb9fb90c43b89edaf0530def895202418ce398e22c6907c80a9c69c21f72
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Add to favorites''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>1 item</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>1 item</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: c18b02708f309ef60cddedae87d9c71a383096d5f96e2eb88eb25bef57110bdb
+  state_str:
+  - 38cd7243ebf35ef8dce77c91dbedf750de3c341ebb23f3e541f0ac1d2efc7b0a
+  - d24f181a94f038286f4ed17bf21e34222ec71e0dd9659ab98824de7653f27cd7
+  - 38cd7243ebf35ef8dce77c91dbedf750de3c341ebb23f3e541f0ac1d2efc7b0a
+  - d24f181a94f038286f4ed17bf21e34222ec71e0dd9659ab98824de7653f27cd7
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Change view type</button>\n <button id=1>Temporarily show hidden</button>\n\
+    \ <button id=2>Settings</button>\n <button id=3>About</button>\n <button id=4>go\
+    \ back</button>"
+  new_state_str: ce01d730ec0ae96e87e9bb5eecb040aef29009e196349116a85f3fcb5d492b95
+  state_str: 82da263807cbbbb1a894c2533925cc016ebe96355a5dcbe031862251886a01b4
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 4
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Manage favorites</p>\n <button id=1 text='Add favorites'></button>\n\
+    \ <p id=2>You can add frequently used folders to favorites for easy access from\
+    \ anywhere.</p>\n <button id=3>Add favorites</button>\n <button id=4>go back</button>"
+  new_state_str: 5840449ae6d73572532a6ba428d6fe35cdd478a756a8b99cab1d82331ffa7882
+  state_str: 84676ee2bdb8fb7be2370184dfe6bbb06fc73ac75f68866de0abe694c85a8ce4
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>1 item</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Podcasts<br>0 items</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=18>screen_2023-06-30_143638.png<br>0 B</button>
+
+    <p id=19 text=''handleImage''></p>'
+  new_state_str: 439da42741fa3e717568b85f7850d504c6e01288f51f6e8036e63fc0cf7da179
+  state_str:
+  - 98b951ce04ed3308764e9a2e9e04c53e41fe18b872892ae1ae1eea535e414ba6
+  - 5c510586212f3ab1289430a98059f590bfdd058ac6c15907834b118893d9b67e
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Manage favorites</p>\n <button id=1 text='Add favorites'></button>\n\
+    \ <button id=2>/storage/emulated/0/Alarms</button>\n <button id=3>go back</button>"
+  new_state_str: 6cf7c91d003fcc81ad7ae36f918f88dac3f90a26881b6ffb602a96c328465530
+  state_str: c5e1867f1fc2398d1f20f75c4a21718b94c2fb880337be12afbc214b2bd010ac
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Files</checkbox>\n <checkbox id=1 checked=True>Recent\
+    \ files</checkbox>\n <checkbox id=2 checked=True>Storage analysis</checkbox>\n\
+    \ <button id=3>Cancel</button>\n <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 4b2486a9b05799e480bffa2dd5b2726a99b13c05d15dd8141ee0c97c18ca014e
+  state_str: 8daf94fa57e84229138f7b35b831fde3fcd371a90a4bfef6b7f0dc3859398541
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 9
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>16.02.2021</checkbox>\n <checkbox id=1 checked=False>16/02/2021</checkbox>\n\
+    \ <checkbox id=2 checked=False>02/16/2021</checkbox>\n <checkbox id=3 checked=False>16-02-2021</checkbox>\n\
+    \ <checkbox id=4 checked=False>02-16-2021</checkbox>\n <checkbox id=5 checked=False>2021-02-16</checkbox>\n\
+    \ <checkbox id=6 checked=False>16 February 2021</checkbox>\n <checkbox id=7 checked=False>February\
+    \ 16 2021</checkbox>\n <checkbox id=8 checked=False>Use 24-hour time format</checkbox>\n\
+    \ <button id=9>Cancel</button>\n <button id=10>OK</button>\n <button id=11>go\
+    \ back</button>"
+  new_state_str: e4bc83f77703f52d07cd5f9ca5fb500d16741aefd16d4f6f35002bd13525c940
+  state_str: be75927e1e9a42efc8df251b6b0d510ec1572269629fcc08399f712a2ff11f22
+- Choice: 7
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 4
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Small</checkbox>\n <checkbox id=1 checked=True>Medium</checkbox>\n\
+    \ <checkbox id=2 checked=False>Large</checkbox>\n <checkbox id=3 checked=False>Extra\
+    \ large</checkbox>\n <button id=4>go back</button>"
+  new_state_str: 67da643374d1ea3b0edd5022f9c3612822bdc41a9934c0307142479a64383462
+  state_str: 1dec41ff73a5ebd9e7967eb91880938e3a9781cc22884d3ad0d76be1da3bf334
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage favorites</button>
+
+    <button id=5>Manage shown tabs</button>
+
+    <button id=6>Change date and time format</button>
+
+    <button id=7>Font size<br>Medium</button>
+
+    <checkbox id=8 checked=True>Require pressing Back twice to leave the app</checkbox>
+
+    <p id=9>VISIBILITY</p>
+
+    <checkbox id=10 checked=False>Show hidden items</checkbox>
+
+    <p id=11>SCROLLING</p>
+
+    <checkbox id=12 checked=True>Enable pull-to-refresh from the top</checkbox>
+
+    <button id=13>go back</button>
+
+    <p id=14>FILE OPERATIONS</p>
+
+    <checkbox id=15 checked=True>Keep old last-modified value at file operations</checkbox>
+
+    <checkbox id=16 checked=False>Always skip delete confirmation dialog</checkbox>
+
+    <p id=17>SECURITY</p>
+
+    <checkbox id=18 checked=False>Password protect hidden item visibility</checkbox>
+
+    <checkbox id=19 checked=False>Password protect the whole application</checkbox>
+
+    <checkbox id=20 checked=False>Password protect file deletion and moving</checkbox>'
+  new_state_str: c4a58a4222bfd4700ca879d08f7876960a220a370bf5edf8e8ff0653f8eec119
+  state_str:
+  - 70988606db01d39202cebf33b6abc825f464816a34507f44d98bddb951ca66b1
+  - 4b5b164a448db8a931f268e14273f042759e8f227e61bfbdc94139abaeb60dc0
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>1 item</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>1 item</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 5bcebcc1cee04c2a0415014cf26401b0b4467a562fb3f5e318cacc8ba4f91491
+  state_str:
+  - 1ec66589c7e531d65be7ffac36375cad8b43e9ef02d579c955c1c0f9a546f6b9
+  - 0ca75d86039c851781bd715edac460a7c3c8f750acad7d6a229b594a1c1353cb
+  - 1ec66589c7e531d65be7ffac36375cad8b43e9ef02d579c955c1c0f9a546f6b9
+  - 0ca75d86039c851781bd715edac460a7c3c8f750acad7d6a229b594a1c1353cb
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Add to favorites</button>\n <button id=1>Change view type</button>\n\
+    \ <button id=2>Temporarily show hidden</button>\n <button id=3>Settings</button>\n\
+    \ <button id=4>About</button>\n <button id=5>go back</button>"
+  new_state_str: 8b40a95fe1e7224da81f89560a077c60e8661fbc915a0c2bf38e1d57bdda7033
+  state_str: ec9b7cb83b1187e67f4e105c60822eee8eccc8b6b368199505d0b19eb830f0d7
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>About</p>\n<p id=1>SUPPORT</p>\n<button id=2>Frequently asked questions</button>\n\
+    <button id=3>hello@simplemobiletools.com</button>\n<p id=4>HELP US</p>\n<button\
+    \ id=5>Contributors</button>\n<button id=6>Donate</button>\n<p id=7>SOCIAL</p>\n\
+    <button id=8>Facebook</button>\n<button id=9>GitHub</button>\n<button id=10>Reddit</button>\n\
+    <button id=11>Telegram</button>\n<button id=12>go back</button>\n<p id=13>OTHER</p>\n\
+    <button id=14>Website</button>\n<button id=15>Privacy policy</button>\n<button\
+    \ id=16>Third party licences</button>\n<button id=17>Version 6.15.3 Pro</button>\n\
+    <p id=18>Made with \u2764\uFE0F in Slovakia</p>"
+  new_state_str: 1d8286b17f94f5bf07df8ceef21e0ba0873e6305773febbf2ce55e60ac478e05
+  state_str:
+  - 9e872d9e8106b8559eda4685643675158b10c4ce89f51fea4ec7d8ac59969a4b
+  - 06176480828c0064930418f326e46a1a2450d419401d466d35e89ef57cc92caf
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>1 item</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>1 item</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 5bcebcc1cee04c2a0415014cf26401b0b4467a562fb3f5e318cacc8ba4f91491
+  state_str:
+  - 1ec66589c7e531d65be7ffac36375cad8b43e9ef02d579c955c1c0f9a546f6b9
+  - 0ca75d86039c851781bd715edac460a7c3c8f750acad7d6a229b594a1c1353cb
+  - 1ec66589c7e531d65be7ffac36375cad8b43e9ef02d579c955c1c0f9a546f6b9
+  - 0ca75d86039c851781bd715edac460a7c3c8f750acad7d6a229b594a1c1353cb
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Alarms</button>
+
+    <p id=6>Files</p>
+
+    <button id=7>Recents</button>
+
+    <button id=8>Storage</button>
+
+    <button id=9>go back</button>'
+  new_state_str: 71262a64331f707764ce0d709a393edaac06d3294d3562e8be34a788d8a7009a
+  state_str:
+  - 899041a44daf266d43242d8f8b08f8cd1ae5267f1a9025d99683ab99ebd3dabb
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 38902a216da96a101c158a6b56e89c5fca7ba0e4b155739737d9b9796b77af2c
+  state_str:
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+- Choice: 12
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Android</button>
+
+    <button id=6>data<br>0 items</button>
+
+    <button id=7>media<br>0 items</button>
+
+    <button id=8>obb<br>0 items</button>
+
+    <p id=9>Files</p>
+
+    <button id=10>Recents</button>
+
+    <button id=11>Storage</button>
+
+    <button id=12>go back</button>'
+  new_state_str: fe7c50196daca1d5d2b42bf6dd724322303a7675996f658c658709e309abbef7
+  state_str:
+  - e7292b1e904dce73c017e77198d7956a4adcda0fb0e3d152368683ab1f480af6
+- Choice: 8
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 38902a216da96a101c158a6b56e89c5fca7ba0e4b155739737d9b9796b77af2c
+  state_str:
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+- Choice: 15
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> DCIM</button>
+
+    <button id=6>pic1.jpg<br>61.4 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=7>pic2.jpg<br>22.9 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=8>pic3.jpg<br>61.6 kB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=9>video1.mp4<br>562.2 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=10>video2.mp4<br>46.4 MB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=11>video3.mp4<br>7.9 MB<br>30.06.2023, 12:15 PM</button>
+
+    <p id=12>Files</p>
+
+    <button id=13>Recents</button>
+
+    <button id=14>Storage</button>
+
+    <button id=15>go back</button>'
+  new_state_str: 090acd76b296d41d00f3ad7eb2a35f38a7be7184fd15fe91f471a5bb10fa5e93
+  state_str:
+  - d5a6f521d558e6294f25abbb77a79dd1efbdd44882e38f480088d265ba87493a
+- Choice: 10
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 38902a216da96a101c158a6b56e89c5fca7ba0e4b155739737d9b9796b77af2c
+  state_str:
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+- Choice: 10
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Download</button>
+
+    <button id=6>Diary.pdf<br>6.1 kB<br>30.06.2023, 12:22 PM</button>
+
+    <p id=7>Files</p>
+
+    <button id=8>Recents</button>
+
+    <button id=9>Storage</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 3c8870a8e4228344795e069617cb2230ce5a7ed5602a6974431d326b42317a4d
+  state_str:
+  - 549ef11bd7b6810ae97b44ad81e27d07feb25cdc45c161619e510480658b50b0
+- Choice: 12
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 38902a216da96a101c158a6b56e89c5fca7ba0e4b155739737d9b9796b77af2c
+  state_str:
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Music</button>
+
+    <button id=6>Recordings<br>2 items</button>
+
+    <p id=7>Files</p>
+
+    <button id=8>Recents</button>
+
+    <button id=9>Storage</button>
+
+    <button id=10>go back</button>'
+  new_state_str: a1113cbd2e3af7d7b16f34f5483f3b3e06e14cabe97bf3fc29125bbaf19d8c34
+  state_str:
+  - 0f6614503fb2d417b26dea1df2adaf998433d6c991180d41f4781b7661bdeed1
+- Choice: 12
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Music</button>
+
+    <button id=6>> Recordings</button>
+
+    <button id=7>test1.m4a<br>124 kB<br>30.06.2023, 12:26 PM</button>
+
+    <button id=8>test2.m4a<br>86.1 kB<br>30.06.2023, 12:26 PM</button>
+
+    <p id=9>Files</p>
+
+    <button id=10>Recents</button>
+
+    <button id=11>Storage</button>
+
+    <button id=12>go back</button>'
+  new_state_str: d837bde7507314623602f6bcd92350e6f5379304b6fb3570ee1981538a7c09a2
+  state_str:
+  - e73181c8e64738f3a8fba31abc5f74cfd16504b97f810cdaea331a310df96b07
+- Choice: 10
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to home folder''></button>
+
+    <button id=2 text=''Go to favorite''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>> Music</button>
+
+    <button id=6>Recordings<br>2 items</button>
+
+    <p id=7>Files</p>
+
+    <button id=8>Recents</button>
+
+    <button id=9>Storage</button>
+
+    <button id=10>go back</button>'
+  new_state_str: a1113cbd2e3af7d7b16f34f5483f3b3e06e14cabe97bf3fc29125bbaf19d8c34
+  state_str:
+  - 0f6614503fb2d417b26dea1df2adaf998433d6c991180d41f4781b7661bdeed1
+- Choice: 16
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Go to favorite''></button>
+
+    <button id=2 text=''Sort by''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Internal</button>
+
+    <button id=5>Alarms<br>0 items</button>
+
+    <button id=6>Android<br>3 items</button>
+
+    <button id=7>Audiobooks<br>0 items</button>
+
+    <button id=8>DCIM<br>6 items</button>
+
+    <button id=9>Documents<br>0 items</button>
+
+    <button id=10>Download<br>1 item</button>
+
+    <button id=11>Movies<br>0 items</button>
+
+    <button id=12>Music<br>1 item</button>
+
+    <button id=13>Notifications<br>0 items</button>
+
+    <button id=14>Pictures</button>
+
+    <p id=15>Files</p>
+
+    <button id=16>Recents</button>
+
+    <button id=17>Storage</button>
+
+    <button id=18>go back</button>
+
+    <button id=19>Pictures<br>0 items</button>
+
+    <button id=20>Podcasts<br>0 items</button>
+
+    <button id=21>Ringtones<br>0 items</button>
+
+    <button id=22>screen_2023-06-30_141247.png<br>16.1 kB<br>30.06.2023, 02:12 PM</button>
+
+    <button id=23>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>
+
+    <p id=24 text=''handleImage''></p>'
+  new_state_str: 38902a216da96a101c158a6b56e89c5fca7ba0e4b155739737d9b9796b77af2c
+  state_str:
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+  - b7c53d5990f46a43eeab5ad0c888f0216830759c877ff9dd0d6c54f2b9925707
+  - 417b4b7dca4bb4d681f40f195981f69696b4b90fd85ac61328b09c1e4c23c2ec
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Change view type''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>test1.m4a<br>124 kB<br>30.06.2023, 12:26 PM</button>
+
+    <button id=5>test2.m4a<br>86.1 kB<br>30.06.2023, 12:26 PM</button>
+
+    <button id=6>Diary.pdf<br>6.1 kB<br>30.06.2023, 12:22 PM</button>
+
+    <button id=7>pic1.jpg<br>61.4 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=8>pic2.jpg<br>22.9 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=9>video1.mp4<br>562.2 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=10>video2.mp4<br>46.4 MB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=11>video3.mp4<br>7.9 MB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=12>pic3.jpg<br>61.6 kB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=13>Files</button>
+
+    <p id=14>Recents</p>
+
+    <button id=15>Storage</button>
+
+    <button id=16>go back</button>'
+  new_state_str: 5204621d779fb844919c59cf8302ccadc294af0e1e261dfc839d0f93f17655d1
+  state_str:
+  - 00824701ebe504f403f989b36cd034ac8087e08885bf82e4146293a5aee33476
+- Choice: 7
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <p id=2>1x</p>\n <button id=3>00:10</button>\n\
+    \ <p id=4>test1</p>\n <p id=5><unknown></p>\n <button id=6 text='Play / Pause'></button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: b018617894cf5ffddf3d2ad488f5ff69733975dec42fd034fda2e65470812237
+  state_str: 88a9c9f511aea0b412c7d8715e0cbd4abfd57d514e787381618dc5da8775b347
+- Choice: 15
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Change view type''></button>
+
+    <button id=2 text=''Settings''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>test1.m4a<br>124 kB<br>30.06.2023, 12:26 PM</button>
+
+    <button id=5>test2.m4a<br>86.1 kB<br>30.06.2023, 12:26 PM</button>
+
+    <button id=6>Diary.pdf<br>6.1 kB<br>30.06.2023, 12:22 PM</button>
+
+    <button id=7>pic1.jpg<br>61.4 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=8>pic2.jpg<br>22.9 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=9>video1.mp4<br>562.2 kB<br>30.06.2023, 12:16 PM</button>
+
+    <button id=10>video2.mp4<br>46.4 MB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=11>video3.mp4<br>7.9 MB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=12>pic3.jpg<br>61.6 kB<br>30.06.2023, 12:15 PM</button>
+
+    <button id=13>Files</button>
+
+    <p id=14>Recents</p>
+
+    <button id=15>Storage</button>
+
+    <button id=16>go back</button>'
+  new_state_str: 5204621d779fb844919c59cf8302ccadc294af0e1e261dfc839d0f93f17655d1
+  state_str:
+  - 00824701ebe504f403f989b36cd034ac8087e08885bf82e4146293a5aee33476
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>5.3 GB<br>free<br>Total storage: 8 GB</button>
+
+    <button id=4>Images<br>145.9 kB</button>
+
+    <button id=5>Videos<br>55.4 MB</button>
+
+    <button id=6>Audio<br>210.1 kB</button>
+
+    <button id=7>Documents<br>6.1 kB</button>
+
+    <button id=8>Archives<br>0 B</button>
+
+    <button id=9>Others<br>0 B</button>
+
+    <button id=10>Files</button>
+
+    <button id=11>Recents</button>
+
+    <p id=12>Storage</p>
+
+    <button id=13>go back</button>'
+  new_state_str: 870f21b88a87e6bec061bb74eca3ba21afec483bf0ab8293b5ef72785f26911a
+  state_str:
+  - 4d4f2f9f54efddf3d8cf78c6f88f0412814b5bfcdd7a8f34923f34b6467d198a
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Storage</p>\n <button id=2\
+    \ text='Search settings'></button>\n <p id=3>DEVICE STORAGE</p>\n <button id=4>2.75\
+    \ GB<br>Total used of 8.00 GB</button>\n <button id=5>Internal shared storage<br>2.75\
+    \ GB used of 8.00 GB</button>\n <p id=6>PORTABLE STORAGE</p>\n <button id=7 text='Eject'>SDCARD<br>160\
+    \ kB used of 535 MB</button>\n <button id=8>go back</button>"
+  new_state_str: 74407343526c78cf16d46d0ab3324da1142b131374fca7ae1f7b1287b9ff28b4
+  state_str: a907cf9d4ad07eea7fbb9727169aa80a2f2d76f73871a3a4dba001761088037d
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>5.3 GB<br>free<br>Total storage: 8 GB</button>
+
+    <button id=4>Images<br>145.9 kB</button>
+
+    <button id=5>Videos<br>55.4 MB</button>
+
+    <button id=6>Audio<br>210.1 kB</button>
+
+    <button id=7>Documents<br>6.1 kB</button>
+
+    <button id=8>Archives<br>0 B</button>
+
+    <button id=9>Others<br>0 B</button>
+
+    <button id=10>Files</button>
+
+    <button id=11>Recents</button>
+
+    <p id=12>Storage</p>
+
+    <button id=13>go back</button>'
+  new_state_str: 870f21b88a87e6bec061bb74eca3ba21afec483bf0ab8293b5ef72785f26911a
+  state_str:
+  - 4d4f2f9f54efddf3d8cf78c6f88f0412814b5bfcdd7a8f34923f34b6467d198a
+- Choice: 7
+  Input: 'null'
+  State: "<p id=0>Images</p>\n <button id=1 text='Search'></button>\n <button id=2\
+    \ text='Sort by'></button>\n <button id=3 text='More options'></button>\n <button\
+    \ id=4>pic1.jpg<br>61.4 kB<br>30.06.2023, 12:16 PM</button>\n <button id=5>pic2.jpg<br>22.9\
+    \ kB<br>30.06.2023, 12:16 PM</button>\n <button id=6>pic3.jpg<br>61.6 kB<br>30.06.2023,\
+    \ 12:15 PM</button>\n <button id=7>go back</button>"
+  new_state_str: 1b22e4a9d8766634ec9f1b2542d2232168b8e4a3d80c7e6dcfb0e8b213933b0d
+  state_str: 24953e89bce71c62622489f680b0b498ae3f4c68df3110153f66ca18e3bf5bac
+- Choice: 13
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>5.3 GB<br>free<br>Total storage: 8 GB</button>
+
+    <button id=4>Images<br>145.9 kB</button>
+
+    <button id=5>Videos<br>55.4 MB</button>
+
+    <button id=6>Audio<br>210.1 kB</button>
+
+    <button id=7>Documents<br>6.1 kB</button>
+
+    <button id=8>Archives<br>0 B</button>
+
+    <button id=9>Others<br>0 B</button>
+
+    <button id=10>Files</button>
+
+    <button id=11>Recents</button>
+
+    <p id=12>Storage</p>
+
+    <button id=13>go back</button>'
+  new_state_str: 870f21b88a87e6bec061bb74eca3ba21afec483bf0ab8293b5ef72785f26911a
+  state_str:
+  - 4d4f2f9f54efddf3d8cf78c6f88f0412814b5bfcdd7a8f34923f34b6467d198a
+step_num: 55
+task_name: open screen_2023-06-30_141247.png with gallery, remember my choice

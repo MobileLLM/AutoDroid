@@ -1,0 +1,1 @@
+The function of this GUI screen is to: - Enter a query in the input field - Clear the entered query - Display a message indicating that no items were found.

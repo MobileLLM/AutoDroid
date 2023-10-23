@@ -1,0 +1,474 @@
+05f8de41ce1b0c123111ea9222baa9416ddd440d57599ff16b55009df43ffc0e:
+  18: '- Navigate up - Save the event - Enter the title of the event - Enter the location
+    of the event - Enter the description of the event - Turn off the all-day event
+    option - Select the date of the event (July 1, Saturday) - Select the time of
+    the event (12:00 PM) - Set a reminder for 10 minutes before the event - Add another
+    reminder for the event - Set the event reminder to non-recurring - Set the event
+    reminder to a regular event - Select the year for the event (2023) - Select the
+    date for the event (Saturday, July 1) - Select a specific day for the event (July
+    1, 2023) - Select a specific day for the event (July 2, 2023) - ... - Select a
+    specific day for the event (July 31, 2023) - Go to the previous month - Go to
+    the next month - Cancel creating the event - Confirm creating the event - Go back
+    to the previous screen - Turn off the reminder for the event - Set the reminder
+    for the start of the event - Set the reminder for 1 minute before the event -
+    Set the reminder for 5 minutes before the event - Set the reminder for 10 minutes
+    before the event (default) - Set the reminder for 30 minutes before the event
+    - Set the reminder for 1 hour before the event - Set a custom reminder for the
+    event - Set the event to non-recurring - Set the event to daily - Set the event
+    to weekly - Set the event to monthly - Set the event to yearly - Show holidays
+    on the calendar - Set the event as a regular event - Add a new type of event -
+    Enter a custom type of event (text input)'
+0dfcd2ff9939bb98a09aca5707c630569835c9f6d66e24ea1e2d8dc53229c7a6:
+  1: '- View the calendar in daily, weekly, monthly, or yearly format. - Display a
+    simple event list. - Collapse or expand the view. - Search for events. - Add holidays,
+    contact birthdays, and contact anniversaries. - Import events from an .ics file.
+    - Export events to an .ics file. - Access the settings and about sections. - Navigate
+    up to the previous screen. - Create a new event. - Save the event. - Enter a title,
+    location, and description for the event. - Toggle the all-day option for the event.
+    - Select the date and time for the event. - Set a reminder for the event. - Add
+    another reminder for the event. - Choose the repetition pattern for the event
+    (non-recurring or regular).'
+0fbb9314ecc2dc97537efa196c898becd9cc76bd2bde96ea0f569c03fc7be33d:
+  3: '- View the calendar - Search for events - Change the view - Access more options
+    - Select the month (July) - Create a new event - Go back - Switch to daily view
+    - Switch to weekly view - Switch to monthly view - Switch to yearly view - Display
+    a simple event list - Collapse the view - Search for items - Display a message
+    when no items are found - Add holidays to the calendar - Add contact birthdays
+    to the calendar - Add contact anniversaries to the calendar - Import events from
+    an .ics file - Export events to an .ics file - Access settings - Access information
+    about the app - Navigate up to the previous screen - Create a new event - Save
+    the event - Enter a title for the event - Enter a location for the event - Enter
+    a description for the event - Toggle the all-day option for the event - Select
+    the date for the event (July 1, Saturday) - Select the time for the event (12:00
+    PM) - Set a reminder for the event (10 minutes before) - Add another reminder
+    for the event - Set the event reminder to non-recurring - Set the event reminder
+    to a regular event'
+1d37b5a0628f5da09a91909ab5aa8fb175ef4f5e000c8e7b2baa06df4938b113:
+  13: '- Navigate up - Access settings - Customize colors - Manage event types - Toggle
+    24-hour time format - Toggle start week on Sunday - Toggle showing "What''s New"
+    on startup - Delete all events - Toggle vibrate on reminder notification - Set
+    reminder sound - Toggle always use same snooze time - Set snooze time - Toggle
+    CalDAV sync - Set start day in weekly view - Set end day in weekly view - Toggle
+    showing week numbers in monthly view - Toggle showing a grid in monthly view -
+    Toggle replacing event description with location in event lists - Set display
+    events from the past - Set widget font size - Customize colors (theme, text color,
+    background color, primary color) - Apply colors to all Simple Apps - Access event
+    types - Add a new event type - Access holidays event type - Access regular event
+    type - Confirm deletion of all events - Cancel deletion of all events - Set snooze
+    time in minutes - Set snooze time in hours - Set snooze time in days - Confirm
+    custom snooze time - Cancel custom snooze time - Set widget size to small - Set
+    widget size to medium - Set widget size to large - Access calendar search - Change
+    calendar view - Access more options - Select month (July) - Create a new event'
+1de405d94a0dc161d25004ddbf768abf707e415a63851c67ba42d90234788c52:
+  35: 'Create a new event with a title, location, and description. Specify whether
+    the event is an all-day event. Choose the date and time of the event. Set a reminder
+    for the event, with options for different time intervals. Add additional reminders
+    if desired. Select the repetition pattern for the event, including options for
+    non-recurring, daily, weekly, monthly, and yearly. Toggle the display of holidays.
+    Choose whether the event is a regular event or a custom event type. Add a new
+    event type if desired. Cancel or save the event. Switch to text input mode for
+    time input. Specify custom reminder intervals. '
+1f858da570d72fc2746e7cd21ac2951b72173dc7602f9d9e106fff093ce451d1:
+  2: Customize colors. Manage event types. Use 24-hour time format. Start week on
+    Sunday. Avoid showing What's New on startup. Delete all events. Vibrate on reminder
+    notification. Set reminder sound. Always use same snooze time. Set snooze time.
+    Enable CalDAV sync. Set start day at 07:00. Set end day at 23:00. Show week numbers.
+    Show a grid. Replace event description with location. Display events from the
+    past. Set widget font size. Set widget theme. Add a new event type. Manage holidays.
+    Manage regular events. Delete all events confirmation. Add a new sound. Set system
+    sound. Set custom sound. Set reminder snooze time. Set reminder snooze unit. Set
+    reminder snooze custom time. Set font size. Search for events. Change view. Access
+    more options. Navigate to July. Create a new event.
+2563cd0132df7babcf5f9118008656bfd16c87e3d799ad0d679adbe9d56e76d1:
+  6: '- Navigate up - Open settings - Customize colors - Manage event types - Use
+    24-hour time format OFF - Start week on Sunday ON - Avoid showing What''s New
+    on startup OFF - Delete all events - Set vibrate on reminder notification OFF
+    - Set reminder sound to Default (Pixie Dust) - Always use same snooze time ON
+    - Set snooze time to 10 minutes - Enable CalDAV sync OFF - Set start day at 07:00
+    - Set end day at 23:00 - Show week numbers OFF - Show a grid OFF - Replace event
+    description with location OFF - Display events from the past Never - Set font
+    size to Medium - Set theme to Dark - Customize text color - Customize background
+    color - Customize primary color - Apply colors to all Simple Apps - Add a new
+    event type - Add holidays event type - Add regular event type - Confirm deletion
+    of all events - Do not delete all events - Delete all events - Add a new sound
+    - Set system sound to No sound - Set system sound to Default (Pixie Dust) - Set
+    system sound to Adara - Set system sound to Aldebaran - Set system sound to Altair
+    - Set system sound to Alya - Set system sound to Antares - Set system sound to
+    Antimony - Set system sound to Arcturus - Set system sound to Argon - Cancel sound
+    selection - Confirm sound selection - Set system sound to Beat Box Android - Set
+    system sound to Bellatrix - Set system sound to Beryllium - Set system sound to
+    Betelgeuse - Set system sound to Caffeinated Rattlesnake - Set system sound to
+    Canopus - Set system sound to Capella - Set system sound to Captain''s Log - Set
+    system sound to Castor - Set system sound to Ceti Alpha - Set system sound to
+    Cobalt - Set system sound to Cricket - Set system sound to Dear Deer - Set system
+    sound to Deneb - Set system sound to Doink - Set system sound to Don''t Panic
+    - Set system sound to Drip - Set system sound to Electra - Set system sound to
+    Fluorine - Set system sound to Fomalhaut - Set system sound to Gallium - Set system
+    sound to Heaven - Set system sound to Helium - Set system sound to Highwire -
+    Set system sound to Hojus - Set system sound to Iridium - Set system sound to
+    Krypton - Set system sound to Kzurb Sonar - Set system sound to Lalande - Set
+    system sound to Look At Me - Set system sound to Merope - Set system sound to
+    Mira - Set system sound to Missed It - Set system sound to Moonbeam - Set system
+    sound to On The Hunt - Set system sound to Palladium - Set system sound to Pixie
+    Dust - Set system sound to Pizzicato - Set system sound to Plastic Pipe - Set
+    system sound to Polaris - Set system sound to Pollux - Set system sound to Procyon
+    - Set system sound to Proxima - Set system sound to Radon - Set system sound to
+    Regulus - Set system sound to Rubidium - Set system sound to Selenium - Set system
+    sound to Shaula - Set system sound to Sirius - Set system sound to Sirrah - Set
+    system sound to Space Seed - Set system sound to Spica - Set system sound to Strontium
+    - Set system sound to Syrma - Set reminder snooze time to minutes - Set reminder
+    snooze time to hours - Set reminder snooze time to days - Cancel reminder snooze
+    time selection - Set font size to Small - Set font size to Medium - Set font size
+    to Large - Open calendar search - Change calendar view - Open more options - Open
+    July calendar - Create a new event'
+26c75e39ef6829993b7623d3fba5f203bfb6b9bb5372a6cb912330f3b11d6693:
+  4: '- Navigate up - Add a new event type - View holidays - View regular events -
+    Add a new event type (regular event) - Customize colors - Manage event types -
+    Use 24-hour time format (off) - Start week on Sunday (on) - Avoid showing What''s
+    New on startup (off) - Delete all events - Set vibrate on reminder notification
+    (off) - Set reminder sound (default: Pixie Dust) - Always use same snooze time
+    (on) - Set snooze time (10 minutes) - Enable CalDAV sync (off) - Set start day
+    in weekly view (07:00) - Set end day in weekly view (23:00) - Show week numbers
+    in monthly view (off) - Show a grid in monthly view (off) - Replace event description
+    with location in event lists (off) - Display events from the past (never) - Set
+    widget font size (medium)'
+37d74d294f771243b96af3e6e82d1a7b7295b06891f76c69b80a96ed5d4f1930:
+  3: '- Navigate up - Access settings - Customize colors - Manage event types - Use
+    24-hour time format - Start week on Sunday - Avoid showing What''s New on startup
+    - Delete all events - Set vibrate on reminder notification - Set reminder sound
+    - Always use same snooze time - Set snooze time - Enable/disable CalDAV sync -
+    Set start day for weekly view - Set end day for weekly view - Show/hide week numbers
+    in monthly view - Show/hide a grid in monthly view - Replace event description
+    with location in event lists - Display events from the past - Adjust font size
+    - Customize theme colors - Add a new event type - Delete all events confirmation
+    (YES/NO) - Add a new sound - Select system sounds - Select custom sounds - Select
+    reminder sound (CANCEL/OK) - Select snooze time unit (minutes/hours/days) - Select
+    snooze time (CANCEL/OK) - Access calendar - Search events - Change view - Access
+    more options - Select month (July) - Create a new event'
+41fab8a8229a01a4c4c0872b6e5932eaf07f8213f9a950020253a3a4f0f484b3:
+  4: View the calendar Search for events Change the calendar view Access more options
+    View upcoming events Add new events Toggle between monthly view and simple event
+    list
+43ff20b2170ac83f282914166cb4a238dc44227ee2e1538042496fe067962d47:
+  3: '- Navigate up - Access settings - Customize colors - Manage event types - Use
+    24-hour time format ON/OFF - Start week on Sunday ON/OFF - Avoid showing What''s
+    New on startup ON/OFF - Delete all events - Set vibrate on reminder notification
+    ON/OFF - Set reminder sound to default (Pixie Dust) or choose a different sound
+    - Always use the same snooze time ON/OFF - Set snooze time to 10 minutes or choose
+    a different time - Enable/disable CalDAV sync - Set start day at 07:00 in weekly
+    view - Set end day at 23:00 in weekly view - Enable/disable showing week numbers
+    in monthly view - Enable/disable showing a grid in monthly view - Replace event
+    description with location ON/OFF - Display events from the past never/choose a
+    different option - Set font size to medium or choose a different size - Create
+    a new event with a title, location, description, and time - Set event as all-day
+    ON/OFF - Set event date to July 1 (Sat) - Set event time to 12:00 PM - Set reminder
+    time to 10 minutes before the event or add another reminder - Set event repetition
+    to non-recurring, daily, weekly, monthly, yearly - Set event type as regular or
+    choose a different type - Customize colors for the app theme, text, background,
+    and primary color - Apply colors to all Simple Apps - Add a new event type or
+    choose from existing types like Holidays - Confirm deletion of all events - Add
+    a new sound or choose from system sounds like Default (Pixie Dust) - Cancel or
+    save changes to sound settings - Choose a different sound option like Beat Box
+    Android or Bellatrix - Search for events - Change calendar view - Access more
+    options - Select a specific month, year, or date - Switch between previous and
+    next month - Select a specific day in the calendar - Switch between AM/PM time
+    format - View time options from 1 to 12 - Switch to text input mode for the time
+    input - Set event reminder to no reminder, at start, or a specific time before
+    the event - Set event repetition to no repetition, daily, weekly, monthly, yearly
+    - Set event type as Holidays, regular event, or add a new type - Enter a title
+    for the event'
+44320aacba99d74a471c8ea105cb386326fa93cf80b9334a4b9ae86181eebfbd:
+  3: '- View the calendar in daily, weekly, monthly, or yearly format - Show a simple
+    event list - Search for events - Change the view of the calendar - Access more
+    options - Collapse or expand the calendar view - Add holidays to the calendar
+    - Add contact birthdays and anniversaries to the calendar - Import events from
+    an .ics file - Export events to an .ics file - Access settings for the calendar
+    app - Get information about the app (About) - Navigate up to the previous screen
+    - Create a new event - Save the new event - Enter a title, location, and description
+    for the event - Set the event as an all-day event - Choose the date and time for
+    the event - Set a reminder for the event - Add another reminder for the event
+    - Set the event to have no repetition - Set the event as a regular event'
+4927876f7234d01f13659cbd78612b2d37be153f11f451ff6ed0a731a0aff240:
+  2: View the internal calendar or alarms. Cancel any ongoing action. Go back to the
+    previous screen. Access the calendar. Search for specific events. Change the view
+    of the calendar. Access more options. Navigate to the month of July. Create a
+    new event.
+5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3:
+  0: Select the countries for displaying their holidays or events.
+  1: Allow or deny Calendar app access to your contacts.
+  3: Allow Calendar to access photos, media, and files on your device. Allow access
+    to internal, alarms, Android, audiobooks, DCIM, documents, download, movies, music,
+    notifications, pictures, podcasts, ringtones. Select a file. Cancel the action.
+    Go back to the previous screen.
+  4: Select a folder from Internal, Alarms, Android, Audiobooks, DCIM, Documents,
+    Download, Movies, Music, Notifications, Pictures, Podcasts, Ringtones, or specific
+    files.
+  5: '- Navigate up - Customize colors - Manage event types - Use 24-hour time format
+    OFF - Start week on Sunday ON - Avoid showing What''s New on startup OFF - Delete
+    all events - Vibrate on reminder notification OFF - Reminder sound Default (Pixie
+    Dust) - Always use same snooze time ON - Snooze time 10 minutes - CalDAV sync
+    OFF - Start day at 07:00 - End day at 23:00 - Show week numbers OFF - Show a grid
+    OFF - Replace event description with location OFF - Display events from the past
+    Never - Font size Medium - Theme Dark - Text color - Background color - Primary
+    color - Apply colors to all Simple Apps - Add a new type - Holidays - Regular
+    event - NO (confirm deletion of all events) - YES (confirm deletion of all events)
+    - Add a new sound - No sound - Default (Pixie Dust) - Adara - Aldebaran - Altair
+    - Alya - Antares - Antimony - Arcturus - Argon - CANCEL (cancel sound selection)
+    - OK (confirm sound selection) - Beat Box Android - Bellatrix - Beryllium - Betelgeuse
+    - Caffeinated Rattlesnake - Canopus - Capella - Captain''s Log - Castor - Ceti
+    Alpha - Cobalt - Cricket - Dear Deer - Deneb - Doink - Don''t Panic - Drip - Electra
+    - Fluorine - Fomalhaut - Gallium - Heaven - Helium - Highwire - Hojus - Iridium
+    - Krypton - Kzurb Sonar - Lalande - Look At Me - Merope - Mira - Missed It - Moonbeam
+    - On The Hunt - Palladium - Pixie Dust - Pizzicato - Plastic Pipe - Polaris -
+    Pollux - Procyon - Proxima - Radon - Regulus - Rubidium - Selenium - Shaula -
+    Sirius - Sirrah - Space Seed - Spica - Strontium - Syrma - 1 minute - 5 minutes
+    - 10 minutes - 30 minutes - 1 hour - Custom - OK (confirm snooze time) - minutes
+    - hours - days - CANCEL (cancel snooze time selection) - Small - Medium - Large'
+5a8d35cb1aa3694db466af3da76abf3d6fb93c837d671488805cab44910e9c38:
+  2: '- View the calendar - Search for events - Change the view of the calendar -
+    Access more options - Select the month (July) - Create a new event - Go back to
+    the previous screen - Toggle between monthly view and simple event list - Collapse
+    the view - Search for specific items - Add holidays to the calendar - Add contact
+    birthdays to the calendar - Add contact anniversaries to the calendar - Import
+    events from an .ics file - Export events to an .ics file - Access the settings
+    - Access information about the app - Navigate up to the previous screen - Create
+    a new event - Save the new event - Enter a title for the event - Enter a location
+    for the event - Enter a description for the event - Toggle all-day event on/off
+    - Select the date of the event (July 1, Saturday) - Select the time of the event
+    (12:00 PM) - Set a reminder for the event (10 minutes before) - Add another reminder
+    for the event - Set the event reminder to non-recurring - Set the event as a regular
+    event'
+5e6d92c26cdd25bb7b5aaa78ee87746384f33a49cfdd9f7ce93810c348652f34:
+  3: '- Navigate up - Add a new event type - View holidays - View regular events -
+    Edit event types - Set regular event type - Customize colors - Manage event types
+    - Use 24-hour time format - Start week on Sunday - Avoid showing What''s New on
+    startup - Delete all events - Set vibrate on reminder notification - Set reminder
+    sound - Set always use same snooze time - Set snooze time - Enable CalDAV sync
+    - Set start day at - Set end day at - Show week numbers - Show a grid - Replace
+    event description with location - Set display events from the past - Set widget
+    font size.'
+6c4d5e9b3856a2505fed43c416dca9ffb02b886db89fcb0c3bfd1fab26ee24eb:
+  0: '- View the calendar in daily, weekly, monthly, and yearly formats - View a simple
+    event list - Search for events - Create a new event with a title, location, and
+    description - Set the event to be all-day or not - Set the date and time of the
+    event - Set reminders for the event - Add multiple reminders for the event - Set
+    the event to have no repetition or to be a regular event - Add holidays to the
+    calendar - Add contact birthdays to the calendar - Add contact anniversaries to
+    the calendar - Import events from an .ics file - Export events to an .ics file
+    - Access the settings - Access information about the app - Navigate back to the
+    previous screen'
+6d9c92d565fb64f096c91972078aff8091e9454266126dceb64773451254deb7:
+  2: Add a new type of event with a title and color.
+  4: Edit the type of event, enter a title for the event, select regular event, choose
+    a color for the event, cancel the changes, save the changes, enter the event details.
+  5: '- Customize colors - Manage event types - Use 24-hour time format - Start week
+    on Sunday - Avoid showing What''s New on startup - Delete all events - Vibrate
+    on reminder notification - Set reminder sound - Always use same snooze time -
+    Set snooze time - Enable CalDAV sync - Set start day at 07:00 - Set end day at
+    23:00 - Show week numbers - Show a grid - Replace event description with location
+    - Display events from the past - Set font size to medium - Set theme to dark -
+    Set text color - Set background color - Set primary color - Apply colors to all
+    Simple Apps - Add a new sound - Set system sound - Set custom sound - Cancel sound
+    selection - Confirm sound selection - Set reminder time in minutes, hours, or
+    days - Set reminder time to 1 minute, 5 minutes, 10 minutes, 30 minutes, 1 hour,
+    or custom - Set reminder time unit to minutes, hours, or days - Confirm reminder
+    time selection - Cancel reminder time selection - Set font size to small, medium,
+    or large - Search calendar - Change view - Access more options - Go to July -
+    Create a new event'
+77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e:
+  3: The function of this GUI screen is to allow the user to input text.
+  7: Display the calendar for the month of July 2023.  Navigate to the previous month.  Navigate
+    to the next month.  Cancel and exit the calendar screen.  Confirm and save the
+    selected date.  Return to the previous screen.
+  8: Set the time for the event reminder, choose between AM and PM, select the hour
+    from 1 to 12, switch to text input mode for time input, cancel the time selection,
+    confirm the selected time.
+  11: Set the event reminder to no reminder, at start, 1 minute before, 5 minutes
+    before, 10 minutes before, 30 minutes before, 1 hour before, and custom. Set the
+    reminder unit to minutes, hours, or days. Cancel or confirm the reminder settings.
+  13: Set the event reminder to non-recurring, daily, weekly, monthly, yearly, or
+    custom intervals.
+  14: Display holidays, regular events, and the option to add a new event type.
+7be671f67b12a11b3a667b6780e9e80104be5d122c8a534c1584af702c2fd5f7:
+  7: '- Set reminder options for minutes, hours, and days. - Cancel the current action.
+    - Confirm and save the current action. - Navigate to the previous screen. - Access
+    the settings menu. - Customize colors for the calendar. - Manage event types.
+    - Enable or disable the use of a 24-hour time format. - Set the start day of the
+    week to Sunday. - Enable or disable the display of "What''s New" on startup. -
+    Delete all events. - Enable or disable vibration for reminder notifications. -
+    Select a reminder sound, with the default being "Pixie Dust". - Enable or disable
+    the use of the same snooze time for reminders. - Set the snooze time to 10 minutes.
+    - Go back to the previous screen. - Enable or disable CalDAV synchronization.
+    - Set the start time of the day to 07:00. - Set the end time of the day to 23:00.
+    - Enable or disable the display of week numbers. - Enable or disable the display
+    of a grid. - Replace event descriptions with locations in event lists. - Display
+    events from the past, with the option to never display them. - Set the font size
+    to medium for widgets. - Create a new event and save it. - Enter a title for the
+    event. - Enter a location for the event. - Enter a description for the event.
+    - Enable or disable the all-day option for the event. - Set the date for the event
+    to July 1 (Saturday). - Set the time for the event to 12:00 PM. - Set a reminder
+    for 10 minutes before the event. - Add another reminder for the event. - Set the
+    event to have no repetition. - Set the event as a regular event.'
+88f29884fb5eacc4d8ce762764b2b603ed48812c458991e3abd38bffb6201dff:
+  2: View internal calendar events View alarms Cancel current action Confirm current
+    action Return to previous screen Access the calendar Search for events Change
+    the calendar view Access additional options Navigate to the month of July Create
+    a new event
+a0580636289877f1e38e3d0fb2dc819e0bafcdaa9cfe463ed66522d8f283685a:
+  0: '- Search for events - Create a new event - View the calendar in daily, weekly,
+    monthly, and yearly format - View a simple event list - Go back to the previous
+    screen - Add holidays to the calendar - Add contact birthdays to the calendar
+    - Add contact anniversaries to the calendar - Import events from an .ics file
+    - Export events to an .ics file - Access settings - Access information about the
+    app - Navigate to the previous screen - Save a new event - Enter a title, location,
+    and description for the event - Toggle the all-day event option on or off - Select
+    a specific date for the event - Select a specific time for the event - Set a reminder
+    for the event - Add another reminder for the event - Set the event to have no
+    repetition - Set the event as a regular event.'
+  1: 'The function of this GUI screen is to: - Enter a query in the input field -
+    Clear the entered query - Display a message indicating that no items were found.'
+a39f4e7423a7ec05e4957e3d2f62cdb8ac8603374c98ce2944ecd1ebe401a96c:
+  2: Set the theme of the calendar app to light, dark, dark red, black & white, or
+    custom. Save the selected theme.
+  6: Unlock the function of purchasing Simple Thank You and supporting development.
+aa57b74d867f195506afa45cddabf5199e67a99c324d7b1737200c1a9ec959e5:
+  0: '- Navigate up - Customize colors - Save - Set theme to Light - Set text color
+    - Set background color - Set primary color - Apply colors to all Simple Apps -
+    Open settings - Customize colors - Manage event types - Turn off 24-hour time
+    format - Turn on start week on Sunday - Turn off showing What''s New on startup
+    - Delete all events - Turn off vibrate on reminder notification - Set reminder
+    sound to Default (Pixie Dust) - Turn on always use same snooze time - Set snooze
+    time to 10 minutes - Go back - Turn off CalDAV sync - Set start day at 07:00 in
+    weekly view - Set end day at 23:00 in weekly view - Turn off showing week numbers
+    in monthly view - Turn off showing a grid in monthly view - Replace event description
+    with location in event lists - Display events from the past never - Set widget
+    font size to medium.'
+b030be607a7b965b12afa6b526f698a0c2a454938b56bb9753a0eed6516a4aa6:
+  1: '- Navigate up - Access settings - Customize colors - Manage event types - Use
+    24-hour time format (OFF) - Start week on Sunday (ON) - Avoid showing What''s
+    New on startup (OFF) - Delete all events - Set vibrate on reminder notification
+    (OFF) - Set reminder sound (Default - Pixie Dust) - Always use same snooze time
+    (ON) - Set snooze time (10 minutes) - Enable CalDAV sync (OFF) - Set start day
+    at (07:00) - Set end day at (23:00) - Show week numbers (OFF) - Show a grid (OFF)
+    - Replace event description with location (OFF) - Display events from the past
+    (Never) - Set font size (Medium) - Set theme (Dark) - Customize text color - Customize
+    background color - Customize primary color - Apply colors to all Simple Apps -
+    Access event types - Add a new event type - Access your sounds - Add a new sound
+    - Set system sound (No sound, Default - Pixie Dust, Adara, Aldebaran, Altair,
+    Alya, Antares, Antimony, Arcturus, Argon, Beat Box Android, Bellatrix, Beryllium,
+    Betelgeuse, Caffeinated Rattlesnake, Canopus, Capella, Captain''s Log, Castor,
+    Ceti Alpha, Cobalt, Cricket, Dear Deer, Deneb, Doink, Don''t Panic, Drip, Electra,
+    Fluorine, Fomalhaut, Gallium, Heaven, Helium, Highwire, Hojus, Iridium, Krypton,
+    Kzurb Sonar, Lalande, Look At Me, Merope, Mira, Missed It, Moonbeam, On The Hunt,
+    Palladium, Pixie Dust, Pizzicato, Plastic Pipe, Polaris, Pollux, Procyon, Proxima,
+    Radon, Regulus, Rubidium, Selenium, Shaula, Sirius, Sirrah, Space Seed, Spica,
+    Strontium, Syrma) - Cancel changes - Confirm changes - Set snooze time unit (minutes,
+    hours, days) - Set custom snooze time - Set widget size (Small, Medium, Large)
+    - Access calendar - Search - Change view - Access more options - Select month
+    (July) - Create a new event'
+b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0:
+  1: 'Collapse the UI screen. Search for items by typing in at least 2 characters.
+    Clear the current search query. Display a message if no items are found. '
+  2: Display daily, weekly, monthly, yearly view and a simple event list. Allow users
+    to go back, search, change view, access more options, and create new events.
+  3: '- Add holidays - Add contact birthdays - Add contact anniversaries - Import
+    events from an .ics file - Export events to an .ics file - Access settings - Access
+    information about the app - Allow Calendar to access contacts - Allow Calendar
+    to access photos, media, and files - Select a folder - Customize colors - Manage
+    event types - Set time format to 24-hour - Set start of the week on Sunday - Disable
+    showing What''s New on startup - Delete all events - Set vibrate on reminder notification
+    - Set reminder sound - Set snooze time - Enable CalDAV sync - Set start and end
+    times for the weekly view - Hide week numbers in the monthly view - Hide grid
+    in the monthly view - Replace event description with location in event lists -
+    Display events from the past - Adjust font size'
+  5: '- Navigate up - Save new event - Enter title, location, and description - Toggle
+    all-day event on/off - Select event date (July 1, 2023) - Select event time (12:00
+    PM) - Set reminder time (10 minutes before) - Add another reminder - Set no repetition
+    for the event - Set regular event occurrence - Go back to previous screen - Select
+    year (2023) - Select date (Sat, Jul 1) - Select specific date (01 July 2023, 02
+    July 2023, etc.) - Navigate to previous month - Navigate to next month - Cancel
+    event creation - Confirm event creation - Select hour (12) - Select minutes (00)
+    - Toggle AM/PM for time - Toggle text input mode for time - Cancel time selection
+    - Confirm time selection - Toggle reminder options (no reminder, at start, 1 minute
+    before, 5 minutes before, 10 minutes before, 30 minutes before, 1 hour before,
+    custom) - Toggle repetition options (no repetition, daily, weekly, monthly, yearly)
+    - Toggle holidays display - Set event as regular occurrence - Add a new event
+    type - Enter new event type name (hello)'
+b555610691d75afd1c4cb87308b58d4f99273beea38325be444d78c94e28d986:
+  1: Customize colors of the app interface, including theme, text color, background
+    color, and primary color. Apply the colors to all Simple Apps. Choose between
+    light, dark, dark red, black & white, or custom color options.
+d153f77cd44709997f1a7e9d001e3e4724b767b98d985b994cdefd5ace2fc89b:
+  0: '- View the calendar in daily, weekly, monthly, or yearly format - View a simple
+    event list - Search for events - Change the calendar view - Access more options
+    - Collapse the view - Add holidays to the calendar - Add contact birthdays to
+    the calendar - Add contact anniversaries to the calendar - Import events from
+    an .ics file - Export events to an .ics file - Access settings - Access information
+    about the app - Navigate up to the previous screen - Create a new event - Save
+    the new event - Enter a title for the event - Enter a location for the event -
+    Enter a description for the event - Toggle the all-day event option - Select a
+    specific date for the event - Select a time for the event - Set a reminder for
+    the event - Add another reminder for the event - Set the event to have no repetition
+    - Set the event as a regular event'
+e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f:
+  2: Customize colors of the app's theme, text color, background color, and primary
+    color. Apply colors to all Simple Apps. Purchase Simple Thank You to unlock this
+    function and support development. Cancel or purchase. Choose between light, dark,
+    dark red, black & white, or custom color options.
+  3: Create a new event type with a title and color. Edit an existing event type.
+    Add holidays or regular events.
+  7: Delete all events without affecting event types and settings.
+  10: '- Add a new sound to your sounds - Set system sound to no sound - Set system
+    sound to default (Pixie Dust) - Set system sound to Adara - Set system sound to
+    Aldebaran - Set system sound to Altair - Set system sound to Alya - Set system
+    sound to Antares - Set system sound to Antimony - Set system sound to Arcturus
+    - Set system sound to Argon - Cancel the selection of sounds - Confirm the selection
+    of sounds - Set system sound to Beat Box Android - Set system sound to Bellatrix
+    - Set system sound to Beryllium - Set system sound to Betelgeuse - Set system
+    sound to Caffeinated Rattlesnake - Set system sound to Canopus - Set system sound
+    to Capella - Set system sound to Captain''s Log - Set system sound to Castor -
+    Set system sound to Ceti Alpha - Set system sound to Cobalt - Set system sound
+    to Cricket - Set system sound to Dear Deer - Set system sound to Deneb - Set system
+    sound to Doink - Set system sound to Don''t Panic - Set system sound to Drip -
+    Set system sound to Electra - Set system sound to Fluorine - Set system sound
+    to Fomalhaut - Set system sound to Gallium - Set system sound to Heaven - Set
+    system sound to Helium - Set system sound to Highwire - Set system sound to Hojus
+    - Set system sound to Iridium - Set system sound to Krypton - Set system sound
+    to Kzurb Sonar - Set system sound to Lalande - Set system sound to Look At Me
+    - Set system sound to Merope - Set system sound to Mira - Set system sound to
+    Missed It - Set system sound to Moonbeam - Set system sound to On The Hunt - Set
+    system sound to Palladium - Set system sound to Pixie Dust - Set system sound
+    to Pizzicato - Set system sound to Plastic Pipe - Set system sound to Polaris
+    - Set system sound to Pollux - Set system sound to Procyon - Set system sound
+    to Proxima - Set system sound to Radon - Set system sound to Regulus - Set system
+    sound to Rubidium - Set system sound to Selenium - Set system sound to Shaula
+    - Set system sound to Sirius - Set system sound to Sirrah - Set system sound to
+    Space Seed - Set system sound to Spica - Set system sound to Strontium - Set system
+    sound to Syrma'
+  12: Set the event reminder to 1 minute, 5 minutes, 10 minutes, 30 minutes, 1 hour,
+    or custom time intervals.
+  13: '- Display the calendar with the current month (July) - Search for specific
+    events or dates - Change the view of the calendar - Access additional options
+    or settings - Create a new event - Toggle between different views (daily, weekly,
+    monthly, yearly) - Show a simple event list - Go back to the previous screen -
+    Collapse the calendar view - Search for events or dates - Display a message when
+    no items are found during a search - Add holidays to the calendar - Add contact
+    birthdays to the calendar - Add contact anniversaries to the calendar - Import
+    events from an .ics file - Export events to an .ics file - Access the calendar
+    settings - Access information about the calendar app (About)'
+  24: Set the time and frequency of event reminders, cancel or save the event, specify
+    the title, location, and description of the event, set the event as an all-day
+    event or not, choose the date and time of the event, set a reminder before the
+    event, add additional reminders, choose the repetition pattern of the event.
+  26: Set the size of the calendar display to small, medium, or large.
+e76daded6e1b908aa09b51fe2d2bc59c51805cfd8410d347e5948abcf409f865:
+  2: '- Input text for event description - Navigate up to previous screen - Add a
+    new event type - View holidays - View regular events'
+e77ab12715745be71108b1340969dc8973018a73602438535093fc51ab6aab28:
+  2: View the calendar in daily, weekly, monthly, or yearly format. Display a simple
+    event list. Search for events. Change the current view. Access more options. Navigate
+    to the month of July. Create a new event.
+ee9f0855b6686a9d0bd515c215315d215fa6d3438addbaf227d25e19eaa3185a:
+  1: Select a file from Internal storage, Alarms, Android, Audiobooks, DCIM, Documents,
+    Download, Movies, Music, Notifications, Pictures, Podcasts, Ringtones. The selected
+    file can be canceled or returned to the previous screen.

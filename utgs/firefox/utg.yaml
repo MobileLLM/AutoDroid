@@ -1,0 +1,1050 @@
+records:
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1 text=''Search or enter address''></p>
+
+    <button id=2 text=''Google''></button>
+
+    <p id=3>Search or enter address</p>
+
+    <button id=4 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=5 text=''Menu<br>Highlighted''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: 8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27
+  state_str:
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Bookmarks</p>\n <button\
+    \ id=2 text='Enter search terms'></button>\n <button id=3 text='Add folder'></button>\n\
+    \ <button id=4 text='Close'></button>\n <button id=5>Desktop Bookmarks</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 7c090f40f597064832b6328c6a9714b8e9f0006bca4a73f1b0cb710570464e23
+  state_str: 3e457394a1b476c130ffe37c86b53cff40cbdf3c439ebf2fcdd75ee765d96cf6
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1 text=''Search or enter address''></p>
+
+    <button id=2 text=''Google''></button>
+
+    <p id=3>Search or enter address</p>
+
+    <button id=4 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=5 text=''Menu<br>Highlighted''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: 8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27
+  state_str:
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>History</p>\n <button\
+    \ id=2 text='Enter search terms'></button>\n <button id=3 text='Delete history'></button>\n\
+    \ <button id=4>Recently closed tabs<br>0 tabs</button>\n <p id=5>No history here</p>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 104c27bf48e99d8da8bde6090a1edcaf7e476367e180b46f7edda9d42773388b
+  state_str: d93302bf0f03f950eacbb741371ea4d2d662ddcf5d8ea23f0c1c0d46cd6a5ad6
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Recently closed tabs</p>\n\
+    \ <button id=2 text='Close'></button>\n <button id=3>Show full history</button>\n\
+    \ <p id=4>No recently closed tabs here</p>\n <button id=5>go back</button>"
+  new_state_str: 83bfae0a61a87ae805d3df7ea7213bb7d4221ed3f5ef687909821dda60f924da
+  state_str: 9f8ec7da3b38d61e35047a09efa9232b03906e27fe688e64f7ff3566a5acc1a9
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>History</p>\n <button\
+    \ id=2 text='Enter search terms'></button>\n <button id=3 text='Delete history'></button>\n\
+    \ <button id=4>Recently closed tabs<br>0 tabs</button>\n <p id=5>No history here</p>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 104c27bf48e99d8da8bde6090a1edcaf7e476367e180b46f7edda9d42773388b
+  state_str: d93302bf0f03f950eacbb741371ea4d2d662ddcf5d8ea23f0c1c0d46cd6a5ad6
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1 text=''Search or enter address''></p>
+
+    <button id=2 text=''Google''></button>
+
+    <p id=3>Search or enter address</p>
+
+    <button id=4 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=5 text=''Menu<br>Highlighted''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: 8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27
+  state_str:
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Add-ons</p>\n <p id=2>No\
+    \ add-ons here</p>\n <p id=3>Failed to query Add-ons!</p>\n <button id=4>go back</button>"
+  new_state_str: d2e60c5decfa833a162aebf7333ba672e85db064fa107a02b7c0b8ae9fb00c4c
+  state_str: 7e4f7b1492637d2394cb1570517366ed9ac71b0baf81f44b3b9e99498929eae1
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1 text=''Search or enter address''></p>
+
+    <button id=2 text=''Google''></button>
+
+    <p id=3>Search or enter address</p>
+
+    <button id=4 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=5 text=''Menu<br>Highlighted''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: 8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27
+  state_str:
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Sync and save your data</p>\n\
+    \ <p id=2>Sign in with your camera</p>\n <p id=3>On your computer open Firefox\
+    \ and go to https://firefox.com.cn/pair</p>\n <button id=4>Ready to scan</button>\n\
+    \ <button id=5>Use email instead</button>\n <button id=6>No account? Create one\
+    \ to sync Firefox between dev</button>\n <button id=7>go back</button>"
+  new_state_str: 80e74c20ca3cfc5fd7050f4dd97f8a288470467c68ceab6363d903d403fdff15
+  state_str: 4f88c5cebe1501e56335b7923ec332749064f040b7e1c283f98619dc05a80c81
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1 text=''Search or enter address''></p>
+
+    <button id=2 text=''Google''></button>
+
+    <p id=3>Search or enter address</p>
+
+    <button id=4 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=5 text=''Menu<br>Highlighted''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: 8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27
+  state_str:
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+  - a3cb8fb13bd7c9669e226f206b603089b175e197100a1cf07bb1db68002a0d16
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Home screen'></button>\n <button id=1 text='Site information'></button>\n\
+    \ <button id=2>accounts.firefox.com.cn/settings</button>\n <button id=3 text='1\
+    \ open tab. Tap to switch tabs.<br>The tab counter toolbar button.<br>Tabs'>1</button>\n\
+    \ <button id=4 text='Menu'></button>\n <button id=5>go back</button>"
+  new_state_str: 9586e9a07306129f3fc13eca8c84640f49bdc3dca12076a3217967cf476ed209
+  state_str: dc86188fd31fd5e9e3d0aeac7776262d82bee938024c632042de533e8a9eac81
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Enter your email to continue to Account Settings</p>\n <button id=1\
+    \ text='Home screen'></button>\n <button id=2 text='Site information'></button>\n\
+    \ <button id=3>accounts.firefox.com.cn/?redirect_to=%2Fsettings</button>\n <button\
+    \ id=4 text='1 open tab. Tap to switch tabs.<br>The tab counter toolbar button.<br>Tabs'>1</button>\n\
+    \ <button id=5 text='Menu'></button>\n <button id=6>go back</button>"
+  new_state_str: 69bfe8927dc1d83a03d6fb09c17a6762a4144d228526f8b1946eb05489afe52c
+  state_str: 9ce697430685f2cd1b3160fd75bef17a56ac36f66b293c98c3cf85ac4bd3c82b
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0>Enter your email to continue to Account Settings</p>\n <p id=1 text='Enter\
+    \ your email to continue to Account Settings'></p>\n <p id=2>Enter your email\
+    \ </p>\n <button id=3>to continue to Account Settings </button>\n <p id=4>Looking\
+    \ for Firefox Sync? </p>\n <button id=5 text='Get started here'>Get started here</button>\n\
+    \ <button id=6>Close</button>\n <button id=7>Sign up or sign in</button>\n <button\
+    \ id=8>A Firefox account also unlocks access to more priv</button>\n <button id=9\
+    \ text='Home screen'></button>\n <button id=10 text='Site information'></button>\n\
+    \ <button id=11>accounts.firefox.com.cn/?redirect_to=%2Fsettings</button>\n <button\
+    \ id=12 text='1 open tab. Tap to switch tabs.<br>The tab counter toolbar button.<br>Tabs'>1</button>\n\
+    \ <button id=13 text='Menu'></button>\n <button id=14>go back</button>"
+  new_state_str: 17d6b2bb5b89a8227aa57f4aaa74dc54514beacf47a1765f3cb4307184c34ff0
+  state_str: b14073213d72f4238b8c0d1e12512643b384e53951a0299d31a9b2360077b5ba
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Meet your personalized homepage. Recent tabs, bookmarks, and search\
+    \ results will appear here.</p>\n <button id=1 text='Dismiss'></button>\n <button\
+    \ id=2>go back</button>"
+  new_state_str: 21bf3b53883c2c81331e82edab397e6231bcf89a73dd5ae073bd30a819402b6b
+  state_str: ad1737faefadcdb1fa293d3eafcf3fefe616d9cacbdfae52ea710a3796d0ddca
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1>Jump back in</p>
+
+    <button id=2 text=''Show all recent tabs button''>Show all</button>
+
+    <button id=3>https://accounts.firefox.com.cn/?redirect_to=%2Fse<br>https://accounts.firefox.com.cn/?redirect_to=%2Fse</button>
+
+    <p id=4>Recently visited</p>
+
+    <button id=5 text=''Show all past explorations''>Show all</button>
+
+    <button id=6>Enter your email to continue to Account Settings</button>
+
+    <button id=7>Firefox Accounts</button>
+
+    <button id=8>Customize homepage</button>
+
+    <p id=9 text=''Search or enter address''></p>
+
+    <button id=10 text=''Google''></button>
+
+    <p id=11>Search or enter address</p>
+
+    <button id=12 text=''1 open tab. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>1</button>
+
+    <button id=13 text=''Menu<br>Highlighted''></button>
+
+    <button id=14>go back</button>'
+  new_state_str: f3d7cb40b3b3071657693853ce8f663a37d89481d56fae1fd4076dab40a26f9c
+  state_str:
+  - ed415d8ab365a26a9080baf5b179298a317f4b6b58c1c010e6ff37df705cdcfb
+  - ed415d8ab365a26a9080baf5b179298a317f4b6b58c1c010e6ff37df705cdcfb
+- Choice: 10
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 6
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit</button>
+
+    <button id=22>Delete browsing data on quit<br>Off</button>
+
+    <button id=23>Notifications<br>Allowed</button>
+
+    <button id=24>Data collection</button>
+
+    <p id=25>Advanced</p>
+
+    <button id=26>Add-ons</button>
+
+    <button id=27>Open links in apps<br>Never</button>
+
+    <button id=28>External download manager</button>
+
+    <button id=29>Remote debugging via USB</button>
+
+    <p id=30>About</p>
+
+    <button id=31>Rate on Google Play</button>
+
+    <button id=32>About Firefox</button>'
+  new_state_str: acef8d4ff4cd6417a7a0cf630bd8753306c1fea49b523c5eb08be56957fb3e6e
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - 2d5902cc1624bf8467f8c3bb79abb6528117e31f187e799219b7874b5a190019
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 12
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Tabs</p>\n <p id=2>Tab\
+    \ view</p>\n <button id=3>List</button>\n <button id=4>Grid</button>\n <p id=5>Close\
+    \ tabs</p>\n <button id=6>Never</button>\n <button id=7>After one day</button>\n\
+    \ <button id=8>After one week</button>\n <button id=9>After one month</button>\n\
+    \ <p id=10>Move old tabs to inactive</p>\n <button id=11>Tabs you haven\u2019\
+    t viewed for two weeks get moved to</button>\n <button id=12>go back</button>"
+  new_state_str: 3710ff8a611a5b0a56c8e79993bad55cb24d289dd99aa9a3d8cc3420d70f7799
+  state_str: 65ea3e4a539b818c5fd3a86ded142fa54b430dd5254e938f26829abd8820716d
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - aaed14718841d25f2c417698fbcee833b7a7f7ece9ade9bd412cc07b5c8776b5
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 14
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Homepage</p>\n <button\
+    \ id=2>Shortcuts</button>\n <button id=3>Sponsored shortcuts</button>\n <button\
+    \ id=4>Jump back in</button>\n <button id=5>Recent bookmarks</button>\n <button\
+    \ id=6>Recently visited</button>\n <button id=7>Thought-provoking stories<br>Articles\
+    \ powered by Pocket</button>\n <button id=8>Sponsored stories</button>\n <button\
+    \ id=9>Wallpapers</button>\n <p id=10>Opening screen</p>\n <button id=11>Homepage</button>\n\
+    \ <button id=12>Last tab</button>\n <button id=13>Homepage after four hours of\
+    \ inactivity</button>\n <button id=14>go back</button>"
+  new_state_str: 7ac99f8e17b8d9e13aa055ac0533f85e18a6ea7df2ef8ee29c53ffb5beb2f0d7
+  state_str: d53a1eb68c2aadb363beb4f7b879d2c0422bb423d51409a8415078b19b67f929
+- Choice: 8
+  Input: 'null'
+  State: '<button id=0 text=''Enable private browsing''></button>
+
+    <p id=1>Set links from websites, emails, and messages to open automatically in
+    Firefox.</p>
+
+    <button id=2 text=''Close''></button>
+
+    <button id=3>Set as default browser</button>
+
+    <p id=4 text=''Search or enter address''></p>
+
+    <button id=5 text=''Google''></button>
+
+    <p id=6>Search or enter address</p>
+
+    <button id=7 text=''0 open tabs. Tap to switch tabs.<br>The tab counter toolbar
+    button.''>0</button>
+
+    <button id=8 text=''Menu<br>Highlighted''></button>
+
+    <button id=9>go back</button>'
+  new_state_str: 75b4096ac559e61f8a19bd20f19660a789b1a32611dcba620406f7b6f472c123
+  state_str:
+  - 182ef321e92fde5cb7690995d1b8a96366e45948cdb3c3e8946efd504f73e45f
+  - 182ef321e92fde5cb7690995d1b8a96366e45948cdb3c3e8946efd504f73e45f
+- Choice: 10
+  Input: 'null'
+  State: "<button id=0>Bookmarks</button>\n <button id=1>History</button>\n <button\
+    \ id=2>Downloads</button>\n <button id=3>Add-ons</button>\n <button id=4>Sync\
+    \ and save data</button>\n <button id=5>Manage Account and Devices</button>\n\
+    \ <checkbox id=6 checked=False>Desktop site</checkbox>\n <button id=7 text='Highlighted<br>Highlighted,\
+    \ What\u2019s new'>What\u2019s new</button>\n <button id=8>Help</button>\n <button\
+    \ id=9>Customize homepage</button>\n <button id=10>Settings</button>\n <button\
+    \ id=11>go back</button>"
+  new_state_str: 39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf
+  state_str: 9d1efab623f99dfee6d98a5ef2d601b53e602d98cfdab3f2d3384ff8ca11dcff
+- Choice: 31
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - aaed14718841d25f2c417698fbcee833b7a7f7ece9ade9bd412cc07b5c8776b5
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 12
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n<p id=1>About Firefox</p>\n<button\
+    \ id=2 text='Firefox'></button>\n<p id=3>Firefox is produced by Mozilla.</p>\n\
+    <button id=4>115.0.1 (Build #2015960409), af14c95f26+\nGV: 115.0</button>\n<button\
+    \ id=5>2023-07-05T03:57:06.222423</button>\n<button id=6>What\u2019s new in Firefox</button>\n\
+    <button id=7>Support</button>\n<button id=8>Crashes</button>\n<button id=9>Privacy\
+    \ notice</button>\n<button id=10>Know your rights</button>\n<button id=11>Licensing\
+    \ information</button>\n<button id=12>go back</button>\n<button id=13>Libraries\
+    \ that we use</button>"
+  new_state_str: 111550fe29e239939d7015ce2189b06981f0b80efaddad581b0b25e2f806e330
+  state_str:
+  - f2c930411446b5854b0235dd6cac525e6a905802345b5e3bd11b53675f45effd
+  - 56fc7ac082ccdbc198e6698644233f607a03582f31f2eeeb980250d2b1ab5f33
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - aaed14718841d25f2c417698fbcee833b7a7f7ece9ade9bd412cc07b5c8776b5
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n<p id=1>Language</p>\n<button\
+    \ id=2 text='Search language'></button>\n<button id=3 text='Selected language'>Follow\
+    \ device language<br>English (United States)</button>\n<button id=4>Shqip<br>Albanian</button>\n\
+    <button id=5>\u12A0\u121B\u122D\u129B<br>Amharic</button>\n<button id=6>\u0627\
+    \u0644\u0639\u0631\u0628\u064A\u0629<br>Arabic</button>\n<button id=7>Aragonese<br>Aragonese</button>\n\
+    <button id=8>\u0540\u0561\u0575\u0565\u0580\u0565\u0576 (\u0540\u0561\u0575\u0561\
+    \u057D\u057F\u0561\u0576)<br>Armenian (Armenia)</button>\n<button id=9>Asturianu<br>Asturian</button>\n\
+    <button id=10>Az\u0259rbaycan<br>Azerbaijani</button>\n<button id=11>Balinese<br>Balinese</button>\n\
+    <button id=12>\u09AC\u09BE\u0982\u09B2\u09BE<br>Bangla</button>\n<button id=13>Euskara<br>Basque</button>\n\
+    <button id=14>\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u043A\u0430\u044F<br>Belarusian</button>\n\
+    <button id=15>Bosanski<br>Bosnian</button>\n<button id=16>Brezhoneg<br>Breton</button>\n\
+    <button id=17>go back</button>\n<button id=18>Basque</button>\n<button id=35>English\
+    \ (United States)<br>English (United States)</button>\n<button id=19>\u0411\u044A\
+    \u043B\u0433\u0430\u0440\u0441\u043A\u0438<br>Bulgarian</button>\n<button id=20>\u1019\
+    \u103C\u1014\u103A\u1019\u102C<br>Burmese</button>\n<button id=21>Catal\xE0<br>Catalan</button>\n\
+    <button id=22>Binisaya<br>Cebuano</button>\n<button id=23>Tamazi\u0263t n la\u1E6D\
+    la\u1E63<br>Central Atlas Tamazight</button>\n<button id=24>\u06A9\u0648\u0631\
+    \u062F\u06CC\u06CC \u0646\u0627\u0648\u06D5\u0646\u062F\u06CC<br>Central Kurdish</button>\n\
+    <button id=25>\u4E2D\u6587 (\u7B80\u4F53\u4E2D\u6587)<br>Chinese (Simplified Han)</button>\n\
+    <button id=26>\u4E2D\u6587 (\u7E41\u9AD4\u4E2D\u6587)<br>Chinese (Traditional\
+    \ Han)</button>\n<button id=27>Kernewek<br>Cornish</button>\n<button id=28>Corsican<br>Corsican</button>\n\
+    <button id=29>Hrvatski<br>Croatian</button>\n<button id=30>\u010Ce\u0161tina<br>Czech</button>\n\
+    <button id=31>Dansk<br>Danish</button>\n<button id=32>Nederlands<br>Dutch</button>\n\
+    <button id=33>English (Canada)<br>English (Canada)</button>\n<button id=34>English\
+    \ (United Kingdom)<br>English (United Kingdom)</button>\n<button id=36>Esperanto<br>Esperanto</button>\n\
+    <button id=37>Eesti<br>Estonian</button>\n<button id=38>Suomi<br>Finnish</button>\n\
+    <button id=39>Fran\xE7ais<br>French</button>\n<button id=40>Furlan<br>Friulian</button>\n\
+    <button id=41>Pulaar<br>Fulah</button>\n<button id=42>Galego<br>Galician</button>\n\
+    <button id=43>\u1CA5\u10D0\u10E0\u10D7\u10E3\u10DA\u10D8<br>Georgian</button>\n\
+    <button id=44>Deutsch<br>German</button>\n<button id=45>\u0395\u03BB\u03BB\u03B7\
+    \u03BD\u03B9\u03BA\u03AC<br>Greek</button>\n<button id=46>Guarani<br>Guarani</button>\n\
+    <button id=47>\u0A97\u0AC1\u0A9C\u0AB0\u0ABE\u0AA4\u0AC0 (\u0AAD\u0ABE\u0AB0\u0AA4\
+    )<br>Gujarati (India)</button>\n<button id=48>\u05E2\u05D1\u05E8\u05D9\u05EA<br>Hebrew</button>\n\
+    <button id=49>Hiligaynon<br>Hiligaynon</button>\n<button id=50>\u0939\u093F\u0928\
+    \u094D\u0926\u0940 (\u092D\u093E\u0930\u0924)<br>Hindi (India)</button>\n<button\
+    \ id=51>Gujarati (India)</button>\n<button id=52>Magyar<br>Hungarian</button>\n\
+    <button id=53>\xCDslenska<br>Icelandic</button>\n<button id=54>Indonesia<br>Indonesian</button>\n\
+    <button id=55>Interlingua<br>Interlingua</button>\n<button id=56>Gaeilge (\xC9\
+    ire)<br>Irish (Ireland)</button>\n<button id=57>Italiano<br>Italian</button>\n\
+    <button id=58>\u65E5\u672C\u8A9E<br>Japanese</button>\n<button id=59>Taqbaylit<br>Kabyle</button>\n\
+    <button id=60>\u0C95\u0CA8\u0CCD\u0CA8\u0CA1<br>Kannada</button>\n<button id=61>Kara-Kalpak<br>Kara-Kalpak</button>\n\
+    <button id=62>\u049A\u0430\u0437\u0430\u049B \u0442\u0456\u043B\u0456</button>\n\
+    <button id=63>\u049A\u0430\u0437\u0430\u049B \u0442\u0456\u043B\u0456<br>Kazakh</button>\n\
+    <button id=64>\uD55C\uAD6D\uC5B4<br>Korean</button>\n<button id=65>\u0EA5\u0EB2\
+    \u0EA7<br>Lao</button>\n<button id=66>Ligurian<br>Ligurian</button>\n<button id=67>Lietuvi\u0173\
+    <br>Lithuanian</button>\n<button id=68>Dolnoserb\u0161\u0107ina<br>Lower Sorbian</button>\n\
+    <button id=69>\u0D2E\u0D32\u0D2F\u0D3E\u0D33\u0D02<br>Malayalam</button>\n<button\
+    \ id=70>\u092E\u0930\u093E\u0920\u0940<br>Marathi</button>\n<button id=71>\u0928\
+    \u0947\u092A\u093E\u0932\u0940 (\u0928\u0947\u092A\u093E\u0932)<br>Nepali (Nepal)</button>\n\
+    <button id=72>Norsk bokm\xE5l (Norge)<br>Norwegian Bokm\xE5l (Norway)</button>\n\
+    <button id=73>Nynorsk (Noreg)<br>Norwegian Nynorsk (Norway)</button>\n<button\
+    \ id=74>Marathi</button>\n<button id=75>Occitan<br>Occitan</button>\n<button id=76>\u0B13\
+    \u0B21\u0B3C\u0B3F\u0B06<br>Odia</button>\n<button id=77>\u0641\u0627\u0631\u0633\
+    \u06CC<br>Persian</button>\n<button id=78>Polski<br>Polish</button>\n<button id=79>Portugu\xEA\
+    s (Brasil)<br>Portuguese (Brazil)</button>\n<button id=80>Portugu\xEAs (Portugal)<br>Portuguese\
+    \ (Portugal)</button>\n<button id=81>\u0A2A\u0A70\u0A1C\u0A3E\u0A2C\u0A40 (\u0A2D\
+    \u0A3E\u0A30\u0A24)<br>Punjabi (India)</button>\n<button id=82>\u067E\u0646\u062C\
+    \u0627\u0628\u06CC (\u067E\u0627\u06A9\u0633\u062A\u0627\u0646)<br>Punjabi (Pakistan)</button>\n\
+    <button id=83>Rom\xE2n\u0103<br>Romanian</button>\n<button id=84>Rumantsch<br>Romansh</button>\n\
+    <button id=85>\u0420\u0443\u0441\u0441\u043A\u0438\u0439</button>\n<button id=86>\u0420\
+    \u0443\u0441\u0441\u043A\u0438\u0439<br>Russian</button>"
+  new_state_str: a8750527c321a3ae405ea4e80bc1befaff23d480861e53e2833f5862631870e9
+  state_str:
+  - 5adf4da53ee9de918c755c2418a4120b5c018296a127999dd6d41726db2b1b9a
+  - b01e9c9cf6debccd83910fc4a6096cfdbaacc82b3e4eae8cf25041fdd0b88ce6
+  - caadbc0f629e816ea866f85717bfd6bae16f63122312ed90e1a01aa770e112c0
+  - a7c6918a772fb107ff9aa0ccb13228afb9deea140c543bc45b61caa916220782
+  - 8ec35fa921d7aa8a4a3b2f81483bcf7c8ece5885914fa333805dcde21c2a6491
+  - b1c93f57a6bcb50b3ddf68c87748f6817797cac8af776ce9372eb61d065aed13
+  - 91a6d74a291e4239a31def3d23cf8143426fdd02ffd8c180dcfd8f0d9f77620c
+- Choice: 17
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - aaed14718841d25f2c417698fbcee833b7a7f7ece9ade9bd412cc07b5c8776b5
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>HTTPS-Only Mode</p>\n\
+    \ <p id=2>HTTPS-Only Mode</p>\n <p id=3>Automatically attempts to connect to sites\
+    \ using HTTPS encryption protocol for increased security. Learn more</p>\n <checkbox\
+    \ id=4 checked=False>Enable in all tabs</checkbox>\n <checkbox id=5 checked=False>Enable\
+    \ only in private tabs</checkbox>\n <button id=6>go back</button>"
+  new_state_str: d3f7619910030a1d9c5401fda56c10f780691a537fd34cc6aed5c6a238d34073
+  state_str: c1785c0b0dd171fc90da6c07d8a92a9316f2742b36955b32c93d77d8d02977a3
+- Choice: 14
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - aaed14718841d25f2c417698fbcee833b7a7f7ece9ade9bd412cc07b5c8776b5
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Set Firefox as your default browser app?</p>\n <button id=1>Chrome</button>\n\
+    \ <button id=2>Firefox</button>\n <button id=3>WebView Shell</button>\n <button\
+    \ id=4>Cancel</button>\n <button id=5>Set as default</button>\n <button id=6>go\
+    \ back</button>"
+  new_state_str: e8e207edb99e1ee3f917a357e34c26729f529b7f89b9ab87b27a7a35fbc71bdf
+  state_str: 2defaf32667153b1952b9f4bac1461c987b67afc21d0382749f78f9aa89bfc02
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Set Firefox as your default browser app?</p>\n <button id=1>Chrome</button>\n\
+    \ <button id=2>Firefox<br>No permissions needed</button>\n <button id=3>WebView\
+    \ Shell</button>\n <button id=4>Cancel</button>\n <button id=5>Set as default</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 51c62413af049e1da6c2785664d56b8cf8dcc04fb394ff198c9b9641b6196b8b
+  state_str: 9a60549929374a9c4a71e24a9bb0e6e9c21e2051c6d11f279ebe543b61bf7f48
+- Choice: 14
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit<br>Off</button>
+
+    <button id=22>Notifications<br>Allowed</button>
+
+    <button id=23>Data collection</button>
+
+    <p id=24>Advanced</p>
+
+    <button id=25>Add-ons</button>
+
+    <button id=26>Open links in apps<br>Never</button>
+
+    <button id=27>External download manager</button>
+
+    <button id=28>Remote debugging via USB</button>
+
+    <p id=29>About</p>
+
+    <button id=30>Rate on Google Play</button>
+
+    <button id=31>About Firefox</button>'
+  new_state_str: 7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - 9fb05434730d8c9fed501453602351da316e49052cd0bc959fc78cd29a76d024
+  - 0ba9480e6cb70c4ec2e814b402baf2844658f2c4b444291081382d6808b41ff3
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+- Choice: 10
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Default apps</p>\n <button\
+    \ id=2 text='Search settings'></button>\n <button id=3>Browser app<br>Firefox</button>\n\
+    \ <button id=4>Caller ID & spam app<br>None</button>\n <button id=5>Digital assistant\
+    \ app<br>Google</button>\n <button id=6 text='Settings'>Home app<br>Pixel Launcher</button>\n\
+    \ <button id=7>Phone app<br>Dialer</button>\n <button id=8>SMS app<br>SMS Messenger</button>\n\
+    \ <button id=9>Opening links</button>\n <button id=10>go back</button>"
+  new_state_str: 5d892ccb2dc3a399035baec1546bb331ae9d36000df429cc13b7cf8205f51417
+  state_str: 2dd37998fd48b3192298404f5b9565f7a481a3331a90a96628d3b471d4e03fe6
+- Choice: -1
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Sync and save your data<br>Sign in to sync tabs, bookmarks, passwords,
+    and mo</button>
+
+    <button id=3>Use domestic China service</button>
+
+    <p id=4>General</p>
+
+    <button id=5>Search<br>Google</button>
+
+    <button id=6>Tabs<br>Close manually</button>
+
+    <button id=7>Homepage<br>Open on homepage after four hours</button>
+
+    <button id=8>Customize</button>
+
+    <button id=9>Logins and passwords</button>
+
+    <button id=10>Autofill</button>
+
+    <button id=11>Accessibility</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Language</button>
+
+    <button id=14>Set as default browser</button>
+
+    <p id=15>Privacy and security</p>
+
+    <button id=16>Private browsing</button>
+
+    <button id=17>HTTPS-Only Mode<br>Off</button>
+
+    <button id=18>Enhanced Tracking Protection<br>Standard</button>
+
+    <button id=19>Site permissions</button>
+
+    <button id=20>Delete browsing data</button>
+
+    <button id=21>Delete browsing data on quit</button>
+
+    <button id=22>Delete browsing data on quit<br>Off</button>
+
+    <button id=23>Notifications<br>Allowed</button>
+
+    <button id=24>Data collection</button>
+
+    <p id=25>Advanced</p>
+
+    <button id=26>Add-ons</button>
+
+    <button id=27>Open links in apps<br>Never</button>
+
+    <button id=28>External download manager</button>
+
+    <button id=29>Remote debugging via USB</button>
+
+    <p id=30>About</p>
+
+    <button id=31>Rate on Google Play</button>
+
+    <button id=32>About Firefox</button>'
+  new_state_str: acef8d4ff4cd6417a7a0cf630bd8753306c1fea49b523c5eb08be56957fb3e6e
+  state_str:
+  - 411d8b61b5b9dd76b97e389b3169497abbad10387a64572e381574e059a452ae
+  - 06dcdaa91f9e70239991e91ef10edc88f00b3ff36571df72ba01c32a1eb45cc9
+  - bce14ee98fa403b56b1cb0300d46e65e0b591417509a5a72b79f6486db9a2a9b
+  - 6380e12c6cbbc1409cf2dbc50f24e516023b88bdda0506dc5a3e0b2225269041
+step_num: 40
+task_name: utg

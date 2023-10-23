@@ -1,0 +1,1456 @@
+records:
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 4
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Daily view</checkbox>\n <checkbox id=1 checked=False>Weekly\
+    \ view</checkbox>\n <checkbox id=2 checked=True>Monthly view</checkbox>\n <checkbox\
+    \ id=3 checked=False>Yearly view</checkbox>\n <checkbox id=4 checked=False>Simple\
+    \ event list</checkbox>\n <button id=5>go back</button>"
+  new_state_str: 41fab8a8229a01a4c4c0872b6e5932eaf07f8213f9a950020253a3a4f0f484b3
+  state_str: f0bfe9dde1b043cdedd98387de9c2d6efa247728c2821790023078d33e646c69
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Calendar</p>\n <button id=1 text='Search'></button>\n <button id=2\
+    \ text='Change view'></button>\n <button id=3 text='More options'></button>\n\
+    \ <p id=4>Seems like you don't have any upcoming events.\nYou can add some with\
+    \ the Plus button at the bottom.</p>\n <button id=5 text='New Event'></button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: e77ab12715745be71108b1340969dc8973018a73602438535093fc51ab6aab28
+  state_str: 6007ea1ceb3bd6718944a92f95d543a0c94dad6eaf0b03863c5ffa7e40cb64db
+- Choice: 2
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Daily view</checkbox>\n <checkbox id=1 checked=False>Weekly\
+    \ view</checkbox>\n <checkbox id=2 checked=False>Monthly view</checkbox>\n <checkbox\
+    \ id=3 checked=False>Yearly view</checkbox>\n <checkbox id=4 checked=True>Simple\
+    \ event list</checkbox>\n <button id=5>go back</button>"
+  new_state_str: 5a8d35cb1aa3694db466af3da76abf3d6fb93c837d671488805cab44910e9c38
+  state_str: fcb3909d21bb7b0c8101b9b5747b1f24ba50c12570ac711b92a694a73606b753
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0 text='Collapse'></button>\n<input id=1>Search\u2026</input>\n\
+    <button id=2 text='Change view'></button>\n<button id=3 text='More options'></button>\n\
+    <button id=4>July</button>\n<button id=5>No items found.<br>Type in at least 2\
+    \ characters to start the search.</button>\n<button id=6>go back</button>"
+  new_state_str: a0580636289877f1e38e3d0fb2dc819e0bafcdaa9cfe463ed66522d8f283685a
+  state_str:
+  - c1af3fc254b0fefdd4e361840868dc226dcffcea9154b3a62dbc7d2e7163fca6
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Calendar</p>\n <button id=1 text='Search'></button>\n <button id=2\
+    \ text='Change view'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>July</button>\n <button id=5 text='New Event'></button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str: e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 0
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Algeria</checkbox>\n<checkbox id=1 checked=False>Argentina</checkbox>\n\
+    <checkbox id=2 checked=False>Australia</checkbox>\n<checkbox id=3 checked=False>Belgi\xEB\
+    </checkbox>\n<checkbox id=4 checked=False>Bolivia</checkbox>\n<checkbox id=5 checked=False>Brasil</checkbox>\n\
+    <checkbox id=6 checked=False>Canada</checkbox>\n<checkbox id=7 checked=False>China</checkbox>\n\
+    <checkbox id=8 checked=False>Colombia</checkbox>\n<checkbox id=9 checked=False>\u010C\
+    esk\xE1 republika</checkbox>\n<checkbox id=10 checked=False>Danmark</checkbox>\n\
+    <checkbox id=11 checked=False>Deutschland</checkbox>\n<checkbox id=12 checked=False>Eesti</checkbox>\n\
+    <checkbox id=13 checked=False>Espa\xF1a</checkbox>\n<button id=14>go back</button>\n\
+    <checkbox id=15 checked=False>\xC9ire</checkbox>\n<checkbox id=16 checked=False>France</checkbox>\n\
+    <checkbox id=17 checked=False>Hanguk</checkbox>\n<checkbox id=18 checked=False>Hellas</checkbox>\n\
+    <checkbox id=19 checked=False>Hrvatska</checkbox>\n<checkbox id=20 checked=False>India</checkbox>\n\
+    <checkbox id=21 checked=False>Indonesia</checkbox>\n<checkbox id=22 checked=False>\xCD\
+    sland</checkbox>\n<checkbox id=23 checked=False>Italia</checkbox>\n<checkbox id=24\
+    \ checked=False>Latvija</checkbox>\n<checkbox id=25 checked=False>Lietuva</checkbox>\n\
+    <checkbox id=26 checked=False>Luxemburg</checkbox>\n<checkbox id=27 checked=False>Makedonija</checkbox>\n\
+    <checkbox id=28 checked=False>Magyarorsz\xE1g</checkbox>\n<checkbox id=29 checked=False>M\xE9\
+    xico</checkbox>\n<checkbox id=30 checked=False>Nederland</checkbox>\n<checkbox\
+    \ id=31 checked=False>\u65E5\u672C</checkbox>\n<checkbox id=32 checked=False>Norge</checkbox>\n\
+    <checkbox id=33 checked=False>\xD6sterreich</checkbox>\n<checkbox id=34 checked=False>P\u0101\
+    kist\u0101n</checkbox>\n<checkbox id=35 checked=False>Polska</checkbox>\n<checkbox\
+    \ id=36 checked=False>Portugal</checkbox>\n<checkbox id=37 checked=False>\u0420\
+    \u043E\u0441\u0441\u0438\u044F</checkbox>\n<checkbox id=38 checked=False>Rom\xE2\
+    nia</checkbox>\n<checkbox id=39 checked=False>Schweiz</checkbox>\n<checkbox id=40\
+    \ checked=False>Srbija</checkbox>\n<checkbox id=41 checked=False>Slovenija</checkbox>\n\
+    <checkbox id=42 checked=False>Slovensko</checkbox>\n<checkbox id=43 checked=False>South\
+    \ Africa</checkbox>\n<checkbox id=44 checked=False>Suomi</checkbox>\n<checkbox\
+    \ id=45 checked=False>Sverige</checkbox>\n<checkbox id=46 checked=False>Ukraine</checkbox>\n\
+    <checkbox id=47 checked=False>United Kingdom</checkbox>\n<checkbox id=48 checked=False>United\
+    \ States</checkbox>"
+  new_state_str: d153f77cd44709997f1a7e9d001e3e4724b767b98d985b994cdefd5ace2fc89b
+  state_str:
+  - 602b27d33b55a97b90cd1247974100e00995ae41c0b4ddf9d5aaa9efbeb014f4
+  - ef8859dfe1f131183a37d3fed9f72899de32b70ee5b19086132ba2a9a151d349
+  - 56c5164173105ed0ae65ee1add2d9ee34ca827b8c3f4d4e874d4d4b3b9b26d79
+  - a754b51276b088f1bdd1834ef30b1f58f9f334cdc1cde7d65d78a81a58638b76
+  - bdf8d7320cb3e0ae3e7818e623d5e558b6ff6a0f51253ea7556e06edc3fbbdd7
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Allow Calendar to access your contacts?</p>\n <button id=1>Allow</button>\n\
+    \ <button id=2>Deny</button>\n <button id=3>go back</button>"
+  new_state_str: 0dfcd2ff9939bb98a09aca5707c630569835c9f6d66e24ea1e2d8dc53229c7a6
+  state_str: 0a326c728686f297c8cd6e8820d292d53c16dbcfe32b1dc0cd92ec2b0007f6ee
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Allow Calendar to access photos, media, and files on your device?</p>\n\
+    \ <button id=1>Allow</button>\n <button id=2>Deny</button>\n <button id=3>go back</button>"
+  new_state_str: ee9f0855b6686a9d0bd515c215315d215fa6d3438addbaf227d25e19eaa3185a
+  state_str: e5e9b0294e732d37aa7c924cac2dc6ab0d054ad8bfac1078845c1bf4673a0f9e
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Select a file</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>1 item</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Podcasts<br>0 items</button>
+
+    <button id=13>CANCEL</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Ringtones<br>0 items</button>
+
+    <button id=16>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=17>screen_2023-06-30_143638.png<br>0 B</button>'
+  new_state_str: 4927876f7234d01f13659cbd78612b2d37be153f11f451ff6ed0a731a0aff240
+  state_str:
+  - 530fddf891bddda118efa245c3642aca910d27fadf754e44659e57c3bfb8cb7c
+  - f068a7a88d757f12e3a2486ca259220a8bfaada62b5480884f19fc46a19ee5e2
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Select a file</p>\n <button id=1>Internal</button>\n <button id=2>/\
+    \ Alarms</button>\n <button id=3>CANCEL</button>\n <button id=4>go back</button>"
+  new_state_str: 0fbb9314ecc2dc97537efa196c898becd9cc76bd2bde96ea0f569c03fc7be33d
+  state_str: 8f0494a26a3c599beeae2d14ef3749523f43d765fa0b41430d71ddae303d20f1
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>1 item</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Podcasts<br>0 items</button>
+
+    <button id=13>CANCEL</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=18>screen_2023-06-30_143638.png<br>0 B</button>'
+  new_state_str: 88f29884fb5eacc4d8ce762764b2b603ed48812c458991e3abd38bffb6201dff
+  state_str:
+  - 328080942cf32d39ebeae6df9ad2efa414227130baa16f58fd97a53bb0638f4f
+  - 062e03430b0b18a9a937e2f87fdcb6cb18dc92c9fc2f4794b4ee35819bfb127e
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Select a folder</p>\n <button id=1>Internal</button>\n <button id=2>/\
+    \ Alarms</button>\n <button id=3>CANCEL</button>\n <button id=4>OK</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 44320aacba99d74a471c8ea105cb386326fa93cf80b9334a4b9ae86181eebfbd
+  state_str: 17db999d83ea935f93125b7ef78ebb1d2dc41d3f3ac87f1a673ba6bb4ed506ca
+- Choice: 1
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0 text='Collapse'></button>\n<input id=1>Search\u2026</input>\n\
+    <button id=2 text='Change view'></button>\n<button id=3 text='More options'></button>\n\
+    <button id=4>July</button>\n<button id=5>No items found.<br>Type in at least 2\
+    \ characters to start the search.</button>\n<button id=6>go back</button>"
+  new_state_str: a0580636289877f1e38e3d0fb2dc819e0bafcdaa9cfe463ed66522d8f283685a
+  state_str:
+  - c1af3fc254b0fefdd4e361840868dc226dcffcea9154b3a62dbc7d2e7163fca6
+- Choice: 1
+  Input: hello
+  State: "<button id=0 text='Collapse'></button>\n<input id=1>Search\u2026</input>\n\
+    <button id=2 text='Change view'></button>\n<button id=3 text='More options'></button>\n\
+    <button id=4>July</button>\n<button id=5>No items found.<br>Type in at least 2\
+    \ characters to start the search.</button>\n<button id=6>go back</button>"
+  new_state_str: a0580636289877f1e38e3d0fb2dc819e0bafcdaa9cfe463ed66522d8f283685a
+  state_str:
+  - c1af3fc254b0fefdd4e361840868dc226dcffcea9154b3a62dbc7d2e7163fca6
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Collapse''></button>
+
+    <input id=1>hello</input>
+
+    <button id=2 text=''Clear query''></button>
+
+    <button id=3 text=''Change view''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>July</button>
+
+    <button id=6>No items found.</button>
+
+    <button id=7>go back</button>'
+  new_state_str: 6c4d5e9b3856a2505fed43c416dca9ffb02b886db89fcb0c3bfd1fab26ee24eb
+  state_str:
+  - 9543a143af00fc49477ff8315e109893bef5184b70d92b6da7da6f954e363019
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0>Add holidays</button>\n <button id=1>Add contact birthdays</button>\n\
+    \ <button id=2>Add contact anniversaries</button>\n <button id=3>Import events\
+    \ from an .ics file</button>\n <button id=4>Export events to an .ics file</button>\n\
+    \ <button id=5>Settings</button>\n <button id=6>About</button>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3
+  state_str: 29e004ebcc29cd15fc6cf5fab42c256bfde3ff3e698eda25f7d0c6b9adcbdb3a
+- Choice: 2
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - 92ade9c0f3c3f59bcbe19071d4fed5c3da27bf055130c19b9f61120dfde0d400
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 6
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Customize colors</p>\n\
+    \ <button id=2>Theme<br>Dark</button>\n <button id=3>Text color</button>\n <button\
+    \ id=4>Background color</button>\n <button id=5>Primary color</button>\n <button\
+    \ id=6>Apply colors to all Simple Apps</button>\n <button id=7>go back</button>"
+  new_state_str: a39f4e7423a7ec05e4957e3d2f62cdb8ac8603374c98ce2944ecd1ebe401a96c
+  state_str: d7776b55eafb8b182590e63fbb162bc58816a900d18df24f4c6d463fd4ef16dd
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Please purchase Simple Thank You to unlock this function and support\
+    \ the development. Thanks!</p>\n <button id=1>CANCEL</button>\n <button id=2>PURCHASE</button>\n\
+    \ <button id=3>go back</button>"
+  new_state_str: b555610691d75afd1c4cb87308b58d4f99273beea38325be444d78c94e28d986
+  state_str: bbafbb64cbc142cbbdb612046e88c1e872734d532b03925911517bf5a83077da
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Customize colors</p>\n\
+    \ <button id=2>Theme<br>Dark</button>\n <button id=3>Text color</button>\n <button\
+    \ id=4>Background color</button>\n <button id=5>Primary color</button>\n <button\
+    \ id=6>Apply colors to all Simple Apps</button>\n <button id=7>go back</button>"
+  new_state_str: a39f4e7423a7ec05e4957e3d2f62cdb8ac8603374c98ce2944ecd1ebe401a96c
+  state_str: d7776b55eafb8b182590e63fbb162bc58816a900d18df24f4c6d463fd4ef16dd
+- Choice: 0
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Light</checkbox>\n <checkbox id=1 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=2 checked=False>Dark red</checkbox>\n <checkbox id=3 checked=False>Black\
+    \ & White</checkbox>\n <checkbox id=4 checked=False>Custom</checkbox>\n <button\
+    \ id=5>go back</button>"
+  new_state_str: aa57b74d867f195506afa45cddabf5199e67a99c324d7b1737200c1a9ec959e5
+  state_str: 0a46479e7276ba5375cd5f1f1b1ce46bfa440cd3368a9b819019c45f2923c2e1
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Customize colors</p>\n\
+    \ <button id=2 text='Save'></button>\n <button id=3>Theme<br>Light</button>\n\
+    \ <button id=4>Text color</button>\n <button id=5>Background color</button>\n\
+    \ <button id=6>Primary color</button>\n <button id=7>Apply colors to all Simple\
+    \ Apps</button>\n <button id=8>go back</button>"
+  new_state_str: 1f858da570d72fc2746e7cd21ac2951b72173dc7602f9d9e106fff093ce451d1
+  state_str: 8d4a03c601ac18bfdd2859474a0476f5db45d25b5e84d213ccf252a632fbc0a0
+- Choice: 3
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - b5f665dbcf657ba439032666b638998c941e7a9b445b35a9787b37261a9d2f28
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Event types</p>\n <button\
+    \ id=2 text='Add a new type'></button>\n <button id=3>Holidays</button>\n <button\
+    \ id=4>Regular event</button>\n <button id=5>go back</button>"
+  new_state_str: 6d9c92d565fb64f096c91972078aff8091e9454266126dceb64773451254deb7
+  state_str: 90e481260fd3bc48c70b12927632cfed701e5f18cac67ad66e83298505fdaf80
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Add a new type</p>\n <p id=1>Title</p>\n <p id=2>Color</p>\n <button\
+    \ id=3>CANCEL</button>\n <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 5e6d92c26cdd25bb7b5aaa78ee87746384f33a49cfdd9f7ce93810c348652f34
+  state_str: e547064f0ba88059d53d1d378789d6d2b3fb320d43d34e26c8c5d23e3f6b23b1
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Event types</p>\n <button\
+    \ id=2 text='Add a new type'></button>\n <button id=3>Holidays</button>\n <button\
+    \ id=4>Regular event</button>\n <button id=5>go back</button>"
+  new_state_str: 6d9c92d565fb64f096c91972078aff8091e9454266126dceb64773451254deb7
+  state_str: 90e481260fd3bc48c70b12927632cfed701e5f18cac67ad66e83298505fdaf80
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Edit type</p>\n <p id=1>Title</p>\n <input id=2 >Regular event</input>\n\
+    \ <p id=3>Color</p>\n <button id=4>CANCEL</button>\n <button id=5>OK</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: e76daded6e1b908aa09b51fe2d2bc59c51805cfd8410d347e5948abcf409f865
+  state_str: 87a52f92eadbf0e57b9f371274d6f81af125f5187fd5b314d94ca4dfb093bdc9
+- Choice: 2
+  Input: hello
+  State: "<p id=0>Edit type</p>\n <p id=1>Title</p>\n <input id=2 >Regular event</input>\n\
+    \ <p id=3>Color</p>\n <button id=4>CANCEL</button>\n <button id=5>OK</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: e76daded6e1b908aa09b51fe2d2bc59c51805cfd8410d347e5948abcf409f865
+  state_str: 87a52f92eadbf0e57b9f371274d6f81af125f5187fd5b314d94ca4dfb093bdc9
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Edit type</p>\n <p id=1>Title</p>\n <input id=2 >hello</input>\n\
+    \ <p id=3>Color</p>\n <button id=4>CANCEL</button>\n <button id=5>OK</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 26c75e39ef6829993b7623d3fba5f203bfb6b9bb5372a6cb912330f3b11d6693
+  state_str: 66fb36061283518142e43bd8e779a634417049d9d0ea122291253d9c8767fa3d
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>Event types</p>\n <button\
+    \ id=2 text='Add a new type'></button>\n <button id=3>Holidays</button>\n <button\
+    \ id=4>Regular event</button>\n <button id=5>go back</button>"
+  new_state_str: 6d9c92d565fb64f096c91972078aff8091e9454266126dceb64773451254deb7
+  state_str: 90e481260fd3bc48c70b12927632cfed701e5f18cac67ad66e83298505fdaf80
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - d97bb3c635a2dc6fc2717a3650076c1838c76ef94610fbd656f63b9babed81c0
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to delete all events? This will leave your\
+    \ event types and other settings intact.</p>\n <button id=1>NO</button>\n <button\
+    \ id=2>YES</button>\n <button id=3>go back</button>"
+  new_state_str: b030be607a7b965b12afa6b526f698a0c2a454938b56bb9753a0eed6516a4aa6
+  state_str: 0f6f93236456b0f4918b764bfbf17f86ad6f50f4a248d4ebb81bfbe0e12fbd27
+- Choice: 10
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - 63b9de0fe96228cc75c2eda0f1076729f663a6a8f79f2644024ffc76d7ca9dfd
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Your sounds</p>
+
+    <checkbox id=1 checked=False>Add a new sound</checkbox>
+
+    <p id=2>System sounds</p>
+
+    <checkbox id=3 checked=False>No sound</checkbox>
+
+    <checkbox id=4 checked=True>Default (Pixie Dust)</checkbox>
+
+    <checkbox id=5 checked=False>Adara</checkbox>
+
+    <checkbox id=6 checked=False>Aldebaran</checkbox>
+
+    <checkbox id=7 checked=False>Altair</checkbox>
+
+    <checkbox id=8 checked=False>Alya</checkbox>
+
+    <checkbox id=9 checked=False>Antares</checkbox>
+
+    <checkbox id=10 checked=False>Antimony</checkbox>
+
+    <checkbox id=11 checked=False>Arcturus</checkbox>
+
+    <checkbox id=12 checked=False>Argon</checkbox>
+
+    <button id=13>CANCEL</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Beat Box Android</checkbox>
+
+    <checkbox id=17 checked=False>Bellatrix</checkbox>
+
+    <checkbox id=18 checked=False>Beryllium</checkbox>
+
+    <checkbox id=19 checked=False>Betelgeuse</checkbox>
+
+    <checkbox id=20 checked=False>Caffeinated Rattlesnake</checkbox>
+
+    <checkbox id=21 checked=False>Canopus</checkbox>
+
+    <checkbox id=22 checked=False>Capella</checkbox>
+
+    <checkbox id=23 checked=False>Captain''s Log</checkbox>
+
+    <checkbox id=24 checked=False>Castor</checkbox>
+
+    <checkbox id=25 checked=False>Ceti Alpha</checkbox>
+
+    <checkbox id=26 checked=False>Cobalt</checkbox>
+
+    <checkbox id=27 checked=False>Cricket</checkbox>
+
+    <checkbox id=28 checked=False>Dear Deer</checkbox>
+
+    <checkbox id=29 checked=False>Deneb</checkbox>
+
+    <checkbox id=30 checked=False>Doink</checkbox>
+
+    <checkbox id=31 checked=False>Don''t Panic</checkbox>
+
+    <checkbox id=32 checked=False>Drip</checkbox>
+
+    <checkbox id=33 checked=False>Electra</checkbox>
+
+    <checkbox id=34 checked=False>Fluorine</checkbox>
+
+    <checkbox id=35 checked=False>Fomalhaut</checkbox>
+
+    <checkbox id=36 checked=False>Gallium</checkbox>
+
+    <checkbox id=37 checked=False>Heaven</checkbox>
+
+    <checkbox id=38 checked=False>Helium</checkbox>
+
+    <checkbox id=39 checked=False>Highwire</checkbox>
+
+    <checkbox id=40 checked=False>Hojus</checkbox>
+
+    <checkbox id=41 checked=False>Iridium</checkbox>
+
+    <checkbox id=42 checked=False>Krypton</checkbox>
+
+    <checkbox id=43 checked=False>Kzurb Sonar</checkbox>
+
+    <checkbox id=44 checked=False>Lalande</checkbox>
+
+    <checkbox id=45 checked=False>Look At Me</checkbox>
+
+    <checkbox id=46 checked=False>Merope</checkbox>
+
+    <checkbox id=47 checked=False>Mira</checkbox>
+
+    <checkbox id=48 checked=False>Missed It</checkbox>
+
+    <checkbox id=49 checked=False>Moonbeam</checkbox>
+
+    <checkbox id=50 checked=False>On The Hunt</checkbox>
+
+    <checkbox id=51 checked=False>Palladium</checkbox>
+
+    <checkbox id=52 checked=False>Pixie Dust</checkbox>
+
+    <checkbox id=53 checked=False>Pizzicato</checkbox>
+
+    <checkbox id=54 checked=False>Plastic Pipe</checkbox>
+
+    <checkbox id=55 checked=False>Polaris</checkbox>
+
+    <checkbox id=56 checked=False>Pollux</checkbox>
+
+    <checkbox id=57 checked=False>Procyon</checkbox>
+
+    <checkbox id=58 checked=False>Proxima</checkbox>
+
+    <checkbox id=59 checked=False>Radon</checkbox>
+
+    <checkbox id=60 checked=False>Regulus</checkbox>
+
+    <checkbox id=61 checked=False>Rubidium</checkbox>
+
+    <checkbox id=62 checked=False>Selenium</checkbox>
+
+    <checkbox id=63 checked=False>Shaula</checkbox>
+
+    <checkbox id=64 checked=False>Sirius</checkbox>
+
+    <checkbox id=65 checked=False>Sirrah</checkbox>
+
+    <checkbox id=66 checked=False>Space Seed</checkbox>
+
+    <checkbox id=67 checked=False>Spica</checkbox>
+
+    <checkbox id=68 checked=False>Strontium</checkbox>
+
+    <checkbox id=69 checked=False>Syrma</checkbox>'
+  new_state_str: 1d37b5a0628f5da09a91909ab5aa8fb175ef4f5e000c8e7b2baa06df4938b113
+  state_str:
+  - 346a936f789495fdfd656fc7ca495fc13ddca5e39405c64a00d29036cc18d3e9
+  - 81dbe89234f9685ff94c324d39c62dcde4717fbc3fabcfb8fff46ee86f653076
+  - 8e041d2c912b534f7c9c682b8d15a2e39281f52bbbcc40e1edc32a86505beb47
+  - 5b5088fa01e0c520f8d9cbd263d9b56fe3834fdbe1c65c71bde8af30a761617c
+  - 5f83dbcfc5ae210aafcb92aa5f4f5776e9bd55d93ed439b40848459a9dfeda04
+  - 6d40f4fd920bf50dc5caaf70c68947f8c0e68835d7f65d2e3ac69dc0912dd06d
+  - f1c70fa1bb8cd3c9c582cd0983eea2d78cffe0ab3334569521087f05a760ca6b
+- Choice: 12
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - b5f665dbcf657ba439032666b638998c941e7a9b445b35a9787b37261a9d2f28
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 6
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>1 minute</checkbox>\n <checkbox id=1 checked=False>5\
+    \ minutes</checkbox>\n <checkbox id=2 checked=True>10 minutes</checkbox>\n <checkbox\
+    \ id=3 checked=False>30 minutes</checkbox>\n <checkbox id=4 checked=False>1 hour</checkbox>\n\
+    \ <checkbox id=5 checked=False>Custom</checkbox>\n <button id=6>OK</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 2563cd0132df7babcf5f9118008656bfd16c87e3d799ad0d679adbe9d56e76d1
+  state_str: bebf6d12b8cf870d8061f56ca3ecab587c5749763900a472a6bac04d02a21603
+- Choice: 24
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - 92ade9c0f3c3f59bcbe19071d4fed5c3da27bf055130c19b9f61120dfde0d400
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>minutes</checkbox>\n <checkbox id=1 checked=False>hours</checkbox>\n\
+    \ <checkbox id=2 checked=False>days</checkbox>\n <button id=3>CANCEL</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 43ff20b2170ac83f282914166cb4a238dc44227ee2e1538042496fe067962d47
+  state_str: d9cc429e086986fefc1caf927cbe00d08fb109b4d3a6d73f845b81ee29e96e2d
+- Choice: 26
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - 92ade9c0f3c3f59bcbe19071d4fed5c3da27bf055130c19b9f61120dfde0d400
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Small</checkbox>\n <checkbox id=1 checked=True>Medium</checkbox>\n\
+    \ <checkbox id=2 checked=False>Large</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 37d74d294f771243b96af3e6e82d1a7b7295b06891f76c69b80a96ed5d4f1930
+  state_str: 67ca669eb6a331bdc41fcdbcfd3d9674b5811ef6c8154f417ca4b4176df00178
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''Navigate up''></button>
+
+    <p id=1>Settings</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Manage event types</button>
+
+    <checkbox id=4 checked=False>Use 24-hour time format OFF</checkbox>
+
+    <checkbox id=5 checked=True>Start week on Sunday ON</checkbox>
+
+    <checkbox id=6 checked=False>Avoid showing What''s New on startup OFF</checkbox>
+
+    <button id=7>Delete all events</button>
+
+    <p id=8>EVENT REMINDERS</p>
+
+    <checkbox id=9 checked=False>Vibrate on reminder notification OFF</checkbox>
+
+    <button id=10>Reminder sound<br>Default (Pixie Dust)</button>
+
+    <checkbox id=11 checked=True>Always use same snooze time ON</checkbox>
+
+    <button id=12>Snooze time<br>10 minutes</button>
+
+    <button id=13>go back</button>
+
+    <p id=14>CALDAV</p>
+
+    <checkbox id=15 checked=False>CalDAV sync OFF</checkbox>
+
+    <p id=16>WEEKLY VIEW</p>
+
+    <button id=17>Start day at<br>07:00</button>
+
+    <button id=18>End day at<br>23:00</button>
+
+    <p id=19>MONTHLY VIEW</p>
+
+    <checkbox id=20 checked=False>Show week numbers OFF</checkbox>
+
+    <checkbox id=21 checked=False>Show a grid OFF</checkbox>
+
+    <p id=22>EVENT LISTS</p>
+
+    <checkbox id=23 checked=False>Replace event description with location OFF</checkbox>
+
+    <button id=24>Display events from the past<br>Never</button>
+
+    <p id=25>WIDGETS</p>
+
+    <button id=26>Font size<br>Medium</button>'
+  new_state_str: e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f
+  state_str:
+  - 72b9118f038d2fed5d6bd657cb33cdc94704c73779faf260ddeecd2250c285ba
+  - 789e52528a7682fffea266f6c2da5f7fb14e4de9973a0694cee25d428b71466e
+  - b9a62d042c6e6445099c883eef7f130f9bf1119449a8604436b8fb0b34732482
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 35
+  Input: 'null'
+  State: '<button id=0>2023</button>
+
+    <button id=1>Sat, Jul 1</button>
+
+    <button id=2 text=''01 July 2023''>1</button>
+
+    <button id=3 text=''02 July 2023''>2</button>
+
+    <button id=4 text=''03 July 2023''>3</button>
+
+    <button id=5 text=''04 July 2023''>4</button>
+
+    <button id=6 text=''05 July 2023''>5</button>
+
+    <button id=7 text=''06 July 2023''>6</button>
+
+    <button id=8 text=''07 July 2023''>7</button>
+
+    <button id=9 text=''08 July 2023''>8</button>
+
+    <button id=10 text=''09 July 2023''>9</button>
+
+    <button id=11 text=''10 July 2023''>10</button>
+
+    <button id=12 text=''11 July 2023''>11</button>
+
+    <button id=13 text=''12 July 2023''>12</button>
+
+    <button id=14 text=''13 July 2023''>13</button>
+
+    <button id=15 text=''14 July 2023''>14</button>
+
+    <button id=16 text=''15 July 2023''>15</button>
+
+    <button id=17 text=''16 July 2023''>16</button>
+
+    <button id=18 text=''17 July 2023''>17</button>
+
+    <button id=19 text=''18 July 2023''>18</button>
+
+    <button id=20 text=''19 July 2023''>19</button>
+
+    <button id=21 text=''20 July 2023''>20</button>
+
+    <button id=22 text=''21 July 2023''>21</button>
+
+    <button id=23 text=''22 July 2023''>22</button>
+
+    <button id=24 text=''23 July 2023''>23</button>
+
+    <button id=25 text=''24 July 2023''>24</button>
+
+    <button id=26 text=''25 July 2023''>25</button>
+
+    <button id=27 text=''26 July 2023''>26</button>
+
+    <button id=28 text=''27 July 2023''>27</button>
+
+    <button id=29 text=''28 July 2023''>28</button>
+
+    <button id=30 text=''29 July 2023''>29</button>
+
+    <button id=31 text=''30 July 2023''>30</button>
+
+    <button id=32 text=''31 July 2023''>31</button>
+
+    <button id=33 text=''Previous month''></button>
+
+    <button id=34 text=''Next month''></button>
+
+    <button id=35>CANCEL</button>
+
+    <button id=36>OK</button>
+
+    <button id=37>go back</button>'
+  new_state_str: 1de405d94a0dc161d25004ddbf768abf707e415a63851c67ba42d90234788c52
+  state_str:
+  - 52a929faff48c2be31e0517c44c9247a6a16600cd3ed9d270acae946b787b7a7
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 18
+  Input: 'null'
+  State: "<button id=0>12</button>\n <p id=1>:</p>\n <button id=2>00</button>\n <checkbox\
+    \ id=3 checked=False>AM</checkbox>\n <checkbox id=4 checked=True>PM</checkbox>\n\
+    \ <p id=5 text='1'></p>\n <p id=6 text='2'></p>\n <p id=7 text='3'></p>\n <p id=8\
+    \ text='4'></p>\n <p id=9 text='5'></p>\n <p id=10 text='6'></p>\n <p id=11 text='7'></p>\n\
+    \ <p id=12 text='8'></p>\n <p id=13 text='9'></p>\n <p id=14 text='10'></p>\n\
+    \ <p id=15 text='11'></p>\n <p id=16 text='12'></p>\n <button id=17 text='Switch\
+    \ to text input mode for the time input.'></button>\n <button id=18>CANCEL</button>\n\
+    \ <button id=19>OK</button>\n <button id=20>go back</button>"
+  new_state_str: 05f8de41ce1b0c123111ea9222baa9416ddd440d57599ff16b55009df43ffc0e
+  state_str: e756f4731f930a1718630308e86a3bf85e10adf3d0bb7af4ae8d467894246cf5
+- Choice: 11
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>No reminder</checkbox>\n <checkbox id=1 checked=False>At\
+    \ start</checkbox>\n <checkbox id=2 checked=False>1 minute before</checkbox>\n\
+    \ <checkbox id=3 checked=False>5 minutes before</checkbox>\n <checkbox id=4 checked=True>10\
+    \ minutes before</checkbox>\n <checkbox id=5 checked=False>30 minutes before</checkbox>\n\
+    \ <checkbox id=6 checked=False>1 hour before</checkbox>\n <checkbox id=7 checked=False>Custom</checkbox>\n\
+    \ <button id=8>go back</button>"
+  new_state_str: 7be671f67b12a11b3a667b6780e9e80104be5d122c8a534c1584af702c2fd5f7
+  state_str: 146af6e68de2924b3fdf6a97da285827713da46e969f97f254150c28ab76786f
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>minutes</checkbox>\n <checkbox id=1 checked=False>hours</checkbox>\n\
+    \ <checkbox id=2 checked=False>days</checkbox>\n <button id=3>CANCEL</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 43ff20b2170ac83f282914166cb4a238dc44227ee2e1538042496fe067962d47
+  state_str: d9cc429e086986fefc1caf927cbe00d08fb109b4d3a6d73f845b81ee29e96e2d
+- Choice: 13
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 6
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>No repetition</checkbox>\n <checkbox id=1 checked=False>Daily</checkbox>\n\
+    \ <checkbox id=2 checked=False>Weekly</checkbox>\n <checkbox id=3 checked=False>Monthly</checkbox>\n\
+    \ <checkbox id=4 checked=False>Yearly</checkbox>\n <checkbox id=5 checked=False>Custom</checkbox>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: 67d7de90b58f15bd10b1849244985f177aca5e5185efb840cdf4abb0929d3b22
+  state_str: 6c55843af20044112af022f5337be9c0aca66e6a47f5a624ca779d17dbe60642
+- Choice: 14
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Holidays</checkbox>\n <checkbox id=1 checked=True>Regular\
+    \ event</checkbox>\n <checkbox id=2 checked=False>Add a new type</checkbox>\n\
+    \ <button id=3>go back</button>"
+  new_state_str: 08c085a404864d3a0aba71a1700a518fde0caa977a5caaca413b3e1a650f4f17
+  state_str: bf95ce083789db256972d064ba8e7dd69db648795d2b768ed928986a2faa4b08
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 3
+  Input: hello
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >Title</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e
+  state_str: f1c1ea25cb8ca110b0ea05d094a45582373af6b36e28972a0cc2c884c447a812
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >hello</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 6d7a2042bf7d436d87f1070d8cda34b6188388bcc1a16b399a21429cbb8ca598
+  state_str: edf73624320a57cc79145f75a6e14a209554848c33e284c4059a77c1b1d22278
+- Choice: 5
+  Input: hello
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >hello</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >Description</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: 6d7a2042bf7d436d87f1070d8cda34b6188388bcc1a16b399a21429cbb8ca598
+  state_str: edf73624320a57cc79145f75a6e14a209554848c33e284c4059a77c1b1d22278
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0 text='Navigate up'></button>\n <p id=1>New Event</p>\n <button\
+    \ id=2 text='Save'></button>\n <input id=3 >hello</input>\n <input id=4 >Location</input>\n\
+    \ <input id=5 >hello</input>\n <checkbox id=6 checked=False>All-day OFF</checkbox>\n\
+    \ <button id=7>July 1 (Sat)</button>\n <button id=8>12:00 PM</button>\n <button\
+    \ id=9>July 1 (Sat)</button>\n <button id=10>12:00 PM</button>\n <button id=11>10\
+    \ minutes before</button>\n <button id=12>Add another reminder</button>\n <button\
+    \ id=13>No repetition</button>\n <button id=14>Regular event</button>\n <button\
+    \ id=15>go back</button>"
+  new_state_str: fc730a8bba08c33a902a3a4119cea4ff4808d5d2449e228761d5a2ef73867d5c
+  state_str: f9c75af48096d80aec9df4cba35080cb721a1b26dfb07a4e3b26dc237e4ad79a
+- Choice: -1
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>July</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  new_state_str: b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0
+  state_str:
+  - e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40
+step_num: 72
+task_name: add the holiday of united kingdom, create the event of 'visit parents'
+  on christmas

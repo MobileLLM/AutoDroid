@@ -1,0 +1,368 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=True>Title</checkbox>\n <checkbox\
+    \ id=2 checked=False>Custom</checkbox>\n <checkbox id=3 checked=True>Ascending</checkbox>\n\
+    \ <checkbox id=4 checked=False>Descending</checkbox>\n <button id=5>Cancel</button>\n\
+    \ <button id=6>OK</button>\n <button id=7>go back</button>"
+  new_state_str: 7bd9e2ded8ae3ec34dffeefb946dad82da73e3a8c7d983d8eed62b7ba2093beb
+  state_str: 70bfe9da5a48f69d777a60eb66784f548c873cca4a9e34134ee7c9a6262d1e89
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>go back</button>"
+  new_state_str: 608e4b67482f27cc24df23c888549061dafa15a7d52121e7ffa8c674b43df46a
+  state_str: c3592c26173a7acfdfd7ea5f204be5146b2ea3482fc57af7e9541205b6a74a47
+- Choice: 3
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Column count</button>\n <button id=1>Settings</button>\n <button\
+    \ id=2>About</button>\n <button id=3>go back</button>"
+  new_state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+  state_str: 4aa00a0b2088cff9cf01711cc84ced31f46a408b7dd1e4bc992e0e14003ec750
+- Choice: 15
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>1 column</checkbox>
+
+    <checkbox id=1 checked=False>2 columns</checkbox>
+
+    <checkbox id=2 checked=False>3 columns</checkbox>
+
+    <checkbox id=3 checked=False>4 columns</checkbox>
+
+    <checkbox id=4 checked=True>5 columns</checkbox>
+
+    <checkbox id=5 checked=False>6 columns</checkbox>
+
+    <checkbox id=6 checked=False>7 columns</checkbox>
+
+    <checkbox id=7 checked=False>8 columns</checkbox>
+
+    <checkbox id=8 checked=False>9 columns</checkbox>
+
+    <checkbox id=9 checked=False>10 columns</checkbox>
+
+    <checkbox id=10 checked=False>11 columns</checkbox>
+
+    <checkbox id=11 checked=False>12 columns</checkbox>
+
+    <checkbox id=12 checked=False>13 columns</checkbox>
+
+    <checkbox id=13 checked=False>14 columns</checkbox>
+
+    <checkbox id=14 checked=False>15 columns</checkbox>
+
+    <button id=15>go back</button>'
+  new_state_str: e85b04a69566e4dc7f6043bd6ddb896899f3bcc27abca6f9d2d938f92e1c79f2
+  state_str:
+  - 19760e6cfb1069e6424130ef25830411a1b67a0c0432d4defa9b292a0c058f20
+- Choice: 3
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Column count</button>\n <button id=1>Settings</button>\n <button\
+    \ id=2>About</button>\n <button id=3>go back</button>"
+  new_state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+  state_str: 4aa00a0b2088cff9cf01711cc84ced31f46a408b7dd1e4bc992e0e14003ec750
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <p id=3>GENERAL</p>\n <checkbox id=4 checked=True>Close this\
+    \ app at launching a different one</checkbox>\n <button id=5>go back</button>"
+  new_state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+  state_str: ad13fc2aeb3d2bc44cc46c16bec9cd521ce8c4a2109a8c41b6e3186a67e681bd
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <p id=3>GENERAL</p>\n <checkbox id=4 checked=True>Close this\
+    \ app at launching a different one</checkbox>\n <button id=5>go back</button>"
+  new_state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+  state_str: ad13fc2aeb3d2bc44cc46c16bec9cd521ce8c4a2109a8c41b6e3186a67e681bd
+- Choice: 4
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 0
+  Input: 'null'
+  State: <button id=0>go back</button>
+  new_state_str: 9b2ba9dc53a7270e73d743ee3edc4b225c224707db6116752f993347fa8eccd6
+  state_str: d6004a4cc4da281c8de931098efd0477e0eb1c272eabcc09408592986f0f0ce5
+- Choice: 5
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 9
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 1
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=True>Title</checkbox>\n <checkbox\
+    \ id=2 checked=False>Custom</checkbox>\n <checkbox id=3 checked=True>Ascending</checkbox>\n\
+    \ <checkbox id=4 checked=False>Descending</checkbox>\n <button id=5>Cancel</button>\n\
+    \ <button id=6>OK</button>\n <button id=7>go back</button>"
+  new_state_str: 7bd9e2ded8ae3ec34dffeefb946dad82da73e3a8c7d983d8eed62b7ba2093beb
+  state_str: 70bfe9da5a48f69d777a60eb66784f548c873cca4a9e34134ee7c9a6262d1e89
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>go back</button>"
+  new_state_str: 608e4b67482f27cc24df23c888549061dafa15a7d52121e7ffa8c674b43df46a
+  state_str: c3592c26173a7acfdfd7ea5f204be5146b2ea3482fc57af7e9541205b6a74a47
+- Choice: 3
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Column count</button>\n <button id=1>Settings</button>\n <button\
+    \ id=2>About</button>\n <button id=3>go back</button>"
+  new_state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+  state_str: 4aa00a0b2088cff9cf01711cc84ced31f46a408b7dd1e4bc992e0e14003ec750
+- Choice: 15
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>1 column</checkbox>
+
+    <checkbox id=1 checked=False>2 columns</checkbox>
+
+    <checkbox id=2 checked=False>3 columns</checkbox>
+
+    <checkbox id=3 checked=False>4 columns</checkbox>
+
+    <checkbox id=4 checked=True>5 columns</checkbox>
+
+    <checkbox id=5 checked=False>6 columns</checkbox>
+
+    <checkbox id=6 checked=False>7 columns</checkbox>
+
+    <checkbox id=7 checked=False>8 columns</checkbox>
+
+    <checkbox id=8 checked=False>9 columns</checkbox>
+
+    <checkbox id=9 checked=False>10 columns</checkbox>
+
+    <checkbox id=10 checked=False>11 columns</checkbox>
+
+    <checkbox id=11 checked=False>12 columns</checkbox>
+
+    <checkbox id=12 checked=False>13 columns</checkbox>
+
+    <checkbox id=13 checked=False>14 columns</checkbox>
+
+    <checkbox id=14 checked=False>15 columns</checkbox>
+
+    <button id=15>go back</button>'
+  new_state_str: e85b04a69566e4dc7f6043bd6ddb896899f3bcc27abca6f9d2d938f92e1c79f2
+  state_str:
+  - 19760e6cfb1069e6424130ef25830411a1b67a0c0432d4defa9b292a0c058f20
+- Choice: 3
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Column count</button>\n <button id=1>Settings</button>\n <button\
+    \ id=2>About</button>\n <button id=3>go back</button>"
+  new_state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+  state_str: 4aa00a0b2088cff9cf01711cc84ced31f46a408b7dd1e4bc992e0e14003ec750
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <p id=3>GENERAL</p>\n <checkbox id=4 checked=True>Close this\
+    \ app at launching a different one</checkbox>\n <button id=5>go back</button>"
+  new_state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+  state_str: ad13fc2aeb3d2bc44cc46c16bec9cd521ce8c4a2109a8c41b6e3186a67e681bd
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <p id=3>GENERAL</p>\n <checkbox id=4 checked=True>Close this\
+    \ app at launching a different one</checkbox>\n <button id=5>go back</button>"
+  new_state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+  state_str: ad13fc2aeb3d2bc44cc46c16bec9cd521ce8c4a2109a8c41b6e3186a67e681bd
+- Choice: 5
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: 9
+  Input: 'null'
+  State: "<button id=0 text='Toggle the timer mode'></button>\n <button id=1 text='Resolution'></button>\n\
+    \ <button id=2 text='Settings'></button>\n <button id=3 text='Video'>Video</button>\n\
+    \ <p id=4 text='Photo'></p>\n <p id=5>Photo</p>\n <button id=6 text='Toggle front/back\
+    \ camera'></button>\n <button id=7 text='Shutter'></button>\n <button id=8 text='View\
+    \ last captured media'></button>\n <button id=9>go back</button>"
+  new_state_str: 863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb
+  state_str: 51df7fe2285dc69df6c3991ff2a7245a83238ce0a9f5457cf10100669270ca7a
+- Choice: 6
+  Input: 'null'
+  State: "<input id=0 >Search</input>\n <button id=1 text='Sort by'></button>\n <button\
+    \ id=2 text='Toggle app name visibility'></button>\n <button id=3 text='More options'></button>\n\
+    \ <button id=4>Calendar</button>\n <button id=5>Camera</button>\n <button id=6>Clock</button>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: 3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f
+  state_str: ca84887fa50fbe8cb13d9c9fbcd7f1e568612b5e7448bbc9ac0425944993c94c
+- Choice: -1
+  Input: 'null'
+  State: '<button id=0 text=''More apps from us''></button>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>05:00</button>
+
+    <button id=4 text=''New Timer''></button>
+
+    <button id=5>Clock</button>
+
+    <button id=6>Alarm</button>
+
+    <button id=7>Stopwatch</button>
+
+    <p id=8>Timer</p>
+
+    <button id=9>go back</button>'
+  new_state_str: fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30
+  state_str:
+  - 8fe6b1742232194edf2780f0ef572fa72b1403eda181620060b0c46061a21ef7
+step_num: 38
+task_name: utg

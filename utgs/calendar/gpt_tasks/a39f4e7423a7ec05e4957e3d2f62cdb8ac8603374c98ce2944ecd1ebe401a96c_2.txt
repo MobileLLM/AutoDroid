@@ -1,0 +1,1 @@
+Set the theme of the calendar app to light, dark, dark red, black & white, or custom. Save the selected theme.

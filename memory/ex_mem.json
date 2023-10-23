@@ -1,0 +1,1700 @@
+{
+    "gallery": {
+        "e13a913558e1841ee0580350128b1459b062c76d9aace09fbf550215850ca283": {
+            "task": "Show all contents in all folders within the gallery app",
+            "similar": "task: view all the content in the folders of the gallery.",
+            "path": "Click on <button text='Show all folders content'></button>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b"
+            ],
+            "relevance": 0.06719862435535368
+        },
+        "b59842aa1963b00cc1be82cd8ac17121c62068737e2eafda005f357e7005289c": {
+            "task": "Sort folders in the Gallery app by name in descending order",
+            "similar": "task: Sort the gallery of smartphone apps by name in ascending order.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Sort by</button>\nCheck <checkbox checked=False>Name</checkbox>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "bcdc8bc32ab330c072627acc28b712faa15abff6c965ca31c5db8d7ec7f3ccd3"
+            ],
+            "relevance": 0.06311125221783935
+        },
+        "68284a77e92cba0513550246a3c98f0a4058eb4b85360ae9b3f8b9d3cdec8603": {
+            "task": "Restore the video to its previous playback position the next time it is opened",
+            "similar": "Task: Enable or disable the option to remember the last video playback position in the gallery app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Remember last video playback position</checkbox>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d"
+            ],
+            "relevance": 0.05824761254423376
+        },
+        "c59816c49386d6c71afc9a24e2a49cea07ae4775d366637d8a79dcf7dfc4be18": {
+            "task": "Open DCIM folder in gallery app",
+            "similar": "task: View and manage photos in the DCIM folder on the smartphone.",
+            "path": "Click on <button>DCIM<br>6</button>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b"
+            ],
+            "relevance": 0.06483771014120085
+        },
+        "3d41c71bcaab7a9cc823e3c9eefdfd3960fe03b8cb9eabe52bd8b80d072ac887": {
+            "task": "Display five images per row in the Gallery app",
+            "similar": "Task: Change the number of columns for the app gallery display to 5.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Column count</button>\nCheck <checkbox checked=False>5 columns</checkbox>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "3d2fb79219ed38df93493d5435d95ee98f91059cb992b203b17bb80fe3ee03e0"
+            ],
+            "relevance": 0.06446469248444198
+        },
+        "ac9f53d695e51749c3a882095abd967bae535cc99508ab899c382842c057fb14": {
+            "task": "Do not display GIF images in the Gallery app",
+            "similar": "task: disable the option to rotate images with gestures in the gallery app settings.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nUncheck <checkbox checked=True>Allow rotating images with gestures</checkbox>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "e7268484b7258b11ad6f5dfc4e72131530628ba054524cfd6de55d3ada46c06d"
+            ],
+            "relevance": 0.059722200571296534
+        },
+        "4b77ebdec67c3f6c122f63fd62ccc7e75b27e1fa129dcd8a013fcbec687da576": {
+            "task": "create a folder and name it 'traveling_photos' in the 'DCIM' folder, the folder path is 'Internal/DCIM/'",
+            "similar": "task: Create a new folder in the DCIM directory and manage the files within it.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Create new folder</button>\nClick on <button>DCIM<br>6 items</button>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "439da42741fa3e717568b85f7850d504c6e01288f51f6e8036e63fc0cf7da179"
+            ],
+            "relevance": 0.06224665227818447
+        },
+        "ad1981d19d857beca6e08b9e8f8cf156c7677a32fb44b8fd0dcc0dfe37b7c1b7": {
+            "task": "Search for the DCIM folder in gallery app and open it",
+            "similar": "task: View and manage photos in the DCIM folder on the smartphone.",
+            "path": "Click on <button>DCIM<br>6</button>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b"
+            ],
+            "relevance": 0.06559186860166032
+        },
+        "879c808b98e61122cb5148d1184ffc6dd8b5c98ce2ac84b04a0fa72705151b5f": {
+            "task": "Change the display mode from grid to list in the Gallery app",
+            "similar": "task: change the view type of the app gallery display to a list format.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Change view type</button>\nCheck <checkbox checked=False>List</checkbox>\n",
+            "gpath": [
+                "a54edb4560e79ad038ec5120a09ec838b034edd416abba65385969613b18a95b",
+                "f27215cd13aecb6d203d7bed4c753284d24de06edc57717b9b126076303b5fdc",
+                "7dff668a1a1b95194b239f49899f5b1b85768029e3f9067123d3277b3a8b9f3b"
+            ],
+            "relevance": 0.06626080871230657
+        }
+    },
+    "firefox": {
+        "b6056f6eeb892af5afe916e68abc1b19b9e54f2f091e1a942e4888b1afc51c58": {
+            "task": "change language to Simplified Han",
+            "similar": "task: change the language settings of the Firefox app to Chinese (Simplified Han).",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Settings</button>\nClick on <button>Language</button>\nClick on <button>\u4e2d\u6587 (\u7b80\u4f53\u4e2d\u6587)<br>Chinese (Simplified Han)</button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf",
+                "7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9",
+                "a8750527c321a3ae405ea4e80bc1befaff23d480861e53e2833f5862631870e9"
+            ],
+            "relevance": 0.05382431405118918
+        },
+        "4bd3bfc1f55c3ef05775d7ce2f980b48347e9bfb8e72d8397ec778ad808dcd64": {
+            "task": "set firefox as the default browser",
+            "similar": "task: set Firefox as the default browser app.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Settings</button>\nClick on <button>Set as default browser</button>\nClick on <button>Firefox</button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf",
+                "7a817b721d1abfd6c27bfde5f105932dcea6ae150b78ccd945861b17390b83b9",
+                "e8e207edb99e1ee3f917a357e34c26729f529b7f89b9ab87b27a7a35fbc71bdf"
+            ],
+            "relevance": 0.05981359642501241
+        },
+        "5349e07d3ed95b0a699a26cd11ae5987cc4764e89a8f37903eb01e480d7dc2c7": {
+            "task": "view files dowloaded through firefox",
+            "similar": "task: access help and support for Firefox browser.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Help</button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf"
+            ],
+            "relevance": 0.05240052849942917
+        },
+        "be92d415a7a6ca77571e64784513590dca0e927ca544812e0cc15010c0f20b77": {
+            "task": "go to the browsing history page",
+            "similar": "task: view browsing history and search terms, navigate to a previous webpage.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>History</button>\nClick on <button text='Navigate up'></button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf",
+                "104c27bf48e99d8da8bde6090a1edcaf7e476367e180b46f7edda9d42773388b"
+            ],
+            "relevance": 0.05714045778019325
+        },
+        "751456325211777c2e387385a724468eb8990a3c1a33de3fa6209077ddb5eee0": {
+            "task": "check bookmarks on firefox",
+            "similar": "task: access and manage bookmarks in Firefox.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Bookmarks</button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf"
+            ],
+            "relevance": 0.05655661814339701
+        },
+        "2eb9a86fa41719531c0cf3a89391d898377934a72d441fa0ac785e7b2d92f497": {
+            "task": "open dark theme",
+            "similar": "task: access the menu options for web browsing in private mode, search, switch tabs.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27"
+            ],
+            "relevance": 0.03845632729844883
+        },
+        "66c634bce9a4129dce920698b051a67e357b7f926ab4e8bfe2e44b9d4ee01144": {
+            "task": "check add-ons",
+            "similar": "task: Install or manage add-ons/extensions on Firefox.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Add-ons</button>\nClick on <button text='Navigate up'></button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf",
+                "d2e60c5decfa833a162aebf7333ba672e85db064fa107a02b7c0b8ae9fb00c4c"
+            ],
+            "relevance": 0.048926582293787095
+        },
+        "3149fb2b26c675fc1db2843844ed18f298e8c59c1be9e60d298fb189f3f605cb": {
+            "task": "check firefox version",
+            "similar": "task: check the version and information about Firefox browser.",
+            "path": "Click on <button text='Menu<br>Highlighted'></button>\nClick on <button>Settings</button>\nClick on <button>About Firefox</button>\n",
+            "gpath": [
+                "8296582e793e9f504816578383d9d54e13b7fac650c9089e45589743940ebf27",
+                "39180632bed6820472c6b99209b673b6fc599e7f661164ee753d0964854383bf",
+                "acef8d4ff4cd6417a7a0cf630bd8753306c1fea49b523c5eb08be56957fb3e6e"
+            ],
+            "relevance": 0.06051188008194719
+        }
+    },
+    "voicerecorder": {
+        "dfd4e95e25de79d4b7e720e0b9c928d622bf70606b30550eaa10f94cbc06730b": {
+            "task": "open 'frequently asked questions'",
+            "similar": "task: find answers to frequently asked questions about the voicerecorder app.",
+            "path": "Click on <button text='About'></button>\nClick on <button>Frequently asked questions</button>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "01761c55c458560c451ae5ab946cb58da6702f4ce6f72f6221b0d3ce78e138be"
+            ],
+            "relevance": 0.0699105676240571
+        },
+        "5737abc9a448f77a973879097c14b02c15b6525c7c36d22c5ec629a7aba550b9": {
+            "task": "change the theme color to white and save it",
+            "similar": "task: customize the colors and theme of the voicerecorder app to a dark theme with black & white colors.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\nClick on <button>OK</button>\nCheck <checkbox checked=False>Black & White</checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da",
+                "db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb",
+                "ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d"
+            ],
+            "relevance": 0.07503388761863324
+        },
+        "bd11e69441385f07834b23b32c89d2830e6bdcb19e360641f6541fc137fc528e": {
+            "task": "hide the recording notification",
+            "similar": "task: customize settings for the voicerecorder app, specifically trying to hide the recording notification.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Try hiding the recording notification</checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98"
+            ],
+            "relevance": 0.08244630613279685
+        },
+        "b2e1548f74128da7d7c11b44c13b466786f7fa9edbd0bae28b722dc76b7ec53f": {
+            "task": "use player to play 'test2.m4a'",
+            "similar": "task: play the voice recording \"test2.m4a\" that was recorded on 30.06.2023 at 12:26 PM.",
+            "path": "Click on <button>Player</button>\nClick on <button>test2.m4a<br>00:07<br>30.06.2023, 12:26 PM<br>86.1 kB</button>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "41f3305e06df4df3ac8ee3f17ad17a40a34230880a4a372f4cdaa288d55541b8"
+            ],
+            "relevance": 0.07946926006827071
+        },
+        "96a8c16880220121a4731e61c4bf15c3aaeaeb07cc534274c7f3cbdacfe3186f": {
+            "task": "search for 'test1' and click on the 'test1.m4a'",
+            "similar": "task: play the voice recording \"test1.m4a\" that was recorded on 30.06.2023 at 12:26 PM.",
+            "path": "Click on <button>Player</button>\nClick on <button>test1.m4a<br>00:10<br>30.06.2023, 12:26 PM<br>124 kB</button>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "41f3305e06df4df3ac8ee3f17ad17a40a34230880a4a372f4cdaa288d55541b8"
+            ],
+            "relevance": 0.07047437577945093
+        },
+        "c9fa5c5d777ee30a8826b7f6b41da3857766e1c73464466045563150f57fbe64": {
+            "task": "set bitrate to 96 kbps",
+            "similar": "task: change the recording quality to 256 kbps in the settings.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Bitrate<br>128 kbps</button>\nCheck <checkbox checked=False>256 kbps</checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98",
+                "d95438ce61e20b6f15338518b419c703ebd4fbe52def4f815c0dfd3c43ce5357"
+            ],
+            "relevance": 0.08444870187859813
+        },
+        "4df35b6d2ae8f861b72e4679d5b913eda79167ffdec5e252ee5dbd46b1fa0913": {
+            "task": "set audio source to microphone",
+            "similar": "task: configure audio source settings for voice recording and enable voice communication.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Audio source<br>Camera</button>\nCheck <checkbox checked=False>Voice communication</checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98",
+                "5abd380a0c963678d243621338a4b57c51aa452f7503f101867b33b7eb2e323e"
+            ],
+            "relevance": 0.08463298036533962
+        },
+        "9cf6b86d92700a1d9033f7e37ca413e7ff93b5a8e235ffef9f2349abd8a006bd": {
+            "task": "set extension to mp3",
+            "similar": "task: change the audio format to m4a and enable the ogg (Opus) format in the settings.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Extension<br>m4a</button>\nCheck <checkbox checked=False>ogg (Opus)</checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98",
+                "95beae32f88ba63e6f6e4cd7eaf4a4e3ae5ba656437bfadff97612b12d90732e"
+            ],
+            "relevance": 0.07688217081848328
+        },
+        "d4a5aef9926ba4403cd6d9a4603678b51dc4de5d7ce28e11a1bde887bc2fa372": {
+            "task": "Start recording automatically after launching the app",
+            "similar": "task: customize settings for the voicerecorder app, specifically enabling the automatic start of recording after launching the app.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Start recording automatically after launching the </checkbox>\n",
+            "gpath": [
+                "ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f",
+                "4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98"
+            ],
+            "relevance": 0.08774386971276157
+        }
+    },
+    "dialer": {
+        "401db5d08189744fa4a86652100f9699225cbe1bf882fe3a81452a10fd9aacbf": {
+            "task": "add contact Alice to favorites",
+            "similar": "task: add Alice as a favorite contact.",
+            "path": "Click on <button>Alice</button>\nClick on <button text='Toggle favorite'></button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748"
+            ],
+            "relevance": 0.055168553195157434
+        },
+        "0069629818a51630af9562a1a8e645f5ef99ccd093fa9aee5269ffb317edb34f": {
+            "task": "search contact Alice and check her info",
+            "similar": "task: edit contact information for Alice.",
+            "path": "Click on <button>Alice</button>\nClick on <button text='Edit contact'></button>\nClick on <button>Home</button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748",
+                "03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f"
+            ],
+            "relevance": 0.05038229842899573
+        },
+        "0f81096de2e16d025f271c68ef8748f032784d2289de40284a8230ff84e953f5": {
+            "task": "Switch custom colors to light and save it",
+            "similar": "Task: Customize the color theme of the dialer app to a dark theme and enable the \"Black & White\" option.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\nClick on <button>OK</button>\nCheck <checkbox checked=False>Black & White</checkbox>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "77583b11ad5633cfffda3a1c606f2b82cf5edbe5739d839f74bfd29973528d44",
+                "b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da",
+                "db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb",
+                "ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d"
+            ],
+            "relevance": 0.045107753223116304
+        },
+        "b7eb7481a4aa9f544515409d0872feeef58d25ae925dffb691f72a99876643db": {
+            "task": "adjust font size to medium",
+            "similar": "task: adjust the font size of the app dialer interface to medium and navigate back to the homepage.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Font size<br>Large</button>\nCheck <checkbox checked=False>Medium</checkbox>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "77583b11ad5633cfffda3a1c606f2b82cf5edbe5739d839f74bfd29973528d44",
+                "b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3",
+                "0c705b9a74f692e6c4feab6b9d9f9b1b992876e5272ee28d4c03a00597b4ae41"
+            ],
+            "relevance": 0.047421335461225816
+        },
+        "4dce9937cbc16ad39dbe6e2a7e37f13538a73f975ce81764edb5553c147a155e": {
+            "task": "create a new contact John Smith, moblie number 12345678900",
+            "similar": "task: create a new contact with a mobile phone number and label it as \"Main\".",
+            "path": "Click on <button text='Create new contact'></button>\nClick on <button>Mobile</button>\nCheck <checkbox checked=False>Main</checkbox>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071",
+                "b497131bb37d355259223709b95c716efd4d28b0b2c5b00787c7eef44d8e896e"
+            ],
+            "relevance": 0.051465490551609004
+        },
+        "19d64461e3b96a244ef7991aaf4d65f40930e7ceb1cc346e1aa812e1a970e373": {
+            "task": "delete all call history",
+            "similar": "task: clear call history",
+            "path": "Click on <button>Call History</button>\nClick on <button text='Clear call history'></button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "c2f57686134356b605c0382b1627b8cb89c71e3597fe2bddae95f0f9c5a3c4e3"
+            ],
+            "relevance": 0.05500214257488506
+        },
+        "fd2ef21a12c84b1a892de768c1fed236a0f97a6d3e77799921175add1b6c3f65": {
+            "task": "view favorite contacts",
+            "similar": "task: view favorite contacts",
+            "path": "Click on <button>Favorites</button>\nClick on <button>Contacts</button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "52a5299065b902fc4c15bdb017cc11e6f7016b4f196812630def508dd44cf179"
+            ],
+            "relevance": 0.05893625251005435
+        },
+        "068eae978f45a3ab907c1220f0dbf113b89d3023fea067a4391074d27d701ce3": {
+            "task": "turn on hide dialpad numbers",
+            "similar": "task: Hide dialpad numbers in the dialer app settings.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Hide dialpad numbers</checkbox>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "77583b11ad5633cfffda3a1c606f2b82cf5edbe5739d839f74bfd29973528d44",
+                "b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3"
+            ],
+            "relevance": 0.05365225479873283
+        },
+        "2813e21d32a5a7d3eb0eacc7ead08488c1db495d2625c77b8b574020bcdce272": {
+            "task": "Sort contacts by first name",
+            "similar": "Task: Sort contacts by first name in ascending or descending order.",
+            "path": "Click on <button text='Sort by'></button>\nCheck <checkbox checked=False>First name</checkbox>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "b1a00fd39b48c98523831f52dca1e27884000b421faf80ee89f5ecac04481894"
+            ],
+            "relevance": 0.055180279007817946
+        },
+        "e7200d11f657a851cc5fa66db8b77ebe224fd3659dab173ce7106feb0d22e65d": {
+            "task": "search call history with Bob",
+            "similar": "task: view call history with Bob on June 30th for a duration of 2 minutes.",
+            "path": "Click on <button>Call History</button>\nClick on <button>Bob<br>30.06<br>00:02</button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "c2f57686134356b605c0382b1627b8cb89c71e3597fe2bddae95f0f9c5a3c4e3"
+            ],
+            "relevance": 0.04930823210286728
+        },
+        "b5ff699136aea2157f4eaf8b7cd69731ab72fec17cd94805fb7ca6c9e59a816a": {
+            "task": "Modify Alice's mobile number to 1234567890 and save it",
+            "similar": "task: edit the mobile number for the contact named Alice.",
+            "path": "Click on <button>Alice</button>\nClick on <button text='Edit contact'></button>\nClick on <button>Mobile</button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748",
+                "03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f"
+            ],
+            "relevance": 0.054447012317361515
+        },
+        "b956db38741ecfe00aaf89273a421d0ecabe6ecd40b215618bfe8ae7ccb30259": {
+            "task": "delete contact Jack",
+            "similar": "task: delete the contact named Jack.",
+            "path": "Click on <button>Jack</button>\nClick on <button text='Delete'></button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "6063090f9aeda054081d0a358367aef074b4dfa81b5302e57e4856653362fae8"
+            ],
+            "relevance": 0.05557220576834985
+        },
+        "55849cb5781bc1e9bd3a106785ac198c55116fb51ccc71203f8d5a2579c76437": {
+            "task": "text Alice that I-love-you",
+            "similar": "task: send an SMS to Alice.",
+            "path": "Click on <button>Alice</button>\nClick on <button text='Send SMS'></button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748"
+            ],
+            "relevance": 0.04708449288250624
+        },
+        "61dd43c18f96d905f5e3168f306383d5786b80b588094eaa1875f2facae65f9f": {
+            "task": "call Alice",
+            "similar": "task: call Alice",
+            "path": "Click on <button>Alice</button>\nClick on <button text='Call contact'></button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748"
+            ],
+            "relevance": 0.05761403370132354
+        },
+        "527fae6860e507c2929a14982d10daeda47c779024c5db27e1aa8e7709eed6ab": {
+            "task": "call 911",
+            "similar": "task: call/contact Jack at the mobile number 333333.",
+            "path": "Click on <button>Jack</button>\nClick on <button>333333<br>Mobile</button>\n",
+            "gpath": [
+                "36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4",
+                "6063090f9aeda054081d0a358367aef074b4dfa81b5302e57e4856653362fae8"
+            ],
+            "relevance": 0.042768519114472554
+        }
+    },
+    "camera": {
+        "d7bde5acb793b78e5728a5ae56c6471d1a387e466b08eb6ba4724dd3067e926e": {
+            "task": "record a short video",
+            "similar": "task: capture a video",
+            "path": "Click on <button text='Video'>Video</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb"
+            ],
+            "relevance": 0.07523872738067046
+        },
+        "01e2f71918a4dd3967a0ae182eb8cca6e7cd2036df595c471d864075f1f6e99e": {
+            "task": "open the last picture I took",
+            "similar": "task: view the last media (photo or video) captured by the camera.",
+            "path": "Click on <button text='View last captured media'></button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb"
+            ],
+            "relevance": 0.06852507003773471
+        },
+        "63f463932b288fb1147e838ef6ba757e6f7b0460365988c6d555b846e4e6ae13": {
+            "task": "delete the last photo I took",
+            "similar": "task: delete the last captured media/photo.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='Delete'></button>\nCheck <checkbox checked=False>Do not ask again in this session</checkbox>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "9204fffe58de3098a45867317f113f5217e9e0dc90b978efb2bc2b8b78ece344"
+            ],
+            "relevance": 0.07817708846134555
+        },
+        "c61489b89b1946269ba75db899fa83619285bdf95ef0c0f2ef368ecb957e0115": {
+            "task": "move the last photo I took to folder 'movies' in SD card",
+            "similar": "task: move the last captured media to a different folder in the camera app.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='More options'></button>\nClick on <button>Copy to</button>\nClick on <button>Other folder</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22",
+                "ae571e20fdff6720466325a2e400ba95cfa8709d8a6d312291e51667a17b4213"
+            ],
+            "relevance": 0.0740311377776394
+        },
+        "0d9c616066f560809bc32ed80dffecc58a6d80ad360142aff2344f6d820d6b33": {
+            "task": "take a selfie",
+            "similar": "task: take a video or photo using the smartphone camera",
+            "path": "Click on <button text='Video'>Video</button>\nClick on <button text='Photo'>Photo</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "de630b21122c64a3fe10ecfaed57c4f75aa0ccc034c0d4f0829a1eceee1cd316"
+            ],
+            "relevance": 0.06872487401532885
+        },
+        "ad5db2054d44589eb3b7147401f2ae1c0798913348509e2d807f14b01f8e54be": {
+            "task": "check the size of the last photo I took",
+            "similar": "Task: Resize the last captured media (photo) and save it with a customizable file name and location.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='More options'></button>\nClick on <button>Resize</button>\nClick on <button>OK</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22",
+                "05439376b08f3a4ec00debd52cc232b6c91e797fb80d5bf7d6a66a19f97a3e2c"
+            ],
+            "relevance": 0.0676751960130216
+        },
+        "c2b4688591cf1f1d7c0406d59dcfd8bb4d1886c54f2bcd9f2e064d0a7c966e0b": {
+            "task": "use volume button as shutter",
+            "similar": "Task: Customize camera settings to use volume buttons as shutter.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Use volume buttons as shutter</checkbox>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f"
+            ],
+            "relevance": 0.0781435298139913
+        },
+        "53645938bb4cbd3a8b813cb94755a9cb9f03435201e2434f2549794debfc6043": {
+            "task": "add the last photo to favorite",
+            "similar": "task: mark the last captured media as a favorite",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='Toggle favorite'></button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1"
+            ],
+            "relevance": 0.06951885560809577
+        },
+        "662705099f4ea6e5024a1b00b92256e07cba74c876f8ee1a1d35e3412f191c88": {
+            "task": "print the last picture I took as pic3.jpg",
+            "similar": "task: print the last captured media.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='More options'></button>\nClick on <button>Print</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22"
+            ],
+            "relevance": 0.06543668871113499
+        },
+        "5ba4dd4cd25c4a44cbe5072e5e656ca0483d95facd7b93b455d5395dd460b887": {
+            "task": "set photo compression quality to 50%",
+            "similar": "task: adjust the photo compression quality to 50% in the camera settings.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Photo compression quality<br>80%</button>\nCheck <checkbox checked=False>50%</checkbox>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f",
+                "fc63633d276f5f311e9a772a8b4c25b0d386064b8b7d22520af1e43de47529b2"
+            ],
+            "relevance": 0.08144783543616259
+        },
+        "bb56b10db2d289f022cb73cbcf16c96a8387c5484d1596b4d26438dae515e336": {
+            "task": "rotate right the last picture I took and save it as pic4.jpg",
+            "similar": "task: rotate the last captured media to the right and save it.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='Rotate'></button>\nClick on <button>Rotate right</button>\nClick on <button text='Save as'></button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "b85c0edc1b54705cf5f91dce3d464afe475ee6043af156be966ffc0fabc49582",
+                "1c3d85795f30f7072b53f1c0021459dc742227f450e3f438ef74fc857a7015fe"
+            ],
+            "relevance": 0.07318065908131074
+        },
+        "2d4caf6bbfdc3d4bb5cab7c76b7463417bfd3cc125ad5dbeafa4b614fa73c266": {
+            "task": "rename the last photo to 'sunset'",
+            "similar": "Task: Resize the last captured media (photo) and save it with a customizable file name and location.",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='More options'></button>\nClick on <button>Resize</button>\nClick on <button>OK</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22",
+                "05439376b08f3a4ec00debd52cc232b6c91e797fb80d5bf7d6a66a19f97a3e2c"
+            ],
+            "relevance": 0.06444620946106336
+        },
+        "3d888c7712cfaa77182531a889141279aaede4aedf48823c3b3717eff08e91f8": {
+            "task": "resize the last photo to 1000:473",
+            "similar": "task: resize the last captured media",
+            "path": "Click on <button text='View last captured media'></button>\nClick on <button text='More options'></button>\nClick on <button>Resize</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "f0c7d4f5cd80d174486b8bf80b9d8fdf9194087dba2597e5a56418705f1d28e1",
+                "90b09a315edf7d063855fd669828d16be6f1d47b81efdcf37319cc93dff0da22"
+            ],
+            "relevance": 0.07094446418562025
+        },
+        "021fff0acccbe1c0dfafbd6bd253eb6ec258063435d37c3698029446199aed32": {
+            "task": "close the shutter sound",
+            "similar": "task: disable the shutter sound for the camera.",
+            "path": "Click on <button text='Settings'></button>\nUncheck <checkbox checked=True>Shutter sound</checkbox>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "be4494fd25abe78afe86c224e86b0aba60534f39525371c837a1d3bedff9919f"
+            ],
+            "relevance": 0.06948405103003595
+        },
+        "dd5256dd5a2bcd685d3f70436e64d9c4d8490efe8c3566bd0538227554b097bf": {
+            "task": "take a short selfie video",
+            "similar": "task: take a video or photo using the smartphone camera",
+            "path": "Click on <button text='Video'>Video</button>\nClick on <button text='Photo'>Photo</button>\n",
+            "gpath": [
+                "863cb466e6a7b76e3579075348e7500c30d85b1deecbd22fd9bad4fcb02cdbfb",
+                "de630b21122c64a3fe10ecfaed57c4f75aa0ccc034c0d4f0829a1eceee1cd316"
+            ],
+            "relevance": 0.07304943296503622
+        }
+    },
+    "applauncher": {
+        "33bf89881ca2824783b69b9dce9e15c2d6f31d0266e00651e7d03d54dd07d385": {
+            "task": "Change column count to 3",
+            "similar": "Task: Adjust the column count settings in the app launcher interface.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Column count</button>\n",
+            "gpath": [
+                "3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f",
+                "ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c"
+            ],
+            "relevance": 0.097594232299069
+        },
+        "9d9d67ba3b1f3437eca954256ed689804dce365028f9c994f08866dd946fb371": {
+            "task": "Sort apps by title in descending order",
+            "similar": "task: Sort the app launcher display order and direction in descending order.",
+            "path": "Click on <button text='Sort by'></button>\nUncheck <checkbox checked=True>Ascending</checkbox>\n",
+            "gpath": [
+                "3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f",
+                "7bd9e2ded8ae3ec34dffeefb946dad82da73e3a8c7d983d8eed62b7ba2093beb"
+            ],
+            "relevance": 0.1121882885400872
+        },
+        "335b0baf56e14f8384b667abae952611e4c2837d022e396408f4cd54df95e672": {
+            "task": "search 'Clock' app and open it",
+            "similar": "task: view information about the Clock app and its features.",
+            "path": "Click on <button>Clock</button>\nClick on <button text='About'></button>\n",
+            "gpath": [
+                "3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f",
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30"
+            ],
+            "relevance": 0.11614437249500126
+        },
+        "20112d3f45c57515f523084bb615fffabe2f463d2f300465d9dac7b9b155d8ee": {
+            "task": "Disable closing this app when launching a different one",
+            "similar": "task: disable the option to close the app when launching a different one.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nUncheck <checkbox checked=True>Close this app at launching a different one</checkbox>\n",
+            "gpath": [
+                "3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f",
+                "ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c",
+                "c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7"
+            ],
+            "relevance": 0.12241044005859883
+        },
+        "11a062dc6dffce8acf85d276048014f2d7e3789ce92578de394b7d7b52ec1df0": {
+            "task": "Change theme color to light",
+            "similar": "task: Change the app theme to dark and uncheck the option for white color.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\nClick on <button>OK</button>\nCheck <checkbox checked=False>White</checkbox>\n",
+            "gpath": [
+                "3f9adbf098ff69152b801042222f25ddd612674644e5d20b4c3617b4c9e33b3f",
+                "ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c",
+                "c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da",
+                "db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb",
+                "ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d"
+            ],
+            "relevance": 0.11094806729178605
+        }
+    },
+    "messenger": {
+        "8f7e8801b02a387b1e7bd88d3e75d4103131517817a6234b5baba66bc53b5646": {
+            "task": "Export all messages to 'Messages_2023_07_01_11_04_43.json'",
+            "similar": "task: export and save messages to a new folder in order to manage and organize them.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Export messages</button>\nClick on <button>OK</button>\nClick on <button text='New folder'></button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "ed52ffd458f2d820697aeecc26d5fd3e9edbba87d5fa8a4f2c57eadd368ee196",
+                "537c4da87ea34a8ba644cc023a5aedaf47cb878268794131767c7c75b55974e1",
+                "ba07083063ba3308faf997627f22ac6c3209c35b90fded27bf0bf78b5bf3f761"
+            ],
+            "relevance": 0.06048392532323587
+        },
+        "243beccae84c125f33c5fec51cf4a21eb60eaf5c244e8c8b05097d27f1434579": {
+            "task": "Send a text message \"Morning\" to Alice",
+            "similar": "task: view a message from Alice sent at 30.06, 12:18 PM.",
+            "path": "Click on <button>Alice<br>Hello<br>30.06</button>\nClick on <button>30.06, 12:18 PM</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20"
+            ],
+            "relevance": 0.05960142758649411
+        },
+        "0f81096de2e16d025f271c68ef8748f032784d2289de40284a8230ff84e953f5": {
+            "task": "Switch custom colors to light and save it",
+            "similar": "task: change the color theme of the messenger app to dark mode.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da"
+            ],
+            "relevance": 0.055336738056664
+        },
+        "b7eb7481a4aa9f544515409d0872feeef58d25ae925dffb691f72a99876643db": {
+            "task": "adjust font size to medium",
+            "similar": "task: Change the font size of the messenger app to medium.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Font size<br>Medium</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.06250799591074768
+        },
+        "5f8ac37034e45b8fba5ff89adb0da2124375e2af0a86b87a6ed4e3d36e6daa65": {
+            "task": "find messages with Alice",
+            "similar": "task: view a message from Alice sent at 30.06, 12:18 PM.",
+            "path": "Click on <button>Alice<br>Hello<br>30.06</button>\nClick on <button>30.06, 12:18 PM</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20"
+            ],
+            "relevance": 0.06179612958634618
+        },
+        "bf34f8d6c4f751fbbdcc941167c88c103f7982933be2a3913b796f5a5c01e552": {
+            "task": "Delete and Bob's message records",
+            "similar": "task: delete a message from Bob sent on 30.06.",
+            "path": "Click on <button>Bob<br>Hey<br>30.06</button>\nClick on <button text='Delete'></button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4"
+            ],
+            "relevance": 0.06475449161076556
+        },
+        "77efb222a7b1bf00ee16b7b841d1ab95952a91ae2a316d6a76301526022f9e43": {
+            "task": "show a character counter at writing messages",
+            "similar": "task: Enable character counter for writing messages in Messenger settings.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Show a character counter at writing messages</checkbox>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.06347282230608507
+        },
+        "640d6e9818df79f0cd3be30035b9b14d960fcdddf6a0e337e645157f056f01b9": {
+            "task": "Remove accents and diacritics at sending messages",
+            "similar": "task: customize messenger settings to remove accents and diacritics in outgoing messages.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Remove accents and diacritics at sending messages</checkbox>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.0669183412152507
+        },
+        "6ca764fb5413b5cfc97e6a8f60b1d5f0a778160e9985517f64f0ee842dbaa5c2": {
+            "task": "change the name of the chat with Alice to 'team_discussion'",
+            "similar": "task: view conversation details and members of a conversation with Alice.",
+            "path": "Click on <button>Bob<br>Hey<br>30.06</button>\nClick on <button text='More options'></button>\nClick on <button>Conversation details</button>\nClick on <button>Alice</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4",
+                "9ffbb234505400b8464dea1efcb086d4a7b9be36e8cbadae0702e4e3638808e9",
+                "f818b4c205c94b8578791e62b5352f3349b4bc4345ecda977fe8158449018067"
+            ],
+            "relevance": 0.06081840346493987
+        },
+        "62c14ac2217b0e4163ef3df119f940838addccc1fd5a77f6f7c223a6659e826e": {
+            "task": "view messages with Bob",
+            "similar": "task: view a message from Bob sent on 30.06 at 12:18 PM.",
+            "path": "Click on <button>Bob<br>Hey<br>30.06</button>\nClick on <button>30.06, 12:18 PM</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4"
+            ],
+            "relevance": 0.06300314217165175
+        },
+        "6e961fb0b09e1f064e3d80231a6c77844b2b0f5e5e0dd20295456b4851409072": {
+            "task": "Mark the chat with Bob as Unread",
+            "similar": "task: mark a message from Bob as unread in the messenger app.",
+            "path": "Click on <button>Bob<br>Hey<br>30.06</button>\nClick on <button text='More options'></button>\nClick on <button>Mark as Unread</button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4",
+                "9ffbb234505400b8464dea1efcb086d4a7b9be36e8cbadae0702e4e3638808e9"
+            ],
+            "relevance": 0.06335402987795977
+        },
+        "7ed78cd7c6e0775da7243ebebc37860637dc9dc3a3678c2878b3f14138708037": {
+            "task": "Send long messages as MMS",
+            "similar": "task: Enable or disable the option to send long messages as MMS.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Send long messages as MMS</checkbox>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.06511871554996142
+        },
+        "61d3016e2a1d7836060c1a94cfe6855a28f928465c2fa74c0a03a81bf9a902fa": {
+            "task": "Enable delivery reports",
+            "similar": "task: enable delivery reports for outgoing messages in messenger.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Enable delivery reports</checkbox>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.06193140163573057
+        },
+        "61dd43c18f96d905f5e3168f306383d5786b80b588094eaa1875f2facae65f9f": {
+            "task": "call Alice",
+            "similar": "task: make a phone call to Alice on June 30th.",
+            "path": "Click on <button>Alice<br>Hello<br>30.06</button>\nClick on <button text='Dial number'></button>\nClick on <button text='Call number'></button>\nClick on <button text='Add call'></button>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20",
+                "552d30f235e58ed1f603339ad1897b0df260b1dad80bb75397a1cd8e0d34322c",
+                "467d921c37c70b9fd0d0f21ea8b93c3025ef4d0984d7aab6e67e6c940756c3e0"
+            ],
+            "relevance": 0.05974825156499083
+        },
+        "e770176258d8c4cfc7f47886eb3104a7a203f40c2a7a846aa5717f354438c69d": {
+            "task": "Send message by pressing Enter",
+            "similar": "task: Enable or disable the option to send a message by pressing Enter in Messenger.",
+            "path": "Click on <button text='Settings'></button>\nCheck <checkbox checked=False>Send message on pressing Enter</checkbox>\n",
+            "gpath": [
+                "fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9",
+                "bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc"
+            ],
+            "relevance": 0.06215638807990648
+        }
+    },
+    "filemanager": {
+        "7168a95a489416e511571b61a630eeb2f9683193fc58807d4a8c01f57687aa5c": {
+            "task": "sort the folers by last modified in descending order",
+            "similar": "task: sort files in the filemanager.",
+            "path": "Click on <button text='Sort by'></button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.12213825692843208
+        },
+        "83d2f13d9f78b91746ca669d34e8b677c350b632a9cd58c41434bddfea4852ec": {
+            "task": "sort the folders by size",
+            "similar": "task: sort files in the filemanager.",
+            "path": "Click on <button text='Sort by'></button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.13706380982412944
+        },
+        "a52690f6566116b26a2f966f6db2c9e2d266f87211e2717d693704cd7788e453": {
+            "task": "go to 'download' folder and open Diary.pdf",
+            "similar": "task: Access the LOST.DIR folder and view its contents.",
+            "path": "Click on <button>Internal</button>\nCheck <checkbox checked=False>SD Card</checkbox>\nClick on <button>LOST.DIR<br>0 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa",
+                "5f85df70a940e359b72b4d31661621c0d94c5b998ad8e89651396c59162f3e69"
+            ],
+            "relevance": 0.1252201938093174
+        },
+        "6c8d6458ba3a7789eb26b38baed6c8d782a6319c544595edffa10c702e9c1a12": {
+            "task": "open screen_2023-06-30_141247.png with gallery, Always open with gallery",
+            "similar": "task: view and manage pictures in the file manager.",
+            "path": "Click on <button>Pictures<br>0 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.11904366849577974
+        },
+        "e93e8c44c375b63c0f59417341c8a7f9d8049584aa2b20a73b11cee269654c88": {
+            "task": "add 'alarms' as favorite",
+            "similar": "task: add a file to favorites",
+            "path": "Click on <button text='Add to favorites'></button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.12554068517822878
+        },
+        "e269c90eebf3a34d2f66a2b3ca4c6bed9ad70e43cf13bc3412b564eba75e0fb0": {
+            "task": "go to the 'recent' tab and open the test1.m4a",
+            "similar": "Task: View recently accessed files and manage them by searching, sorting, adding to favorites, and navigating folders.",
+            "path": "Click on <button>Recents</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.12091695291461453
+        },
+        "4adc0926e94d7b28fe278cd20c77f60fdea3dd993b6b70921f885e08c6a78e83": {
+            "task": "go to recents and play video2.mp4",
+            "similar": "Task: View and manage movies in the file manager, including searching, sorting, adding to favorites, and navigating folders.",
+            "path": "Click on <button>Movies<br>0 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.11753294430415921
+        },
+        "cae5dec04cc02e388f1b89fcee98e9fc255a98d9b57e4a993448a18996d15654": {
+            "task": "temporarily show hidden files",
+            "similar": "task: Access the LOST.DIR folder and view its contents.",
+            "path": "Click on <button>Internal</button>\nCheck <checkbox checked=False>SD Card</checkbox>\nClick on <button>LOST.DIR<br>0 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa",
+                "5f85df70a940e359b72b4d31661621c0d94c5b998ad8e89651396c59162f3e69"
+            ],
+            "relevance": 0.1099925100044048
+        },
+        "9096591991e825ec3963ac212bbbc322ed20e417505aee999ab8da2208948127": {
+            "task": "disable showing the 'recents' tabs",
+            "similar": "Task: View recently accessed files and manage them by searching, sorting, adding to favorites, and navigating folders.",
+            "path": "Click on <button>Recents</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.10682856314478405
+        },
+        "454c16a454d3d91d64a501e479929b9612e958ebf93fb893e28aff28ecb653f0": {
+            "task": "open 'android' folder, sort the files by extension",
+            "similar": "task: manage files, search, sort, add to favorites, view options, navigate folders on the Android device.",
+            "path": "Click on <button>Android<br>3 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.1396051028203946
+        },
+        "58d3cd387bfcc544ef6fd9410a902bfae934d4d71a06d88f849852c62aad7b0c": {
+            "task": "change the theme to light",
+            "similar": "task: add a new ringtone to the file manager.",
+            "path": "Click on <button>Ringtones<br>0 items</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.10137485763560002
+        },
+        "0a43b803ab70c7c324cf211286424b63d841b3ed839a5b6f26c2610db5daf183": {
+            "task": "change the storage type to sd card",
+            "similar": "task: access files on the SD card",
+            "path": "Click on <button>Internal</button>\nCheck <checkbox checked=False>SD Card</checkbox>\nClick on <button>SD Card</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa",
+                "5f85df70a940e359b72b4d31661621c0d94c5b998ad8e89651396c59162f3e69"
+            ],
+            "relevance": 0.14087795799215191
+        },
+        "da19d4b41f3548b52cbcf924bb1991d13d672431342441ad069989bab58f50c3": {
+            "task": "check the total storage of my phone",
+            "similar": "Task: Select internal storage and manage files in the smartphone app filemanager.",
+            "path": "Click on <button>Internal</button>\nCheck <checkbox checked=False>SD Card</checkbox>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa"
+            ],
+            "relevance": 0.12999186527168172
+        },
+        "fccdc9d115baa0b9962c250df6098a308f6928ba55f7270d18f616ae4370c240": {
+            "task": "change pressing 'back' from twice to once to leave the app",
+            "similar": "task: Select internal storage, manage files on the SD card, and go back to the previous page.",
+            "path": "Click on <button>Internal</button>\nCheck <checkbox checked=False>SD Card</checkbox>\nClick on <button>SD Card</button>\nUncheck <checkbox checked=True>SD Card</checkbox>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa",
+                "5f85df70a940e359b72b4d31661621c0d94c5b998ad8e89651396c59162f3e69",
+                "35eaf64d1ecc1be38d8ba6b606c51c8f981caee6862065502be6803f57796b58"
+            ],
+            "relevance": 0.1164547747133207
+        },
+        "03a17afb729cc29687a6154964c40d4101aafd121510fd0dc8fc7dc6c3777f7e": {
+            "task": "change the view type to grid",
+            "similar": "task: view the details of a file and its properties.",
+            "path": "Click on <button>screen_2023-06-30_143638.png<br>0 B<br>30.06.2023, 02:36 PM</button>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1"
+            ],
+            "relevance": 0.10030279151655482
+        },
+        "4e8aa6220f79c4c653b1f897a707341049f3e852059a1693409f85387a13c15e": {
+            "task": "change font size of the File manager app to large",
+            "similar": "task: Change the storage location for file management in the smartphone app filemanager.",
+            "path": "Click on <button>Internal</button>\nUncheck <checkbox checked=True>Internal</checkbox>\n",
+            "gpath": [
+                "4ab22c498122e2ee239fea7ea030f4f60c03229f1e8e59353d5d52832a2837f1",
+                "6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa"
+            ],
+            "relevance": 0.12203823914684407
+        }
+    },
+    "contacts": {
+        "3f70d4da52a3c7614d7137f8fee9c5294ff4d95ed58d4bce647de12d2872921a": {
+            "task": "Open dialpad and call 911",
+            "similar": "task: make a phone call to contact Bob using the dialpad.",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Call contact'></button>\nClick on <button text='Show dialpad'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08",
+                "33261b024cf187d44cfbd77ea3cc0b387c9dc6a7ca8739e8c64c9449cb33976d"
+            ],
+            "relevance": 0.04755821036834386
+        },
+        "11a062dc6dffce8acf85d276048014f2d7e3789ce92578de394b7d7b52ec1df0": {
+            "task": "Change theme color to light",
+            "similar": "Task: Change the app interface theme to a dark theme with black and white colors.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\nClick on <button>OK</button>\nCheck <checkbox checked=False>Black & White</checkbox>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "519dcdd3d48aae92a24073b13b3e0d2704cfa3f644d023807b499013745623a0",
+                "8b528df166c868ad9622db32da094e4f8ffa12ba1f3b3ccc8bd32315b24eeb06",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da",
+                "db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb",
+                "ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d"
+            ],
+            "relevance": 0.05284899895849672
+        },
+        "dcf5d39c1473f55c74c92c11092dd995b2a68d23c9c0340047bbcecbb97e8fd6": {
+            "task": "Disable showing the dial pad button on the main screen",
+            "similar": "Task: Disable the dialpad button on the main screen of the contacts app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nUncheck <checkbox checked=True>Show a dialpad button on the main screen</checkbox>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "519dcdd3d48aae92a24073b13b3e0d2704cfa3f644d023807b499013745623a0",
+                "8b528df166c868ad9622db32da094e4f8ffa12ba1f3b3ccc8bd32315b24eeb06"
+            ],
+            "relevance": 0.05356588226591904
+        },
+        "749b0709e0f7bcf9c9ba81dccd6c48720055053882d5d99893f19fe669df7516": {
+            "task": "Change Bob's mobile number from '222222' to '12345678900'",
+            "similar": "task: edit the mobile number for contact Bob.",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Edit contact'></button>\nClick on <button>Mobile</button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08",
+                "52e178c921ff9d93ab5665339017cf1d2b508ebfca1a68aff58ac3cb4d7c5db2"
+            ],
+            "relevance": 0.053172040731645435
+        },
+        "18cde5980976b09b102b72f99557b7097af823933ead6ee68767ff2c6d9dfcef": {
+            "task": "Create a new contact Stephen Bob, mobile number 12345678900",
+            "similar": "task: call Bob on his mobile number 222222.",
+            "path": "Click on <button>Bob</button>\nClick on <button>222222<br>Mobile</button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08"
+            ],
+            "relevance": 0.052670766082179805
+        },
+        "96e0d89b6c91e87b3b716b3b3f9127fc16be2fc6e2fc64a648cb619c0ccc9e06": {
+            "task": "Create a new group 'Classmates',add Alice,Bob and Jack to the new group, and text to the group 'GatheringInTheOldPlace'",
+            "similar": "task: create a new group and add contacts to it.",
+            "path": "Click on <button>Groups</button>\nClick on <button>Contacts</button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "a967b4b00c494385f6b35449b1575c183f258ab736c946a12a3697c9c1f82ec0"
+            ],
+            "relevance": 0.04787025451188473
+        },
+        "aa2e9c926fc50918969448be5c233bb21a456a4865445ca3bced90cf4789fbee": {
+            "task": "Add contact Bob to Favorites",
+            "similar": "task: mark Bob as a favorite contact.",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Toggle favorite'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08"
+            ],
+            "relevance": 0.054814863345072275
+        },
+        "1259c4b6781c4bcfbfb14cbc350042509a291ed19c22d774063962aa26a13b99": {
+            "task": "Change the font size of the Contacts app to medium",
+            "similar": "Task: Adjust the font size to \"Large\" in the settings of the contacts app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Font size<br>Large</button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "519dcdd3d48aae92a24073b13b3e0d2704cfa3f644d023807b499013745623a0",
+                "8b528df166c868ad9622db32da094e4f8ffa12ba1f3b3ccc8bd32315b24eeb06"
+            ],
+            "relevance": 0.056120651152358786
+        },
+        "02fede669084d4e1fb1dbfeb81821f96b3c7b8377e312cf5eaa0d06d7eac2636": {
+            "task": "Send a text message to Bob with the following content:'Goodmorning'",
+            "similar": "task: send an SMS to Bob",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Send SMS'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08"
+            ],
+            "relevance": 0.05263562155805015
+        },
+        "c675f2e6b45292eb1e6e382bbfcc3cd0c7a06164012ec912280ecb965bb87da7": {
+            "task": "Export contacts to a .vcf file 'classmate.vcf''",
+            "similar": "task: export contacts to a .vcf file",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Export contacts to a .vcf file</button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "519dcdd3d48aae92a24073b13b3e0d2704cfa3f644d023807b499013745623a0"
+            ],
+            "relevance": 0.0556719687260736
+        },
+        "4ef98de0b3e59e9e3f5562b8be9646df5cbf517ebd2fbcd6c3c227b8032fa36d": {
+            "task": "Open Bob's information page and call him",
+            "similar": "task: call the contact named Bob.",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Call contact'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08"
+            ],
+            "relevance": 0.0519266262669439
+        },
+        "cde155cc166f5a0f90ec266cb307b2b6a352c7e49689409c6cb400ff5a355e47": {
+            "task": "show phone numbers in the list view",
+            "similar": "Task: Customize the settings for the contacts app to show phone numbers in the main screen options.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Show phone numbers</checkbox>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "519dcdd3d48aae92a24073b13b3e0d2704cfa3f644d023807b499013745623a0",
+                "8b528df166c868ad9622db32da094e4f8ffa12ba1f3b3ccc8bd32315b24eeb06"
+            ],
+            "relevance": 0.04909619765419057
+        },
+        "c66b84782c2efad98e00a69173b7def1fe72688df3ebc51b054f659eb716bf1c": {
+            "task": "Delete contact Bob",
+            "similar": "task: delete the contact named Bob from the user's contacts list.",
+            "path": "Click on <button>Bob</button>\nClick on <button text='Delete'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b",
+                "8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08"
+            ],
+            "relevance": 0.05542370185352637
+        },
+        "e34e28f173cbff72e143303dd7249862009b0653f5be9958fd48b0a03e889140": {
+            "task": "Sort contacts based on \"Date created\" in descending order",
+            "similar": "task: sort contacts by a specific criteria (e.g., name, date added, etc.)",
+            "path": "Click on <button text='Sort by'></button>\n",
+            "gpath": [
+                "f89cc7584a3df5e0784713cb5191c2ef1607011f608b524d4625a88fb579f04b"
+            ],
+            "relevance": 0.05143408393163496
+        }
+    },
+    "notes": {
+        "189f0aaa626663d379c7b24d34a87fabbc85ef9ef8930d2d1716a7c305d2df08": {
+            "task": "Delete the note 'Diary'",
+            "similar": "task: delete a note \"Diary\" but decide to cancel the deletion process.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Delete note</button>\nClick on <button>Cancel</button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "fc6060f782647d6f5d40da6d29994f951b643b36ad707888bc79a8f35db6323c"
+            ],
+            "relevance": 0.09626838896608152
+        },
+        "8447e4449d7c16fbbd50b9d8e1a882a24175c59c79c6af41e0b730d18421b175": {
+            "task": "Create a checklist note called 'NewCheckList'",
+            "similar": "task: create a new note with a checklist",
+            "path": "Click on <button text='Create a new note'></button>\nCheck <checkbox checked=False>Checklist</checkbox>\nUncheck <checkbox checked=True>Checklist</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "67f3b94e0e34c3430a429ef07289bd7b94c6e3b80719e6fc9d839c0f23ad3b4f",
+                "1d832e8a3eaca63650806e61bb2e4d6707fb07d077e168297e487f58db9692eb"
+            ],
+            "relevance": 0.09948575743278655
+        },
+        "412d41054919df21554d8ca270c18495499078c26698b40005adb6e0e9c3cc15": {
+            "task": "create a checklist named 'test' and sort the items by creating date",
+            "similar": "task: create a new note with a checklist",
+            "path": "Click on <button text='Create a new note'></button>\nCheck <checkbox checked=False>Checklist</checkbox>\nUncheck <checkbox checked=True>Checklist</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "67f3b94e0e34c3430a429ef07289bd7b94c6e3b80719e6fc9d839c0f23ad3b4f",
+                "1d832e8a3eaca63650806e61bb2e4d6707fb07d077e168297e487f58db9692eb"
+            ],
+            "relevance": 0.08696775722231927
+        },
+        "9ec4d898bf75e518459d347bec581eece9e15e848372237f561accdb9dbf3a9c": {
+            "task": "set app theme to light and save it",
+            "similar": "task: change the app theme to light.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\nClick on <button>OK</button>\nUncheck <checkbox checked=True>Dark</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da",
+                "db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb",
+                "ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d"
+            ],
+            "relevance": 0.10194875313333342
+        },
+        "3e2b91721388040cb32e6f380ee957ec80f2b0586398970a2b7bec559374a5fe": {
+            "task": "Create a text note named 'NewTextNote'",
+            "similar": "task: create a new note",
+            "path": "Click on <button text='Create a new note'></button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476"
+            ],
+            "relevance": 0.0938714957823291
+        },
+        "674fff46ea8e3c2e438c34f49fdf62316519182ca352d08c7a1f2032002903c3": {
+            "task": "change the alignment to center",
+            "similar": "task: change the alignment of the text in the notes to left and center.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Alignment<br>Left</button>\nCheck <checkbox checked=False>Center</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809",
+                "19b0f2d1f0537d87dd631b7f6e2fb941b2ddd78db91d75c58c9b0eebe03a5177"
+            ],
+            "relevance": 0.09288909107187185
+        },
+        "60da3adc2c7862f9254c721d6f9fecef1bf49b15556ea1170ce601f3de3fe994": {
+            "task": "disable autosave notes",
+            "similar": "task: disable autosave feature in the notes app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nUncheck <checkbox checked=True>Autosave notes</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809"
+            ],
+            "relevance": 0.09858694115524139
+        },
+        "c68435b2423f0142c7901742de1409fc29ddf7d23ad7b49de5c499dc52bdb820": {
+            "task": "Rename the note 'diary' to 'events'",
+            "similar": "task: rename a note",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Rename note</button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a"
+            ],
+            "relevance": 0.08912887258048979
+        },
+        "63b3c162f1c6197c7038e13b4caabfc833374bffa75df6e79c9e141defba53bc": {
+            "task": "print 'Diary' as diary.pdf",
+            "similar": "task: print a note and save it as a PDF.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Print</button>\nClick on <button text='Page 1 of 1'>1/1</button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "d8dc4abb0e56e5f4a2054cebed843fab68f8accaf9b3302aefe20c7e5204846d"
+            ],
+            "relevance": 0.08785228389558744
+        },
+        "ddd27aa5b2aaa203fdf03d98f8be7c5d111745fb18c90c7cd2a24712b7c4e1f0": {
+            "task": "Create a new note called 'test' and type '123456'",
+            "similar": "task: create a new note",
+            "path": "Click on <button text='Create a new note'></button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476"
+            ],
+            "relevance": 0.09218012575222509
+        },
+        "f7318e81dc47205b02b427e64e8be15819408c061c0cef2969102ef1269b9dc3": {
+            "task": "show the nunber of words in the Notes app",
+            "similar": "task: enable the word count feature in the notes app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Show word count</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809"
+            ],
+            "relevance": 0.09385797401266002
+        },
+        "16551b1c2f19ece35781bdd7ce5d8ec38a88a6d6877a9b4c4d3e8eaf4e71998d": {
+            "task": "export note 'Diary' as file diary.txt, only export the current file content",
+            "similar": "task: Export the current note as a file with the option to only export the current file content.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Export as file</button>\nClick on <button>SAVE</button>\nCheck <checkbox checked=False>Only export the current file content\n(changing the</checkbox>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "116e30059d4712a3e2a39a6747be36968a1e2f72e53b9bcee1bcd1bc875aa030",
+                "960353b1affd0b2c421f0cf8a75b6497c066254fb9241986de5120bbd9c66082"
+            ],
+            "relevance": 0.0962750784730916
+        },
+        "cef0bd4a2fbe055f9cdb9d4e4ae38029d356963fbe1254d82948c32737f923ea": {
+            "task": "Adjust the fontsize of the Notes app to 125%",
+            "similar": "task: adjust the font size of the notes app to 100%.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Font size<br>100%</button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476",
+                "d30d629d793bfe53cdcfb3f2984315c78089bafee2ba0f45ef8bc2c0dcf7909a",
+                "10bac2bd974bd90c0972427b375edb6ede4f05a45723e57273aa11236e226809"
+            ],
+            "relevance": 0.10272976339947452
+        },
+        "e7b66a886c48e9b531aeb785e33c9b22c5d5e0075ed4d540ad4544c1cefd607e": {
+            "task": "Create a text note called 'test', type '12345678', and search for '234'",
+            "similar": "task: search for a specific note or keyword within the notes.",
+            "path": "Click on <button text='Search'></button>\n",
+            "gpath": [
+                "8dea304280d163f83acfaf5361f23bd69f0ee73b1e8d49e8b209e51e2f701476"
+            ],
+            "relevance": 0.08677798803606222
+        }
+    },
+    "musicplayer": {
+        "9915f9d815a63b6d62c9a5bf76838efee4a30067d20e14553c89d22533c3d18b": {
+            "task": "check the 'Recordings' in the Folders",
+            "similar": "task: search for a specific music recording in the folders and play it.",
+            "path": "Click on <button>Folders</button>\nClick on <button>Recordings<br>2 Tracks</button>\nClick on <button text='Search'></button>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "3b85df2d3f9c437fd4b40fa0d0053969f0c91e87451211faa22d30e9816a86ae",
+                "2f3ec68271e34d9236a714bce78c7aba3ffa311aeea7d04c336c61be7313c418"
+            ],
+            "relevance": 0.06510405928841219
+        },
+        "c645982ae198781922109decb29d494c1a7b378d31829ed1edfda1d830502738": {
+            "task": "set the sleep timer for five minutes",
+            "similar": "task: set a sleep timer for the music player for a duration of 30 minutes.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Sleep timer</button>\nUncheck <checkbox checked=True>30 minutes</checkbox>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd",
+                "3b46371504426569a5f4f1b4e8f5ac9b357df750dbc0be2eb2dac7609e81a866"
+            ],
+            "relevance": 0.07150494930930518
+        },
+        "b523eec53954918adec8d1e63cbaad7f3852641fb345269b3fb635c2769787ac": {
+            "task": "change the theme of the Music player app to light and save it",
+            "similar": "task: change the color theme of the music player app to dark.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Customize colors</button>\nClick on <button>Theme<br>Dark</button>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd",
+                "d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e",
+                "06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da"
+            ],
+            "relevance": 0.07869636101856295
+        },
+        "232f72dc95e9f33cbb7c681fe465643a68b1196e4d4dfc0b84261447723a0313": {
+            "task": "set the song to gapless playback",
+            "similar": "Task: Enable gapless playback in the music player app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Gapless playback</checkbox>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd",
+                "7db92deafd19474504ee81f4be378e1e2170be4e7b92e1caaf04d2e5266dffe9"
+            ],
+            "relevance": 0.07519563294379868
+        },
+        "697e357f2456163efe9e4acfd6d6334bb527d636275842f404f504d147f81b1f": {
+            "task": "Search for the song \"test1\" and play it",
+            "similar": "task: Play the song \"test1\" by the artist, view the album and tracks information.",
+            "path": "Click on <button>Artists</button>\nClick on <button>unknown<br>1 Album, 2 Tracks</button>\nClick on <button>test1<br>00:10</button>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "a4a4aee60f3f31145df1c8d3731111637bc64dc263afdaf484bacf2ed07f896c",
+                "5e8a912e891733ca21df469107811d817b9135add6721368d1a95b62af12fbb4"
+            ],
+            "relevance": 0.07504662086843723
+        },
+        "ef11f3bc3f12ccae8b54203dd29c0f4bc5ad85facf2dcb9eb2efe39b6385b3ba": {
+            "task": "play 'test1' in recordings and set the loop mode to 'loop the current song'",
+            "similar": "task: play the recording \"test1\" on repeat.",
+            "path": "Click on <button>Recordings<br>2 Tracks</button>\nClick on <button>0<br>test1<br>00:10</button>\nClick on <button text='Repeat all'></button>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "631930242f8d8db76296db1c59637a2b3369e36d202946afd77c5a48fb70bd9d",
+                "55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58"
+            ],
+            "relevance": 0.07303402334205807
+        },
+        "76138d039d0042ac2789183169d99272b01c0e0dbb7cfb137d6d693c58521430": {
+            "task": "play the song \"test1\" in the tracks",
+            "similar": "task: play the track \"test1\" and view its details",
+            "path": "Click on <button>Recordings<br>2 Tracks</button>\nClick on <button>0<br>test1<br>00:10</button>\nClick on <button>go back</button>\nClick on <button>test1</button>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "631930242f8d8db76296db1c59637a2b3369e36d202946afd77c5a48fb70bd9d",
+                "55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58",
+                "bf133d812bd5702c463be346ef527d0b2c9c09ea3d8c8ef816079551122533d4"
+            ],
+            "relevance": 0.07620119312894473
+        },
+        "4373e267cc50985b653264e41e0dcf7b2d2d377a42187889043f6176ca379901": {
+            "task": "sort by year in descending order",
+            "similar": "task: Sort music in the music player by year in ascending or descending order.",
+            "path": "Click on <button text='Sort by'></button>\nCheck <checkbox checked=False>Year</checkbox>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "6a675183d60ceb8222f615f2cf48f1e114fa456864573bf0da3e4b6097e966c6"
+            ],
+            "relevance": 0.06735984675641762
+        },
+        "fe617a743bb3c80e3a57688253bbe289bdf33316dd28921f8235b5153fbb2a16": {
+            "task": "change the mode to \"Hip Hop\"",
+            "similar": "task: customize the equalizer settings for playing hip hop music.",
+            "path": "Click on <button text='Equalizer'></button>\nClick on <button>Normal</button>\nCheck <checkbox checked=False>Hip Hop</checkbox>\n",
+            "gpath": [
+                "1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b",
+                "2843821ee379eb6e8f6c817a0d13e47473260c42b50e6d217d41e8c5bd898eba",
+                "b981a7915163db4ff747379957e556395bf548060f9b5f93c967bb47d21021b1"
+            ],
+            "relevance": 0.06643157964852002
+        }
+    },
+    "clock": {
+        "06c335c7f4253938f1e393331717214385a3a961bed16841b515c575dd190818": {
+            "task": "turn on the '7:00 am' alarm clock vibration function",
+            "similar": "task: Set an alarm for 7:00 am on Monday, Tuesday, Wednesday, Thursday, and Friday, with vibration enabled and a specific clock style.",
+            "path": "Click on <button>Alarm</button>\nClick on <button>7:00 am<br>Mon, Tue, Wed, Thu, Fri</button>\nClick on <button>S</button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d",
+                "9d99b0a713bd7cc17a913f7a8127df984fec4d4a9a8e7676f4891f144b126986"
+            ],
+            "relevance": 0.08819946087351044
+        },
+        "d32b7330ba63a76650a6021ba77bd192ebf8235a3930fe035fd08246ea847fa5": {
+            "task": "open the clock page",
+            "similar": "task: Access information about the clock app and its various features and settings.",
+            "path": "Click on <button text='About'></button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30"
+            ],
+            "relevance": 0.07765552515049583
+        },
+        "b07c4ee0dd001c65590eee43e80fc2f27d8e9989a3df6c88383fab503a5d789e": {
+            "task": "Do not prevent the phone from entering sleep mode when the application is running in the foreground",
+            "similar": "task: adjust the phone's sleep settings for the clock app.",
+            "path": "Click on <button text='Settings'></button>\nUncheck <checkbox checked=True>Prevent phone from sleeping while the app is in fo</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3"
+            ],
+            "relevance": 0.07631498461642225
+        },
+        "85714a746e19e3891e08dbeba826abb0e3a3c70d95d3eeccffdc80311c43b068": {
+            "task": "check the frequently asked questions",
+            "similar": "task: Access information about the clock app and its various features and settings.",
+            "path": "Click on <button text='About'></button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30"
+            ],
+            "relevance": 0.05691952960564157
+        },
+        "ffb6293f8b9360e162200efa7e35a734591d6562d936aaa6c3cf02e9d885d1c9": {
+            "task": "change alarm max reminder duration to 1 minute",
+            "similar": "task: adjust the maximum reminder duration for alarms to 30 minutes.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Max reminder duration<br>5 minutes</button>\nCheck <checkbox checked=False>30 minutes</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3",
+                "108039bf498ec6f740c32cae29e400b56a62c9be94fb8a0c87da58f54e61ca18"
+            ],
+            "relevance": 0.09497267328572771
+        },
+        "9bcdd076f5562c7d4200011ee038d21f4b1fdaab18fdcb11618cd7e505ea2fdb": {
+            "task": "add a new timer of 5:00",
+            "similar": "task: create a new timer",
+            "path": "Click on <button text='New Timer'></button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30"
+            ],
+            "relevance": 0.08629429124539252
+        },
+        "e20ae11f388ec33d188ebc900d886b75baa997d9bcf51c9d9de57bf652e22c34": {
+            "task": "disable 'start week on sunday'",
+            "similar": "task: change the start day of the week for the clock.",
+            "path": "Click on <button text='Settings'></button>\nUncheck <checkbox checked=True>Start week on Sunday</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3"
+            ],
+            "relevance": 0.08077699111790267
+        },
+        "668d431af05d31bed0108a7ea78ea794f656fe312b49a00a4f971956dbef116a": {
+            "task": "Set the sorting order for alarms by 'Day and Alarm time'",
+            "similar": "task: sort the alarms in the clock app.",
+            "path": "Click on <button>Alarm</button>\nClick on <button text='Sort by'></button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "0fe4d8ae84dc5fed6fb0db2cfae8801722cc0594525a17b91585a9bb6658f07d"
+            ],
+            "relevance": 0.08682472550407186
+        },
+        "67c41fd75ea7b8ea660a75895f3235febc71e2e4055223b024c9ad85f5646eab": {
+            "task": "turn off always use same snooze time",
+            "similar": "task: adjust the snooze time for the alarm to 10 minutes and enable a 1-minute snooze option.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Snooze time<br>10 minutes</button>\nCheck <checkbox checked=False>1 minute</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3",
+                "2563cd0132df7babcf5f9118008656bfd16c87e3d799ad0d679adbe9d56e76d1"
+            ],
+            "relevance": 0.08329922122950714
+        },
+        "9e3b51da42a981c5ace6b756a9abf81bcc8c9b66ecdab3ce2498aafe76804bd0": {
+            "task": "turn off increase volume gradually",
+            "similar": "task: customize the clock colors and disable the gradual increase in volume feature.",
+            "path": "Click on <button text='Settings'></button>\nUncheck <checkbox checked=True>Increase volume gradually</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3"
+            ],
+            "relevance": 0.07294765651007343
+        },
+        "92c4b3d295c3654b900541bdbbd6b096d9943a117e7c9abe8ad5d8c0e0d09578": {
+            "task": "Set the snooze time to 5 minute",
+            "similar": "task: adjust the snooze time for the alarm to either 10 minutes or 5 minutes.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Snooze time<br>10 minutes</button>\nCheck <checkbox checked=False>5 minutes</checkbox>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3",
+                "2563cd0132df7babcf5f9118008656bfd16c87e3d799ad0d679adbe9d56e76d1"
+            ],
+            "relevance": 0.09384995746023449
+        },
+        "a516dfb18dd4a274cc98e0e0496cecc8cfbdd66af186cc64d37b947585e3faff": {
+            "task": "change timer max reminder duration to 5 minutes",
+            "similar": "task: set the maximum reminder duration for the alarm to 5 minutes.",
+            "path": "Click on <button text='Settings'></button>\nClick on <button>Max reminder duration<br>5 minutes</button>\nClick on <button>OK</button>\n",
+            "gpath": [
+                "fb78df2efd2d0dae6fe2d27fc76d3c48cf2944110abca15ccb49178d2e962f30",
+                "c6da5bca26734434e32e38c9887040ed4b3cd739dcc3901924cf5435d5889de3",
+                "108039bf498ec6f740c32cae29e400b56a62c9be94fb8a0c87da58f54e61ca18"
+            ],
+            "relevance": 0.09178279941958108
+        }
+    },
+    "calendar": {
+        "0a5471c24b889666632bb43f683fc08ce43a2fa049b1ac47bb1b8ef23802a607": {
+            "task": "change the view from monthly to yearly",
+            "similar": "task: change the calendar view to yearly view.",
+            "path": "Click on <button text='Change view'></button>\nCheck <checkbox checked=False>Yearly view</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "41fab8a8229a01a4c4c0872b6e5932eaf07f8213f9a950020253a3a4f0f484b3"
+            ],
+            "relevance": 0.04900534953158204
+        },
+        "346ab5c1aeef9922d6c572db14b5e0beaaa9e904f82c72aa0b561a8e6847cf89": {
+            "task": "delete all the events in the Calendar app",
+            "similar": "task: delete all events in the calendar app.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Delete all events</button>\nClick on <button>YES</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f",
+                "b030be607a7b965b12afa6b526f698a0c2a454938b56bb9753a0eed6516a4aa6"
+            ],
+            "relevance": 0.05395316452155325
+        },
+        "77b4402acf90d06628adf206c1d10e279ca5421920e7f2cd6a6db63e76f56d1c": {
+            "task": "add the event of 'VisitParents' on july 30, remind me 1 hour before, save it",
+            "similar": "Task: Create a new event in the calendar and set reminders for it, with options to be reminded 10 minutes before and 1 hour before the event.",
+            "path": "Click on <button text='New Event'></button>\nClick on <button>10 minutes before</button>\nCheck <checkbox checked=False>1 hour before</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e",
+                "7be671f67b12a11b3a667b6780e9e80104be5d122c8a534c1584af702c2fd5f7"
+            ],
+            "relevance": 0.04583615235492276
+        },
+        "d91f8aa367c47945a3d9344018a5a67330e86f3f8045cdfceb57dd9898a638df": {
+            "task": "search the task 'homework'",
+            "similar": "task: search for an event or appointment in the calendar.",
+            "path": "Click on <button text='Search'></button>\nClick on <input>Search\u2026</input>\nClick on <button>No items found.</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "a0580636289877f1e38e3d0fb2dc819e0bafcdaa9cfe463ed66522d8f283685a",
+                "6c4d5e9b3856a2505fed43c416dca9ffb02b886db89fcb0c3bfd1fab26ee24eb"
+            ],
+            "relevance": 0.04112673193081976
+        },
+        "507cc6d19f89ee4a7733f0d2d5407dc52eefd470f265582e76878dab4ce6e7e6": {
+            "task": "add all the contacts anniversaries into Calendar",
+            "similar": "task: add anniversaries to the calendar for contacts.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Add contact anniversaries</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3"
+            ],
+            "relevance": 0.053330469748229296
+        },
+        "d607ebfb905ff62cbda8cf94add2b1f6a0ecc9364a1d1465ebe35d6f9d11d4e3": {
+            "task": "create a new event, the task is 'laundry', save it",
+            "similar": "task: create a new event in the calendar.",
+            "path": "Click on <button text='New Event'></button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0"
+            ],
+            "relevance": 0.047268693022950115
+        },
+        "e8b601c47a045393c677aeddaee08ed7e638c44377571db157be7628db8d955b": {
+            "task": "change the event reminder sound of Calendar app to adara",
+            "similar": "task: change the reminder sound for calendar events to \"Adara\" on a smartphone.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Reminder sound<br>Default (Pixie Dust)</button>\nCheck <checkbox checked=False>Adara</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f",
+                "1d37b5a0628f5da09a91909ab5aa8fb175ef4f5e000c8e7b2baa06df4938b113"
+            ],
+            "relevance": 0.05356942434424781
+        },
+        "201ab5fb0dbaa5da9673ce3b1fa4479ef7a17380437cbc87d4f4490f48e406fb": {
+            "task": "create an event of 'homework' with daily repetition and save it",
+            "similar": "task: create a new daily event without repetition in the calendar.",
+            "path": "Click on <button text='New Event'></button>\nClick on <button>No repetition</button>\nCheck <checkbox checked=False>Daily</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "77dfea11565b42a31fee51cb52720d35ec189b30db4c597fd2ea88af5f833b2e",
+                "67d7de90b58f15bd10b1849244985f177aca5e5185efb840cdf4abb0929d3b22"
+            ],
+            "relevance": 0.04735579882744386
+        },
+        "a51a8fec104595cec8cbcf32b04a7ffb4776b88b4da9808a77e3039f9e7aa6d1": {
+            "task": "Add the holidays of United States to the calendar",
+            "similar": "Task: Add United States holidays to the calendar.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Add holidays</button>\nCheck <checkbox checked=False>United States</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "d153f77cd44709997f1a7e9d001e3e4724b767b98d985b994cdefd5ace2fc89b"
+            ],
+            "relevance": 0.0533044063798402
+        },
+        "09b90ed4319d2ffd24dd52050c99b3c6b3b13e187306ba5ec426d4d3e1d063c6": {
+            "task": "Use 24 hour formats in the Calendar app",
+            "similar": "task: change the time format to 24-hour format in the calendar settings.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Use 24-hour time format OFF</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f"
+            ],
+            "relevance": 0.05018833427513712
+        },
+        "08cd9f2b2ff579e2b0f003f1104530ed4d365175b067c1a96addc3b5984717db": {
+            "task": "Add the holidays of South Africa to the calendar and list all the events in 2023",
+            "similar": "task: add holidays to the calendar for South Africa.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Add holidays</button>\nCheck <checkbox checked=False>South Africa</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "d153f77cd44709997f1a7e9d001e3e4724b767b98d985b994cdefd5ace2fc89b"
+            ],
+            "relevance": 0.05057702105842975
+        },
+        "c47d189d4fedb22edea24e3cffc93ea0770372573285c05df8b1c8ab69f0b928": {
+            "task": "change the snooze time to 30 min",
+            "similar": "task: Adjust the snooze time for event reminders to 10 minutes.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Snooze time<br>10 minutes</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f"
+            ],
+            "relevance": 0.050180775056665336
+        },
+        "eef0462cd417a5f937ff9ec6aa34f1499a811574dd64ef9df7dbac3899f9e57a": {
+            "task": "Add the holidays of China to the calendar",
+            "similar": "Task: Add holidays for China to the calendar.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Add holidays</button>\nCheck <checkbox checked=False>China</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "d153f77cd44709997f1a7e9d001e3e4724b767b98d985b994cdefd5ace2fc89b"
+            ],
+            "relevance": 0.05330949842540809
+        },
+        "295bcdc418b1cc7f9f6359fcfda6096a0a80abcd0ef9f3e98990ddc859619e8c": {
+            "task": "disable start week on Sunday",
+            "similar": "Task: Disable the display of week numbers on the calendar.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nCheck <checkbox checked=False>Show week numbers OFF</checkbox>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f"
+            ],
+            "relevance": 0.044713861907540065
+        },
+        "19c51276c1302fc90f7dcb004bb49dab4cb435882b03436899252d22baead8ef": {
+            "task": "change the event type 'regular event' to 'deadlines'",
+            "similar": "Task: Cancel a regular event in the calendar and make changes to the event title, type, and color.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Settings</button>\nClick on <button>Manage event types</button>\nClick on <button>Regular event</button>\nClick on <button>CANCEL</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "e5bb0f7b3eb647b48936f7e4e35769d570c6ae713970b911aa4297f24275ca7f",
+                "6d9c92d565fb64f096c91972078aff8091e9454266126dceb64773451254deb7",
+                "e76daded6e1b908aa09b51fe2d2bc59c51805cfd8410d347e5948abcf409f865"
+            ],
+            "relevance": 0.04630078079784921
+        },
+        "accffc404ccc6f395130ddc325f4ca34b7b7da503e55267f249b4a4fe00cde1e": {
+            "task": "add all my contacts' birthdays into the calendar",
+            "similar": "task: add birthdays of contacts to the calendar.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Add contact birthdays</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3"
+            ],
+            "relevance": 0.05317644592029129
+        },
+        "913bea2ab07f13d5de0f335f3b4e6737ccf343f5768df50734a99a7f8c4c3f1b": {
+            "task": "export the events to test.ics under DCIM folder",
+            "similar": "task: Import events from an .ics file and view the 6 items in the DCIM folder.",
+            "path": "Click on <button text='More options'></button>\nClick on <button>Import events from an .ics file</button>\nClick on <button>Allow</button>\nClick on <button>DCIM<br>6 items</button>\n",
+            "gpath": [
+                "b037bd18f22672a681a11f31d2309ba4f48e3941ff9ac63a6a164e72ee9dc5d0",
+                "5534c66d5f37c0f29958ac89e66254fa62b5e261bf014a6fb71d9aa78a75d4b3",
+                "ee9f0855b6686a9d0bd515c215315d215fa6d3438addbaf227d25e19eaa3185a",
+                "4927876f7234d01f13659cbd78612b2d37be153f11f451ff6ed0a731a0aff240"
+            ],
+            "relevance": 0.050976832520468064
+        }
+    }
+}

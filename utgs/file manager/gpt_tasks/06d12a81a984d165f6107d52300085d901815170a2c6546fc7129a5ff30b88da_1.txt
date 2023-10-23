@@ -1,0 +1,1 @@
+Display a warning message about app icon customization. Provide an "OK" button to acknowledge the warning. Allow the user to select options for auto light/dark mode, light mode, dark mode, dark red mode, white mode, black & white mode, and custom mode.

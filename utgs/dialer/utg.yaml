@@ -1,0 +1,2135 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 8
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=False>First name</checkbox>\n\
+    \ <checkbox id=2 checked=False>Middle name</checkbox>\n <checkbox id=3 checked=False>Surname</checkbox>\n\
+    \ <checkbox id=4 checked=True>Full name</checkbox>\n <checkbox id=5 checked=False>Date\
+    \ created</checkbox>\n <checkbox id=6 checked=True>Ascending</checkbox>\n <checkbox\
+    \ id=7 checked=False>Descending</checkbox>\n <button id=8>Cancel</button>\n <button\
+    \ id=9>OK</button>\n <button id=10>go back</button>"
+  new_state_str: b1a00fd39b48c98523831f52dca1e27884000b421faf80ee89f5ecac04481894
+  state_str: a8d83972d0875366fc7c3432131513e0935956db3549617754590f4a0291f082
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 1
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Phone storage (not visible by other apps) (3)</checkbox>\n\
+    \ <button id=1>Cancel</button>\n <button id=2>OK</button>\n <button id=3>go back</button>"
+  new_state_str: 5d41ba4ba4a32d9fb05ea4b994f56fbf3f8e3cd2f82b62049581a8e736e91938
+  state_str: 6652650d3da3435fc10ad63e5325d41da4337974d905bfca6f8341e13c3a46e7
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Settings</button>\n <button id=1>About</button>\n <button id=2>go\
+    \ back</button>"
+  new_state_str: 77583b11ad5633cfffda3a1c606f2b82cf5edbe5739d839f74bfd29973528d44
+  state_str: 099af374a0533601d9a7d3de46de59e84982c5ed0050cbbf26b0fdc8cb3172d5
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 4
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ calls from not stored contacts</checkbox>\n <p id=4>You are not blocking anyone.</p>\n\
+    \ <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 38f20a5a0962efc75d9613829202b95fe5ef87cfa5fa89065feee5702f3b670a
+  state_str: ff9fb77982dd13cd0d3a1aa6df3cc5afcaf8f8dd2073ca8c9c5938f324ad1d45
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ calls from not stored contacts</checkbox>\n <p id=4>You are not blocking anyone.</p>\n\
+    \ <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 38f20a5a0962efc75d9613829202b95fe5ef87cfa5fa89065feee5702f3b670a
+  state_str: ff9fb77982dd13cd0d3a1aa6df3cc5afcaf8f8dd2073ca8c9c5938f324ad1d45
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ calls from not stored contacts</checkbox>\n <p id=4>You are not blocking anyone.</p>\n\
+    \ <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 38f20a5a0962efc75d9613829202b95fe5ef87cfa5fa89065feee5702f3b670a
+  state_str: ff9fb77982dd13cd0d3a1aa6df3cc5afcaf8f8dd2073ca8c9c5938f324ad1d45
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Set Dialer as your default caller ID & spam app?</p>\n <button id=1>None<br>Current\
+    \ default</button>\n <button id=2>Dialer</button>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>Set as default</button>\n <button id=5>go back</button>"
+  new_state_str: 79ce56cc2b386505c9ed8324558fd8c9ca8fee60fc8ad3d62bb3c59b081f7731
+  state_str: da7c04badf14b49177254640db4609ec339d71635337960a1da1895725f0bb31
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Set Dialer as your default caller ID & spam app?</p>\n <button id=1>None<br>Current\
+    \ default</button>\n <button id=2>Dialer<br>No permissions needed</button>\n <button\
+    \ id=3>Cancel</button>\n <button id=4>Set as default</button>\n <button id=5>go\
+    \ back</button>"
+  new_state_str: e521940b04cc341765eac82253ed8f43e5161313a96e56f65c123833a814fcd2
+  state_str: 5ca93d34f274825c8841e9a8606ff449d382b8266bd3dbde5c9469f18c93d7e8
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ calls from not stored contacts</checkbox>\n <p id=4>You are not blocking anyone.</p>\n\
+    \ <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 38f20a5a0962efc75d9613829202b95fe5ef87cfa5fa89065feee5702f3b670a
+  state_str: ff9fb77982dd13cd0d3a1aa6df3cc5afcaf8f8dd2073ca8c9c5938f324ad1d45
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 9
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>16.02.2021</checkbox>\n <checkbox id=1 checked=False>16/02/2021</checkbox>\n\
+    \ <checkbox id=2 checked=False>02/16/2021</checkbox>\n <checkbox id=3 checked=False>16-02-2021</checkbox>\n\
+    \ <checkbox id=4 checked=False>02-16-2021</checkbox>\n <checkbox id=5 checked=False>2021-02-16</checkbox>\n\
+    \ <checkbox id=6 checked=False>16 February 2021</checkbox>\n <checkbox id=7 checked=False>February\
+    \ 16 2021</checkbox>\n <checkbox id=8 checked=False>Use 24-hour time format</checkbox>\n\
+    \ <button id=9>Cancel</button>\n <button id=10>OK</button>\n <button id=11>go\
+    \ back</button>"
+  new_state_str: e4bc83f77703f52d07cd5f9ca5fb500d16741aefd16d4f6f35002bd13525c940
+  state_str: be75927e1e9a42efc8df251b6b0d510ec1572269629fcc08399f712a2ff11f22
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Manage speed dial</p>\n <p id=1>Click on a number to assign a contact\
+    \ to it. You can then quickly call the given contact by long pressing the given\
+    \ number at the dialer.</p>\n <button id=2>1. </button>\n <button id=3>2. </button>\n\
+    \ <button id=4>3. </button>\n <button id=5>4. </button>\n <button id=6>5. </button>\n\
+    \ <button id=7>6. </button>\n <button id=8>7. </button>\n <button id=9>8. </button>\n\
+    \ <button id=10>9. </button>\n <button id=11>go back</button>"
+  new_state_str: 605651ace5ef6b2bbf205f73985e66b218ff175c27c27dbe0bc41a7f55eaa08a
+  state_str: 614d22c26b8bf5574cd59c9a65e4d629809a4260eaa3d2094f4bd03bffc0c968
+- Choice: 11
+  Input: 'null'
+  State: "<p id=0>Manage speed dial</p>\n <p id=1>Click on a number to assign a contact\
+    \ to it. You can then quickly call the given contact by long pressing the given\
+    \ number at the dialer.</p>\n <button id=2>1. </button>\n <button id=3>2. </button>\n\
+    \ <button id=4>3. </button>\n <button id=5>4. </button>\n <button id=6>5. </button>\n\
+    \ <button id=7>6. </button>\n <button id=8>7. </button>\n <button id=9>8. </button>\n\
+    \ <button id=10>9. </button>\n <button id=11>go back</button>"
+  new_state_str: 605651ace5ef6b2bbf205f73985e66b218ff175c27c27dbe0bc41a7f55eaa08a
+  state_str: 614d22c26b8bf5574cd59c9a65e4d629809a4260eaa3d2094f4bd03bffc0c968
+- Choice: 7
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 4
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Small</checkbox>\n <checkbox id=1 checked=False>Medium</checkbox>\n\
+    \ <checkbox id=2 checked=True>Large</checkbox>\n <checkbox id=3 checked=False>Extra\
+    \ large</checkbox>\n <button id=4>go back</button>"
+  new_state_str: 0c705b9a74f692e6c4feab6b9d9f9b1b992876e5272ee28d4c03a00597b4ae41
+  state_str: 01b888bbf4f7be2bf82b86b513a56ff2bceb21409864bd6adebce2ed323a72aa
+- Choice: 14
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 5
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Contacts</checkbox>\n <checkbox id=1 checked=True>Favorites</checkbox>\n\
+    \ <checkbox id=2 checked=True>Call History</checkbox>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: acf9620fcbecde1976e6768be87d9f561d9e1c7eefbad7fba1a665735cff0e09
+  state_str: f7934572e86fd4255d780ffa671e35f969ff15765641a9943d46996dad678030
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Manage blocked numbers</button>
+
+    <button id=5>Change date and time format</button>
+
+    <button id=6>Manage speed dial</button>
+
+    <button id=7>Font size<br>Large</button>
+
+    <checkbox id=8 checked=False>Start name with surname</checkbox>
+
+    <checkbox id=9 checked=False>Hide dialpad numbers</checkbox>
+
+    <checkbox id=10 checked=True>Enable vibrations on dialpad button clicks</checkbox>
+
+    <checkbox id=11 checked=True>Enable beeps on dialpad button clicks</checkbox>
+
+    <button id=12>go back</button>
+
+    <p id=13>STARTUP</p>
+
+    <button id=14>Manage shown tabs</button>
+
+    <button id=15>Tab to open at app start<br>Last used one</button>
+
+    <checkbox id=16 checked=False>Open the dialpad by default when the app opens</checkbox>
+
+    <p id=17>CALLS</p>
+
+    <checkbox id=18 checked=True>Group subsequent calls with the same number at the</checkbox>
+
+    <checkbox id=19 checked=False>Show a call confirmation dialog before initiating
+    </checkbox>
+
+    <checkbox id=20 checked=False>Disable proximity sensor during calls</checkbox>
+
+    <checkbox id=21 checked=False>Replace swiping at responding to incoming calls
+    wi</checkbox>
+
+    <checkbox id=22 checked=False>Always display incoming calls on full screen</checkbox>'
+  new_state_str: b6bf6a602f0f077f9d35ec740ca71a92dac5e0c34e6c4b74e58bec149547eef3
+  state_str:
+  - 57b577316d43e0bba070049fb483378cf5f2c2b1f1f3630997a44cdd97bf56e9
+  - 4017824c531965689fb12f83f06d9fc86aea4fb76acf2bf8808b50f04cf8f09f
+  - 3840a5477bdf89c508dbd8169dfced0072e2e54156a6dd307d38a12b1901a955
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 9
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Mobile</checkbox>\n <checkbox id=1 checked=False>Home</checkbox>\n\
+    \ <checkbox id=2 checked=False>Work</checkbox>\n <checkbox id=3 checked=False>Main</checkbox>\n\
+    \ <checkbox id=4 checked=False>Work Fax</checkbox>\n <checkbox id=5 checked=False>Home\
+    \ Fax</checkbox>\n <checkbox id=6 checked=False>Pager</checkbox>\n <checkbox id=7\
+    \ checked=False>Other</checkbox>\n <checkbox id=8 checked=False>Custom</checkbox>\n\
+    \ <button id=9>go back</button>"
+  new_state_str: b497131bb37d355259223709b95c716efd4d28b0b2c5b00787c7eef44d8e896e
+  state_str: 8cb31e05fc9cd16d231cf0ac0da9711ea450f951435eabf5091fb7010ee5df61
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 5
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Home</checkbox>\n <checkbox id=1 checked=False>Work</checkbox>\n\
+    \ <checkbox id=2 checked=False>Mobile</checkbox>\n <checkbox id=3 checked=False>Other</checkbox>\n\
+    \ <checkbox id=4 checked=False>Custom</checkbox>\n <button id=5>go back</button>"
+  new_state_str: bcc5460a524636adcd43bafd581c027dc236295050dd625e2ed4b0b742d543ac
+  state_str: b5e7ad81b554cc591a8a0c65d20667b48d939d701fc6cbf8445eb3a832d3cfeb
+- Choice: 9
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 38
+  Input: 'null'
+  State: '<button id=0>2023</button>
+
+    <button id=1>Sat, Jul 1</button>
+
+    <button id=2 text=''01 July 2023''>1</button>
+
+    <button id=3 text=''02 July 2023''>2</button>
+
+    <button id=4 text=''03 July 2023''>3</button>
+
+    <button id=5 text=''04 July 2023''>4</button>
+
+    <button id=6 text=''05 July 2023''>5</button>
+
+    <button id=7 text=''06 July 2023''>6</button>
+
+    <button id=8 text=''07 July 2023''>7</button>
+
+    <button id=9 text=''08 July 2023''>8</button>
+
+    <button id=10 text=''09 July 2023''>9</button>
+
+    <button id=11 text=''10 July 2023''>10</button>
+
+    <button id=12 text=''11 July 2023''>11</button>
+
+    <button id=13 text=''12 July 2023''>12</button>
+
+    <button id=14 text=''13 July 2023''>13</button>
+
+    <button id=15 text=''14 July 2023''>14</button>
+
+    <button id=16 text=''15 July 2023''>15</button>
+
+    <button id=17 text=''16 July 2023''>16</button>
+
+    <button id=18 text=''17 July 2023''>17</button>
+
+    <button id=19 text=''18 July 2023''>18</button>
+
+    <button id=20 text=''19 July 2023''>19</button>
+
+    <button id=21 text=''20 July 2023''>20</button>
+
+    <button id=22 text=''21 July 2023''>21</button>
+
+    <button id=23 text=''22 July 2023''>22</button>
+
+    <button id=24 text=''23 July 2023''>23</button>
+
+    <button id=25 text=''24 July 2023''>24</button>
+
+    <button id=26 text=''25 July 2023''>25</button>
+
+    <button id=27 text=''26 July 2023''>26</button>
+
+    <button id=28 text=''27 July 2023''>27</button>
+
+    <button id=29 text=''28 July 2023''>28</button>
+
+    <button id=30 text=''29 July 2023''>29</button>
+
+    <button id=31 text=''30 July 2023''>30</button>
+
+    <button id=32 text=''31 July 2023''>31</button>
+
+    <button id=33 text=''Previous month''></button>
+
+    <button id=34 text=''Next month''></button>
+
+    <checkbox id=35 checked=False>Hide year</checkbox>
+
+    <button id=36>Cancel</button>
+
+    <button id=37>OK</button>
+
+    <button id=38>go back</button>'
+  new_state_str: 22722d2dee1335c5482c1049aa7a6dbd5e481466f1ef8b3fa3a91a34b24b329d
+  state_str:
+  - 960768d61c7baa8ebcb63c8f9c735fc3d86d31fa788c4eca6516142037eab7fa
+- Choice: 10
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Anniversary</checkbox>\n <checkbox id=1 checked=True>Birthday</checkbox>\n\
+    \ <checkbox id=2 checked=False>Other</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 1d44133c96356351315b0e4a555dec2dde8933d6120a3e2dd793c7d97a7f814b
+  state_str: 2f8b79051dbb72c2098ea01396eb32ce1e9fb301112296b6ebfb44a09718c2f5
+- Choice: 15
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Create a new group</button>\n <button id=1>Cancel</button>\n\
+    \ <button id=2>OK</button>\n <button id=3>go back</button>"
+  new_state_str: aa42d6d7b1951400500e8c45aa29d226bcb19ef5818ba59d3557c3199a3c4c1f
+  state_str: 6036f4c0b13c44c71bfab0b1531559c26615d1c34c05ff0e2a547567a30cadd9
+- Choice: 16
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 1
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Phone storage (not visible by other apps)</checkbox>\n\
+    \ <button id=1>go back</button>"
+  new_state_str: 71ad59c500ac9c66a089da0d2c9694928a6d73f57a5b16001b88eedd88f87a68
+  state_str: 7093f971b141eb82613d642d1e59766c3f6c60feb5b0fa03f2f2568951ce6b77
+- Choice: 12
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Manage shown contact fields</button>\n <button id=1>go back</button>"
+  new_state_str: c4f2f694d4393ad28929563eab36ffcb82111106f8d4dd5e224b6efd8e344bfe
+  state_str: 209e8de5b1c4ff9303aede2dbe0721b6c7845fa0c1fb0f59b03382a13373c0a4
+- Choice: 13
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>Prefix</checkbox>
+
+    <checkbox id=1 checked=True>First name</checkbox>
+
+    <checkbox id=2 checked=False>Middle name</checkbox>
+
+    <checkbox id=3 checked=True>Surname</checkbox>
+
+    <checkbox id=4 checked=False>Suffix</checkbox>
+
+    <checkbox id=5 checked=False>Nickname</checkbox>
+
+    <checkbox id=6 checked=True>Phone numbers</checkbox>
+
+    <checkbox id=7 checked=True>Emails</checkbox>
+
+    <checkbox id=8 checked=True>Addresses</checkbox>
+
+    <checkbox id=9 checked=False>Instant messaging (IM)</checkbox>
+
+    <checkbox id=10 checked=True>Events (birthdays, anniversaries)</checkbox>
+
+    <checkbox id=11 checked=True>Notes</checkbox>
+
+    <checkbox id=12 checked=False>Ringtone</checkbox>
+
+    <button id=13>Cancel</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Organization</checkbox>
+
+    <checkbox id=17 checked=False>Websites</checkbox>
+
+    <checkbox id=18 checked=True>Groups</checkbox>
+
+    <checkbox id=19 checked=True>Contact source</checkbox>'
+  new_state_str: b5c29ed0558462bb184cac18e589a6420d6aad11aaf9eab71ca82351e0d5f409
+  state_str:
+  - 3513852be741cb541e13e3588859b7432c79afe21a0a8c82ad677d693b544bdf
+  - 720934241b3c6825eae9a26021e0df977490f3ad79ec86db423e2456ef93f82b
+- Choice: 15
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0>Create a new group</button>\n <button id=1>Cancel</button>\n\
+    \ <button id=2>OK</button>\n <button id=3>go back</button>"
+  new_state_str: aa42d6d7b1951400500e8c45aa29d226bcb19ef5818ba59d3557c3199a3c4c1f
+  state_str: 6036f4c0b13c44c71bfab0b1531559c26615d1c34c05ff0e2a547567a30cadd9
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 0
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Take photo</checkbox>\n <checkbox id=1 checked=False>Choose\
+    \ photo</checkbox>\n <button id=2>go back</button>"
+  new_state_str: 0ca12ca4f59bd6e046754ae02e4ab0247b43b7af73a1d6d6f2d25684436f347c
+  state_str: 22945f117ad4e9b3bfe5d06024510a60c5448fadb588a1ee000ecf00f68a64e0
+- Choice: 2
+  Input: 'null'
+  State: "<button id=0 text='Options<br>Options'></button>\n <button id=1 text='Shutter'></button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: 4a494442ef7fe79bad63d60f6260344632e313aeebf760de959e5860f9d4efb6
+  state_str: df8d62acdecbbe577cb52a5f347bc232f37c5fd4be121540c290efebaf1e7918
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 1
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Take photo</checkbox>\n <checkbox id=1 checked=False>Choose\
+    \ photo</checkbox>\n <button id=2>go back</button>"
+  new_state_str: 0ca12ca4f59bd6e046754ae02e4ab0247b43b7af73a1d6d6f2d25684436f347c
+  state_str: 22945f117ad4e9b3bfe5d06024510a60c5448fadb588a1ee000ecf00f68a64e0
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Complete action using</p>
+
+    <button id=1>Gallery</button>
+
+    <button id=2>File Manager</button>
+
+    <button id=3>Photos</button>
+
+    <button id=4>Just once</button>
+
+    <button id=5>Always</button>
+
+    <button id=6>go back</button>'
+  new_state_str: 943039d6c25fab634c24e9f36528741c4670d06236924f560f1d4ea793278930
+  state_str:
+  - 4db46d0d870c74815c7ce3447eed7cb401ca2ac9e3c0b702d480a9ec6c07f14a
+- Choice: 13
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>First name</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>Number</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>Email</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''More options''></button>
+
+    <button id=13>go back</button>
+
+    <input id=14>Notes</input>
+
+    <button id=15>No groups</button>
+
+    <button id=16>Phone storage (not visible by other apps)</button>'
+  new_state_str: ccc9d9093adc8eee90eaa7f9081089d8c62c45aed859c6d1e3074fcb25a24071
+  state_str:
+  - 5462cc72e925b6dc1be87f1fcb72b2f49a93a7f062ede209e7f476e32dc7c915
+  - 69b8051042cc4a0f1cf5fe62800913ffba9d7f482749694c0a4c0e0b30a4c139
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 4
+  Input: 'null'
+  State: '<p id=0>Welcome to Gmail</p>
+
+    <p id=1>One app for all of your email</p>
+
+    <button id=2>SKIP</button>
+
+    <button id=3 text=''Next''></button>
+
+    <button id=4>go back</button>'
+  new_state_str: bff4c730f9564da1281b8032849fbe1488161baa6216fe3721b8fa4b25b8b4af
+  state_str:
+  - 4b9166581b796c738e3e36b5db5b902a9e1549d71b3df9bd7630f49d49862fa4
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Turn microphone off'></button>\n <button id=1 text='Turn\
+    \ speaker off'></button>\n <button id=2 text='Show dialpad'></button>\n <button\
+    \ id=3 text='Hold call'></button>\n <button id=4 text='Add call'></button>\n <button\
+    \ id=5 text='End call'></button>\n <p id=6>Alice</p>\n <p id=7>111111</p>\n <p\
+    \ id=8>Dialing\u2026</p>\n <button id=9>go back</button>"
+  new_state_str: 467d921c37c70b9fd0d0f21ea8b93c3025ef4d0984d7aab6e67e6c940756c3e0
+  state_str: 21f0449399a68c531e2a03a8725de6316198090e923ff6871cf74b7c3a1505fe
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Alice</p>\n <button id=1 text='Delete'></button>\n <button id=2\
+    \ text='Dial number'></button>\n <button id=3 text='Add Person'></button>\n <button\
+    \ id=4 text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n\
+    \ <button id=6>Hello</button>\n <button id=7 text='Attachment'></button>\n <input\
+    \ id=8 >Type a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20
+  state_str: b1676429e8e1aeb01a008fdc209fe90afc35d251eaf067acf072b8c42796e1e2
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 5
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>Alice</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>111111</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>alice@mails.com</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''Share''></button>
+
+    <button id=13 text=''Delete''></button>
+
+    <button id=14 text=''More options''></button>
+
+    <button id=15>go back</button>
+
+    <input id=16>Notes</input>
+
+    <button id=17>No groups</button>
+
+    <button id=18>Phone storage (not visible by other apps)</button>'
+  new_state_str: 03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f
+  state_str:
+  - 1f63ee478d53d8f4870855f8e3c8b4bcd14b31e2c321eec8e0a2d90d9c688ebe
+  - 85c71ed569ae1b7f485ca2b0154ea6a0ef6b33b5852557a80dc73d68f0379d98
+- Choice: 9
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Mobile</checkbox>\n <checkbox id=1 checked=False>Home</checkbox>\n\
+    \ <checkbox id=2 checked=False>Work</checkbox>\n <checkbox id=3 checked=False>Main</checkbox>\n\
+    \ <checkbox id=4 checked=False>Work Fax</checkbox>\n <checkbox id=5 checked=False>Home\
+    \ Fax</checkbox>\n <checkbox id=6 checked=False>Pager</checkbox>\n <checkbox id=7\
+    \ checked=False>Other</checkbox>\n <checkbox id=8 checked=False>Custom</checkbox>\n\
+    \ <button id=9>go back</button>"
+  new_state_str: b497131bb37d355259223709b95c716efd4d28b0b2c5b00787c7eef44d8e896e
+  state_str: 8cb31e05fc9cd16d231cf0ac0da9711ea450f951435eabf5091fb7010ee5df61
+- Choice: 7
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>Alice</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>111111</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>alice@mails.com</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''Share''></button>
+
+    <button id=13 text=''Delete''></button>
+
+    <button id=14 text=''More options''></button>
+
+    <button id=15>go back</button>
+
+    <input id=16>Notes</input>
+
+    <button id=17>No groups</button>
+
+    <button id=18>Phone storage (not visible by other apps)</button>'
+  new_state_str: 03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f
+  state_str:
+  - 1f63ee478d53d8f4870855f8e3c8b4bcd14b31e2c321eec8e0a2d90d9c688ebe
+  - 85c71ed569ae1b7f485ca2b0154ea6a0ef6b33b5852557a80dc73d68f0379d98
+- Choice: 5
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Home</checkbox>\n <checkbox id=1 checked=False>Work</checkbox>\n\
+    \ <checkbox id=2 checked=False>Mobile</checkbox>\n <checkbox id=3 checked=False>Other</checkbox>\n\
+    \ <checkbox id=4 checked=False>Custom</checkbox>\n <button id=5>go back</button>"
+  new_state_str: bcc5460a524636adcd43bafd581c027dc236295050dd625e2ed4b0b742d543ac
+  state_str: b5e7ad81b554cc591a8a0c65d20667b48d939d701fc6cbf8445eb3a832d3cfeb
+- Choice: 0
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>Alice</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>111111</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>alice@mails.com</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''Share''></button>
+
+    <button id=13 text=''Delete''></button>
+
+    <button id=14 text=''More options''></button>
+
+    <button id=15>go back</button>
+
+    <input id=16>Notes</input>
+
+    <button id=17>No groups</button>
+
+    <button id=18>Phone storage (not visible by other apps)</button>'
+  new_state_str: 03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f
+  state_str:
+  - 1f63ee478d53d8f4870855f8e3c8b4bcd14b31e2c321eec8e0a2d90d9c688ebe
+  - 85c71ed569ae1b7f485ca2b0154ea6a0ef6b33b5852557a80dc73d68f0379d98
+- Choice: 2
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Take photo</checkbox>\n <checkbox id=1 checked=False>Choose\
+    \ photo</checkbox>\n <button id=2>go back</button>"
+  new_state_str: 0ca12ca4f59bd6e046754ae02e4ab0247b43b7af73a1d6d6f2d25684436f347c
+  state_str: 22945f117ad4e9b3bfe5d06024510a60c5448fadb588a1ee000ecf00f68a64e0
+- Choice: 15
+  Input: 'null'
+  State: '<button id=0 text=''Change photo''></button>
+
+    <button id=1 text=''Toggle favorite''></button>
+
+    <input id=2>Alice</input>
+
+    <input id=3>Surname</input>
+
+    <input id=4>111111</input>
+
+    <button id=5>Mobile</button>
+
+    <input id=6>alice@mails.com</input>
+
+    <button id=7>Home</button>
+
+    <input id=8>Address</input>
+
+    <button id=9>Unknown</button>
+
+    <button id=10>Birthday</button>
+
+    <button id=11 text=''Save''></button>
+
+    <button id=12 text=''Share''></button>
+
+    <button id=13 text=''Delete''></button>
+
+    <button id=14 text=''More options''></button>
+
+    <button id=15>go back</button>
+
+    <input id=16>Notes</input>
+
+    <button id=17>No groups</button>
+
+    <button id=18>Phone storage (not visible by other apps)</button>'
+  new_state_str: 03b40b6d114743d46681fa77f4a0a480dae509a2bfea2318de6a1cd4e78d586f
+  state_str:
+  - 1f63ee478d53d8f4870855f8e3c8b4bcd14b31e2c321eec8e0a2d90d9c688ebe
+  - 85c71ed569ae1b7f485ca2b0154ea6a0ef6b33b5852557a80dc73d68f0379d98
+- Choice: 11
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to proceed with the deletion?</p>\n <button\
+    \ id=1>No</button>\n <button id=2>Yes</button>\n <button id=3>go back</button>"
+  new_state_str: bfab4bf7c2c7b54f18f22d052fbdf2b69462dabb826993d560228c72a672c27b
+  state_str: 40751da12fdcb467069d89ada53021d811e303d067cfd10c62caa6f32efac486
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Manage shown contact fields</button>\n <button id=1>go back</button>"
+  new_state_str: c4f2f694d4393ad28929563eab36ffcb82111106f8d4dd5e224b6efd8e344bfe
+  state_str: 209e8de5b1c4ff9303aede2dbe0721b6c7845fa0c1fb0f59b03382a13373c0a4
+- Choice: 13
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>Prefix</checkbox>
+
+    <checkbox id=1 checked=True>First name</checkbox>
+
+    <checkbox id=2 checked=False>Middle name</checkbox>
+
+    <checkbox id=3 checked=True>Surname</checkbox>
+
+    <checkbox id=4 checked=False>Suffix</checkbox>
+
+    <checkbox id=5 checked=False>Nickname</checkbox>
+
+    <checkbox id=6 checked=True>Phone numbers</checkbox>
+
+    <checkbox id=7 checked=True>Emails</checkbox>
+
+    <checkbox id=8 checked=True>Addresses</checkbox>
+
+    <checkbox id=9 checked=False>Instant messaging (IM)</checkbox>
+
+    <checkbox id=10 checked=True>Events (birthdays, anniversaries)</checkbox>
+
+    <checkbox id=11 checked=True>Notes</checkbox>
+
+    <checkbox id=12 checked=False>Ringtone</checkbox>
+
+    <button id=13>Cancel</button>
+
+    <button id=14>OK</button>
+
+    <button id=15>go back</button>
+
+    <checkbox id=16 checked=False>Organization</checkbox>
+
+    <checkbox id=17 checked=False>Websites</checkbox>
+
+    <checkbox id=18 checked=True>Groups</checkbox>
+
+    <checkbox id=19 checked=True>Contact source</checkbox>'
+  new_state_str: b5c29ed0558462bb184cac18e589a6420d6aad11aaf9eab71ca82351e0d5f409
+  state_str:
+  - 3513852be741cb541e13e3588859b7432c79afe21a0a8c82ad677d693b544bdf
+  - 720934241b3c6825eae9a26021e0df977490f3ad79ec86db423e2456ef93f82b
+- Choice: 13
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 13
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Bob</p>\n <button id=6>222222<br>Mobile</button>\n\
+    \ <button id=7>bob@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: 8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08
+  state_str: b270a33b7328e51ce80c36a5e17aded936ae9a4e079d848fa0db04ad7777a8b9
+- Choice: 7
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 13
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Jack</p>\n <button id=6>333333<br>Mobile</button>\n\
+    \ <button id=7>jack@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: 6063090f9aeda054081d0a358367aef074b4dfa81b5302e57e4856653362fae8
+  state_str: 7e581c02d66b6333519100ee4c5617fd84c8e80fcfe3f7901f101976a5c68dd5
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 19
+  Input: 'null'
+  State: "<p id=0>Dialpad</p>\n <button id=1 text='Add number to contact'></button>\n\
+    \ <button id=2>Alice</button>\n <button id=3>Bob</button>\n <button id=4>Jack</button>\n\
+    \ <button id=5>A\nB\nJ</button>\n <button id=6 text='One'>1</button>\n <button\
+    \ id=7 text='Two'>2<br>ABC</button>\n <button id=8 text='Three'>3<br>DEF</button>\n\
+    \ <button id=9 text='Four'>4<br>GHI</button>\n <button id=10 text='Five'>5<br>JKL</button>\n\
+    \ <button id=11 text='Six'>6<br>MNO</button>\n <button id=12 text='Seven'>7<br>PQRS</button>\n\
+    \ <button id=13 text='Eight'>8<br>TUV</button>\n <button id=14 text='Nine'>9<br>WXYZ</button>\n\
+    \ <button id=15 text='Asterisk'>*</button>\n <button id=16 text='Zero'>0<br>+</button>\n\
+    \ <button id=17 text='Hashtag'>#</button>\n <button id=18 text='Call number'></button>\n\
+    \ <button id=19>go back</button>"
+  new_state_str: bd98a979a8e6635be1fc598aef8736fbe62fa64affa9ffacfb32a7189e3f9805
+  state_str: ff4c348a36e1c9889c7a15a7ab5cc2a549110b25091db841150ccbeec139831a
+- Choice: 11
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No contacts found</p>
+
+    <button id=5 text=''Dialpad''></button>
+
+    <button id=6>Contacts</button>
+
+    <p id=7>Favorites</p>
+
+    <button id=8>Call History</button>
+
+    <button id=9>go back</button>'
+  new_state_str: 52a5299065b902fc4c15bdb017cc11e6f7016b4f196812630def508dd44cf179
+  state_str:
+  - c6000785747bf9c1445e40c2299c8cbb339d0f85347362af488022045bf90eac
+- Choice: 12
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Filter''></button>
+
+    <button id=3 text=''Create new contact''></button>
+
+    <button id=4 text=''More options''></button>
+
+    <button id=5>Alice</button>
+
+    <button id=6>Bob</button>
+
+    <button id=7>Jack</button>
+
+    <button id=8>A
+
+    B
+
+    J</button>
+
+    <button id=9 text=''Dialpad''></button>
+
+    <p id=10>Contacts</p>
+
+    <button id=11>Favorites</button>
+
+    <button id=12>Call History</button>
+
+    <button id=13>go back</button>'
+  new_state_str: 36d9d3b201880926045a3f8ce61c43793956327bde63025e6ebeb56aacd079e4
+  state_str:
+  - a235dae46751ea44d05ec84dfef1d3fa054bc40c2ec9975dcf887189fe402cdd
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Filter''></button>
+
+    <button id=2 text=''Clear call history''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Alice<br>11:26 AM<br>00:08</button>
+
+    <button id=5>Bob<br>30.06<br>00:02</button>
+
+    <button id=6>Alice<br>30.06</button>
+
+    <button id=7 text=''Dialpad''></button>
+
+    <button id=8>Contacts</button>
+
+    <button id=9>Favorites</button>
+
+    <p id=10>Call History</p>
+
+    <button id=11>go back</button>'
+  new_state_str: c2f57686134356b605c0382b1627b8cb89c71e3597fe2bddae95f0f9c5a3c4e3
+  state_str:
+  - 099c89b24e03046d828658002b4b04e9c727d923456e02e0bc28d0311896584c
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to remove the selected items from the Call\
+    \ History?\n\nThis action cannot be undone.</p>\n <button id=1>No</button>\n <button\
+    \ id=2>Yes</button>\n <button id=3>go back</button>"
+  new_state_str: 97c26a5e72123f9600f56067580508f47038bc5f2f80df18adac5f6173536cf4
+  state_str: 013be990626c7030ccd53179b0b2d282d4c1aeb05f909980e3dfd9e78bfec50c
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Filter''></button>
+
+    <button id=2 text=''Clear call history''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Alice<br>11:26 AM<br>00:08</button>
+
+    <button id=5>Bob<br>30.06<br>00:02</button>
+
+    <button id=6>Alice<br>30.06</button>
+
+    <button id=7 text=''Dialpad''></button>
+
+    <button id=8>Contacts</button>
+
+    <button id=9>Favorites</button>
+
+    <p id=10>Call History</p>
+
+    <button id=11>go back</button>'
+  new_state_str: c2f57686134356b605c0382b1627b8cb89c71e3597fe2bddae95f0f9c5a3c4e3
+  state_str:
+  - 099c89b24e03046d828658002b4b04e9c727d923456e02e0bc28d0311896584c
+- Choice: 1
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Phone storage (not visible by other apps) (3)</checkbox>\n\
+    \ <button id=1>Cancel</button>\n <button id=2>OK</button>\n <button id=3>go back</button>"
+  new_state_str: 5d41ba4ba4a32d9fb05ea4b994f56fbf3f8e3cd2f82b62049581a8e736e91938
+  state_str: 6652650d3da3435fc10ad63e5325d41da4337974d905bfca6f8341e13c3a46e7
+- Choice: -1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Filter''></button>
+
+    <button id=2 text=''Clear call history''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Alice<br>11:26 AM<br>00:08</button>
+
+    <button id=5>Bob<br>30.06<br>00:02</button>
+
+    <button id=6>Alice<br>30.06</button>
+
+    <button id=7 text=''Dialpad''></button>
+
+    <button id=8>Contacts</button>
+
+    <button id=9>Favorites</button>
+
+    <p id=10>Call History</p>
+
+    <button id=11>go back</button>'
+  new_state_str: c2f57686134356b605c0382b1627b8cb89c71e3597fe2bddae95f0f9c5a3c4e3
+  state_str:
+  - 099c89b24e03046d828658002b4b04e9c727d923456e02e0bc28d0311896584c
+step_num: 92
+task_name: explore

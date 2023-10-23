@@ -1,0 +1,662 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=3>00:00</p>
+
+    <p id=4>Recorder</p>
+
+    <button id=5>Player</button>
+
+    <button id=6>go back</button>'
+  new_state_str: ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f
+  state_str:
+  - 2039f11abe6aae0cfd2fe2521c6aeb8b2e817800e5de6dc194b69148b9aa0d06
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 9
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>16.02.2021</checkbox>\n <checkbox id=1 checked=False>16/02/2021</checkbox>\n\
+    \ <checkbox id=2 checked=False>02/16/2021</checkbox>\n <checkbox id=3 checked=False>16-02-2021</checkbox>\n\
+    \ <checkbox id=4 checked=False>02-16-2021</checkbox>\n <checkbox id=5 checked=False>2021-02-16</checkbox>\n\
+    \ <checkbox id=6 checked=False>16 February 2021</checkbox>\n <checkbox id=7 checked=False>February\
+    \ 16 2021</checkbox>\n <checkbox id=8 checked=False>Use 24-hour time format</checkbox>\n\
+    \ <button id=9>Cancel</button>\n <button id=10>OK</button>\n <button id=11>go\
+    \ back</button>"
+  new_state_str: e4bc83f77703f52d07cd5f9ca5fb500d16741aefd16d4f6f35002bd13525c940
+  state_str: be75927e1e9a42efc8df251b6b0d510ec1572269629fcc08399f712a2ff11f22
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=True>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: ee299cea28a932fda0ab93f6c90cf8f780430011b03f9faf73b7cfc4cdf494fe
+  state_str:
+  - cc7e7425b19fdb1d6ac610d1ea1100974c109ebae465bfe57402c17712407cc8
+  - 0214dd2b6d5568a1bb0a776e84b31c973477748e8914caa8d7521e45b62e86ed
+- Choice: 8
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Select a folder</p>\n <button id=1>Internal</button>\n <button id=2>>\
+    \ Music</button>\n <button id=3>> Recordings</button>\n <button id=4>test1.m4a<br>124\
+    \ kB</button>\n <button id=5>test2.m4a<br>86.1 kB</button>\n <button id=6>Cancel</button>\n\
+    \ <button id=7>OK</button>\n <button id=8>go back</button>"
+  new_state_str: c0b0baa7678fd8322ba820a18a1ab1ba2901fcfc7d0440fc830b6307491d046f
+  state_str: 04c29d0b0063aabd7fe272372bcbb493c650d9a372b4ac4d1bc58a33774ca118
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Select storage</p>\n <checkbox id=1 checked=True>Internal</checkbox>\n\
+    \ <checkbox id=2 checked=False>SD Card</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 6919cfa097bb6dc5bcc70b3a04c75500aeb04e8db499b49ba0c033318894e3aa
+  state_str: 2f92e2a72473dec647207c0fa93dbe9138269c84c1581b8e2a36290cd6289484
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>SD Card</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>1 item</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>0 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>0 items</button>
+
+    <button id=8>LOST.DIR<br>0 items</button>
+
+    <button id=9>Movies<br>0 items</button>
+
+    <button id=10>Music<br>0 items</button>
+
+    <button id=11>Notifications<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Pictures<br>0 items</button>
+
+    <button id=16>Podcasts<br>0 items</button>
+
+    <button id=17>Ringtones<br>0 items</button>
+
+    <p id=18 text=''handleImage''></p>'
+  new_state_str: f4e3bb56b18f61edcbc485302f7614a0c5ba2e590c7ce1e15e06c3272314ca1e
+  state_str:
+  - 018b55e91625d7d16a6380fe06091118e1c1a06768ad6c5826f69eb9706d95a2
+  - 6b8de8f566bcf947760a08eb302036aff2057235200cd89f30b5416b84b80e2c
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Select a folder</p>\n <button id=1>SD Card</button>\n <button id=2>>\
+    \ Alarms</button>\n <button id=3>Cancel</button>\n <button id=4>OK</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 91794cabe9baed2051b13acffe4b46f802ee09d1f65e86fa1b717b46bac5b418
+  state_str: 48230c2e387c0ac9b9ed8e078ee1b585662dae82c079b3303f22f7fcb1b3536a
+- Choice: 9
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>m4a</checkbox>\n <checkbox id=1 checked=False>mp3</checkbox>\n\
+    \ <checkbox id=2 checked=False>ogg (Opus)</checkbox>\n <button id=3>go back</button>"
+  new_state_str: 95beae32f88ba63e6f6e4cd7eaf4a4e3ae5ba656437bfadff97612b12d90732e
+  state_str: 80668de49c48cd3560b482b28581907278b82a3600cd856b31c9d3f99a945df2
+- Choice: 10
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Camera</checkbox>\n <checkbox id=1 checked=False>Android\
+    \ default</checkbox>\n <checkbox id=2 checked=False>Microphone</checkbox>\n <checkbox\
+    \ id=3 checked=False>Voice recognition</checkbox>\n <checkbox id=4 checked=False>Voice\
+    \ communication</checkbox>\n <checkbox id=5 checked=False>Unprocessed</checkbox>\n\
+    \ <checkbox id=6 checked=False>Voice performance</checkbox>\n <button id=7>go\
+    \ back</button>"
+  new_state_str: 5abd380a0c963678d243621338a4b57c51aa452f7503f101867b33b7eb2e323e
+  state_str: 27fe7ef50c8fc99bdcda07dc7aa34e2339e9079c215031d7c0dd33aafbebef9a
+- Choice: 13
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 8
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>32 kbps</checkbox>\n <checkbox id=1 checked=False>64\
+    \ kbps</checkbox>\n <checkbox id=2 checked=False>96 kbps</checkbox>\n <checkbox\
+    \ id=3 checked=True>128 kbps</checkbox>\n <checkbox id=4 checked=False>160 kbps</checkbox>\n\
+    \ <checkbox id=5 checked=False>192 kbps</checkbox>\n <checkbox id=6 checked=False>256\
+    \ kbps</checkbox>\n <checkbox id=7 checked=False>320 kbps</checkbox>\n <button\
+    \ id=8>go back</button>"
+  new_state_str: d95438ce61e20b6f15338518b419c703ebd4fbe52def4f815c0dfd3c43ce5357
+  state_str: 0d7fb46b4dd0c70af332d735e4c5a63f00f356789472c84fc0a023a7cbc00f60
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <button id=3>Customize widget colors</button>
+
+    <p id=4>GENERAL</p>
+
+    <button id=5>Change date and time format</button>
+
+    <checkbox id=6 checked=False>Try hiding the recording notification</checkbox>
+
+    <checkbox id=7 checked=False>Start recording automatically after launching the
+    </checkbox>
+
+    <button id=8>Save recordings in<br>Internal/Music/Recordings</button>
+
+    <button id=9>Extension<br>m4a</button>
+
+    <button id=10>Audio source<br>Camera</button>
+
+    <button id=11>Bitrate</button>
+
+    <button id=12>go back</button>
+
+    <button id=13>Bitrate<br>128 kbps</button>'
+  new_state_str: 4a49c9cd6a208c6e931246695e44bd78a97eeb47c5a7f11a226d98a6a18bbd98
+  state_str:
+  - b943f4cb9921eb82546a77f88a3d93f1428866f888d881c9684bfbbac638192b
+  - 8dad54d1c673ffe82a49d91fafb59fa1e7d5b1b8c774aa7db8e6b54b7c756c4b
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=3>00:00</p>
+
+    <p id=4>Recorder</p>
+
+    <button id=5>Player</button>
+
+    <button id=6>go back</button>'
+  new_state_str: ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f
+  state_str:
+  - 2039f11abe6aae0cfd2fe2521c6aeb8b2e817800e5de6dc194b69148b9aa0d06
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>About</p>\n<p id=1>SUPPORT</p>\n<button id=2>Frequently asked questions</button>\n\
+    <button id=3>hello@simplemobiletools.com</button>\n<p id=4>HELP US</p>\n<button\
+    \ id=5>Contributors</button>\n<button id=6>Donate</button>\n<p id=7>SOCIAL</p>\n\
+    <button id=8>Facebook</button>\n<button id=9>GitHub</button>\n<button id=10>Reddit</button>\n\
+    <button id=11>Telegram</button>\n<button id=12>go back</button>\n<p id=13>OTHER</p>\n\
+    <button id=14>Website</button>\n<button id=15>Privacy policy</button>\n<button\
+    \ id=16>Third party licences</button>\n<button id=17>Version 5.11.3</button>\n\
+    <p id=18>Made with \u2764\uFE0F in Slovakia</p>"
+  new_state_str: 01761c55c458560c451ae5ab946cb58da6702f4ce6f72f6221b0d3ce78e138be
+  state_str:
+  - 9e872d9e8106b8559eda4685643675158b10c4ce89f51fea4ec7d8ac59969a4b
+  - 43a17534d591093614815016111029fb0f8a20993c52ebdfe91605036b06d334
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=3>00:00</p>
+
+    <p id=4>Recorder</p>
+
+    <button id=5>Player</button>
+
+    <button id=6>go back</button>'
+  new_state_str: ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f
+  state_str:
+  - 2039f11abe6aae0cfd2fe2521c6aeb8b2e817800e5de6dc194b69148b9aa0d06
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>test1.m4a<br>00:10<br>30.06.2023, 12:26 PM<br>124 kB</button>
+
+    <button id=4>test2.m4a<br>00:07<br>30.06.2023, 12:26 PM<br>86.1 kB</button>
+
+    <button id=5>00:00</button>
+
+    <button id=6 text=''Previous''></button>
+
+    <button id=7 text=''Play / Pause''></button>
+
+    <button id=8 text=''Next''></button>
+
+    <button id=9>Recorder</button>
+
+    <p id=10>Player</p>
+
+    <button id=11>go back</button>'
+  new_state_str: 41f3305e06df4df3ac8ee3f17ad17a40a34230880a4a372f4cdaa288d55541b8
+  state_str:
+  - 2a3bee6c8d378b07a902501cb4ae14da1958fffb0a48042b594942952460e734
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=3>00:00</p>
+
+    <p id=4>Recorder</p>
+
+    <button id=5>Player</button>
+
+    <button id=6>go back</button>'
+  new_state_str: ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f
+  state_str:
+  - 2039f11abe6aae0cfd2fe2521c6aeb8b2e817800e5de6dc194b69148b9aa0d06
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>test1.m4a<br>00:10<br>30.06.2023, 12:26 PM<br>124 kB</button>
+
+    <button id=4>test2.m4a<br>00:07<br>30.06.2023, 12:26 PM<br>86.1 kB</button>
+
+    <button id=5>00:00</button>
+
+    <button id=6 text=''Previous''></button>
+
+    <button id=7 text=''Play / Pause''></button>
+
+    <button id=8 text=''Next''></button>
+
+    <button id=9>Recorder</button>
+
+    <p id=10>Player</p>
+
+    <button id=11>go back</button>'
+  new_state_str: 41f3305e06df4df3ac8ee3f17ad17a40a34230880a4a372f4cdaa288d55541b8
+  state_str:
+  - 2a3bee6c8d378b07a902501cb4ae14da1958fffb0a48042b594942952460e734
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <p id=3>00:00</p>
+
+    <p id=4>Recorder</p>
+
+    <button id=5>Player</button>
+
+    <button id=6>go back</button>'
+  new_state_str: ebc3c7ccc0dfade1d397a93599b9919dc50a79323f6b8302b99aff76932e937f
+  state_str:
+  - 2039f11abe6aae0cfd2fe2521c6aeb8b2e817800e5de6dc194b69148b9aa0d06
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>test1.m4a<br>00:10<br>30.06.2023, 12:26 PM<br>124 kB</button>
+
+    <button id=4>test2.m4a<br>00:07<br>30.06.2023, 12:26 PM<br>86.1 kB</button>
+
+    <button id=5>00:00</button>
+
+    <button id=6 text=''Previous''></button>
+
+    <button id=7 text=''Play / Pause''></button>
+
+    <button id=8 text=''Next''></button>
+
+    <button id=9>Recorder</button>
+
+    <p id=10>Player</p>
+
+    <button id=11>go back</button>'
+  new_state_str: 41f3305e06df4df3ac8ee3f17ad17a40a34230880a4a372f4cdaa288d55541b8
+  state_str:
+  - 2a3bee6c8d378b07a902501cb4ae14da1958fffb0a48042b594942952460e734
+- Choice: -1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3>test1.m4a<br>00:10<br>30.06.2023, 12:26 PM<br>124 kB</button>
+
+    <button id=4>test2.m4a<br>00:07<br>30.06.2023, 12:26 PM<br>86.1 kB</button>
+
+    <p id=5>test1.m4a</p>
+
+    <button id=7>00:10</button>
+
+    <button id=8 text=''Previous''></button>
+
+    <button id=9 text=''Play / Pause''></button>
+
+    <button id=10 text=''Next''></button>
+
+    <button id=11>Recorder</button>
+
+    <p id=12>Player</p>
+
+    <button id=13>go back</button>'
+  new_state_str: 04d9f6047cbe57fd18cd55bf2aafc94dd0c67c26c4380ca5cade1c4cb57397a3
+  state_str:
+  - 6192395f07ac55482b4e23d0f7264f9626fe60ec10840787614e321a0e58696f
+step_num: 31
+task_name: utg

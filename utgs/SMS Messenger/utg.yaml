@@ -1,0 +1,1122 @@
+records:
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 4
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 11
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>16.02.2021</checkbox>\n <checkbox id=1 checked=False>16/02/2021</checkbox>\n\
+    \ <checkbox id=2 checked=False>02/16/2021</checkbox>\n <checkbox id=3 checked=False>16-02-2021</checkbox>\n\
+    \ <checkbox id=4 checked=False>02-16-2021</checkbox>\n <checkbox id=5 checked=False>2021-02-16</checkbox>\n\
+    \ <checkbox id=6 checked=False>16 February 2021</checkbox>\n <checkbox id=7 checked=False>February\
+    \ 16 2021</checkbox>\n <checkbox id=8 checked=False>Use 24-hour time format</checkbox>\n\
+    \ <button id=9>Cancel</button>\n <button id=10>OK</button>\n <button id=11>go\
+    \ back</button>"
+  new_state_str: e4bc83f77703f52d07cd5f9ca5fb500d16741aefd16d4f6f35002bd13525c940
+  state_str: be75927e1e9a42efc8df251b6b0d510ec1572269629fcc08399f712a2ff11f22
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ messages from not stored contacts</checkbox>\n <p id=4>You are not blocking\
+    \ anyone.</p>\n <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 3e83705e7c9d64408cdea9bd3d2177519b7b17d7e8dad3e7d3b284ec021ab3e2
+  state_str: c6407d03c42d6950b2d650b1e46ea889dc2b237d81100ebf8e34a0c0b8709013
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=True>Block\
+    \ messages from not stored contacts</checkbox>\n <p id=4>You are not blocking\
+    \ anyone.</p>\n <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: cfcaa9fde736c6ea989cc2b0276999b7b3b73f542639e313c822f57f6cb9d85b
+  state_str: fd8e3380e3a37a57235671667929766614da0d8edf4313e36a6f1b73cdbf4e55
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ messages from not stored contacts</checkbox>\n <p id=4>You are not blocking\
+    \ anyone.</p>\n <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 3e83705e7c9d64408cdea9bd3d2177519b7b17d7e8dad3e7d3b284ec021ab3e2
+  state_str: c6407d03c42d6950b2d650b1e46ea889dc2b237d81100ebf8e34a0c0b8709013
+- Choice: 0
+  Input: 'null'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 0
+  Input: '12345'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >12345</input>\n <p id=1>Enter a number or a pattern (e.g. *12345*,\
+    \ +1*8888) to block all calls and messages from numbers matching the pattern.</p>\n\
+    \ <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button id=4>go back</button>"
+  new_state_str: db6e86df53e103e7364fd7877a85997eea5d7a824e32429a7aad70b18592439c
+  state_str: 346a25984481cb75894bd32f0184119799caff39b96b63c77e783290f7422f2a
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ messages from not stored contacts</checkbox>\n <p id=4>You are not blocking\
+    \ anyone.</p>\n <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 3e83705e7c9d64408cdea9bd3d2177519b7b17d7e8dad3e7d3b284ec021ab3e2
+  state_str: c6407d03c42d6950b2d650b1e46ea889dc2b237d81100ebf8e34a0c0b8709013
+- Choice: 4
+  Input: 'null'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 2
+  Input: 'null'
+  State: "<input id=0 >Number</input>\n <p id=1>Enter a number or a pattern (e.g.\
+    \ *12345*, +1*8888) to block all calls and messages from numbers matching the\
+    \ pattern.</p>\n <button id=2>Cancel</button>\n <button id=3>OK</button>\n <button\
+    \ id=4>go back</button>"
+  new_state_str: 8cb53267caec91fabbc33f0d955e0bf2bf6cc77828de61266c59a8cd30a73e28
+  state_str: 095ea3ccc3255600938590574e44a2b74ccdde926d89fd44fa60a1b9e713d468
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Manage blocked numbers</p>\n <button id=1 text='Add a blocked number'></button>\n\
+    \ <button id=2 text='More options'></button>\n <checkbox id=3 checked=False>Block\
+    \ messages from not stored contacts</checkbox>\n <p id=4>You are not blocking\
+    \ anyone.</p>\n <button id=5>Add a blocked number</button>\n <button id=6>go back</button>"
+  new_state_str: 3e83705e7c9d64408cdea9bd3d2177519b7b17d7e8dad3e7d3b284ec021ab3e2
+  state_str: c6407d03c42d6950b2d650b1e46ea889dc2b237d81100ebf8e34a0c0b8709013
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 4
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Small</checkbox>\n <checkbox id=1 checked=True>Medium</checkbox>\n\
+    \ <checkbox id=2 checked=False>Large</checkbox>\n <checkbox id=3 checked=False>Extra\
+    \ large</checkbox>\n <button id=4>go back</button>"
+  new_state_str: 67da643374d1ea3b0edd5022f9c3612822bdc41a9934c0307142479a64383462
+  state_str: 1dec41ff73a5ebd9e7967eb91880938e3a9781cc22884d3ad0d76be1da3bf334
+- Choice: 8
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 7
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Settings</p>\n <button id=2\
+    \ text='Search settings'></button>\n <button id=3>SMS Messenger</button>\n <button\
+    \ id=4>All SMS Messenger notifications</button>\n <p id=5>CATEGORIES</p>\n <button\
+    \ id=6>This app has not posted any notifications</button>\n <button id=7>Advanced<br>Allow\
+    \ notification dot</button>\n <button id=8>go back</button>"
+  new_state_str: 7f8f88b0be7d1235a51b2a6567e05258bc0114a0283a6883c64a7e97eec69434
+  state_str: b726ef027d6656306e37132d15cfd9709959fffd733d1179794d6c719436772a
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Settings</p>\n <button id=2\
+    \ text='Search settings'></button>\n <button id=3>SMS Messenger</button>\n <button\
+    \ id=4>All SMS Messenger notifications</button>\n <p id=5>CATEGORIES</p>\n <button\
+    \ id=6>This app has not posted any notifications</button>\n <button id=7>Allow\
+    \ notification dot</button>\n <button id=8>go back</button>"
+  new_state_str: 311608c2891e76079df1e5cfbee8493d1656731b172ee94afeccf4271ca808b0
+  state_str: 08c55a203bb9ceef2e9e36a7566f718c32228f21b3301864cbe42996100dc9d7
+- Choice: 8
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Settings</p>\n <button id=2\
+    \ text='Search settings'></button>\n <button id=3>SMS Messenger</button>\n <button\
+    \ id=4>All SMS Messenger notifications</button>\n <p id=5>CATEGORIES</p>\n <button\
+    \ id=6>This app has not posted any notifications</button>\n <button id=7>Advanced<br>Allow\
+    \ notification dot</button>\n <button id=8>go back</button>"
+  new_state_str: 7f8f88b0be7d1235a51b2a6567e05258bc0114a0283a6883c64a7e97eec69434
+  state_str: b726ef027d6656306e37132d15cfd9709959fffd733d1179794d6c719436772a
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Settings</p>\n <button id=2\
+    \ text='Search settings'></button>\n <button id=3>SMS Messenger</button>\n <button\
+    \ id=4>All SMS Messenger notifications</button>\n <p id=5>At your request, Android\
+    \ is blocking this app's notifications from appearing on this device</p>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 53c3b0e72f4d2d7d3bcf4bab3db7744ff7965cac25f88801fc289c3c2d08c4cd
+  state_str: 553185cabf348905ce616402d8b36f82df03ee01c44b9a24c6421a3032ab73da
+- Choice: 8
+  Input: 'null'
+  State: "<button id=0 text='Back'></button>\n <p id=1>Settings</p>\n <button id=2\
+    \ text='Search settings'></button>\n <button id=3>SMS Messenger</button>\n <button\
+    \ id=4>All SMS Messenger notifications</button>\n <p id=5>CATEGORIES</p>\n <button\
+    \ id=6>This app has not posted any notifications</button>\n <button id=7>Advanced<br>Allow\
+    \ notification dot</button>\n <button id=8>go back</button>"
+  new_state_str: 7f8f88b0be7d1235a51b2a6567e05258bc0114a0283a6883c64a7e97eec69434
+  state_str: b726ef027d6656306e37132d15cfd9709959fffd733d1179794d6c719436772a
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 4
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Small</checkbox>\n <checkbox id=1 checked=True>Medium</checkbox>\n\
+    \ <checkbox id=2 checked=False>Large</checkbox>\n <checkbox id=3 checked=False>Extra\
+    \ large</checkbox>\n <button id=4>go back</button>"
+  new_state_str: 67da643374d1ea3b0edd5022f9c3612822bdc41a9934c0307142479a64383462
+  state_str: 1dec41ff73a5ebd9e7967eb91880938e3a9781cc22884d3ad0d76be1da3bf334
+- Choice: 9
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Sender and message</checkbox>\n <checkbox id=1\
+    \ checked=False>Sender only</checkbox>\n <checkbox id=2 checked=False>Nothing</checkbox>\n\
+    \ <button id=3>go back</button>"
+  new_state_str: 49deca6e3d4b444e2853743b76aa898bd0ba76cd8188f141c1bf8ccd7c6eeecb
+  state_str: 6742540009e001eeb093d09fe6fb56f3e22d14feba4c6f764f8ff0f896e32dbf
+- Choice: 12
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <button id=4>Change date and time format</button>
+
+    <button id=5>Manage blocked numbers</button>
+
+    <button id=6>Font size<br>Medium</button>
+
+    <p id=7>NOTIFICATIONS</p>
+
+    <button id=8>Customize notifications</button>
+
+    <button id=9>Lock screen notification visibility<br>Sender and message</button>
+
+    <p id=10>OUTGOING MESSAGES</p>
+
+    <checkbox id=11 checked=False>Show a character counter at writing messages</checkbox>
+
+    <button id=12>go back</button>
+
+    <checkbox id=13 checked=False>Remove accents and diacritics at sending messages</checkbox>
+
+    <checkbox id=14 checked=False>Send message on pressing Enter</checkbox>
+
+    <checkbox id=15 checked=False>Enable delivery reports</checkbox>
+
+    <checkbox id=16 checked=False>Send long messages as MMS</checkbox>
+
+    <checkbox id=17 checked=False>Send group messages as MMS</checkbox>
+
+    <button id=18>Resize sent MMS images<br>600KB</button>'
+  new_state_str: bad64af50b28261e6fc5ca0ed80019492fe49097d36edc5faa2a2742789f3dbc
+  state_str:
+  - 2c5664b27094d5b399cec3fa113aa97a1464ec8b9af968fa8018c436587674e6
+  - f7428990ab52dfba4ccb2c79d5cb71b7c0546fd5f953239f826a39d7d99eda03
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Import messages</button>\n <button id=1>Export messages</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: ed52ffd458f2d820697aeecc26d5fd3e9edbba87d5fa8a4f2c57eadd368ee196
+  state_str: e15ee1bfcdd2f6ce95f9d4d212d239f12b4c5580e6375a9c7c90ac5f6f6b5aef
+- Choice: 12
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Large files</checkbox>\n <checkbox id=1 checked=False>This\
+    \ week</checkbox>\n <p id=2>BROWSE FILES IN OTHER APPS</p>\n <button id=3 text='Drive'>Drive</button>\n\
+    \ <button id=4 text='File Manager'>File Manager</button>\n <p id=5>RECENT FILES</p>\n\
+    \ <button id=6 text='Grid view'></button>\n <button id=7 text='Show roots'></button>\n\
+    \ <p id=8>Recent</p>\n <button id=9 text='Search'></button>\n <button id=10 text='More\
+    \ options'></button>\n <p id=11>No items</p>\n <button id=12>go back</button>"
+  new_state_str: 6c15d08aec3a402a628f85b3d96898a6db9ec6b7d2e522ba14ac3fe2c8365d0f
+  state_str: 21bf1530f29b2ac177b5ccdcd30cf2adec6d271beb7c691de22435ff866fd138
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Import messages</button>\n <button id=1>Export messages</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: ed52ffd458f2d820697aeecc26d5fd3e9edbba87d5fa8a4f2c57eadd368ee196
+  state_str: e15ee1bfcdd2f6ce95f9d4d212d239f12b4c5580e6375a9c7c90ac5f6f6b5aef
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Export messages</p>\n <input id=1 >Messages_2023_07_01_14_13_17</input>\n\
+    \ <checkbox id=2 checked=True>Export SMS</checkbox>\n <checkbox id=3 checked=True>Export\
+    \ MMS</checkbox>\n <button id=4>Cancel</button>\n <button id=5>OK</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 537c4da87ea34a8ba644cc023a5aedaf47cb878268794131767c7c75b55974e1
+  state_str: 8582751ce910bdec50f7fc435c79893363dec912a17bf0f9085b2f2fe5035612
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>Downloads</p>\n <p id=1>FILES IN DOWNLOADS</p>\n <button id=2 text='List\
+    \ view'></button>\n <button id=3 text='Show roots'></button>\n <p id=4>Downloads</p>\n\
+    \ <button id=5 text='New folder'></button>\n <button id=6 text='More options'></button>\n\
+    \ <p id=7>Diary.pdf</p>\n <p id=8>6.24 kB</p>\n <p id=9>Jun 30</p>\n <input id=10\
+    \ >Messages_2023_07_01_14_13_17.json</input>\n <button id=11>SAVE</button>\n <button\
+    \ id=12>go back</button>"
+  new_state_str: ba07083063ba3308faf997627f22ac6c3209c35b90fded27bf0bf78b5bf3f761
+  state_str: 1fdccd6906b4ecd8d6d50bf6ebabf1bf9ff3161cc5cfa6acf7d24d38c1622a1e
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>About</p>\n<p id=1>SUPPORT</p>\n<button id=2>Frequently asked questions</button>\n\
+    <button id=3>hello@simplemobiletools.com</button>\n<p id=4>HELP US</p>\n<button\
+    \ id=5>Contributors</button>\n<button id=6>Donate</button>\n<p id=7>SOCIAL</p>\n\
+    <button id=8>Facebook</button>\n<button id=9>GitHub</button>\n<button id=10>Reddit</button>\n\
+    <button id=11>Telegram</button>\n<button id=12>go back</button>\n<p id=13>OTHER</p>\n\
+    <button id=14>Website</button>\n<button id=15>Privacy policy</button>\n<button\
+    \ id=16>Third party licences</button>\n<button id=17>Version 5.18.2</button>\n\
+    <p id=18>Made with \u2764\uFE0F in Slovakia</p>"
+  new_state_str: 252f1ed8f3f2e6bea622548f42e08abaa95d491a26cfb66fda2ce8147d66cc07
+  state_str:
+  - 9e872d9e8106b8559eda4685643675158b10c4ce89f51fea4ec7d8ac59969a4b
+  - d4b23e99b5f642a598d85732dc5ecf729a02ee2e3127a1297fb330d8744e27bd
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Are you sure you want to delete all messages of this conversation?</p>\n\
+    \ <button id=1>No</button>\n <button id=2>Yes</button>\n <button id=3>go back</button>"
+  new_state_str: 7443468cb5417a4b6c16fda63e6fdb94e631b4013cdce102105a8af7d0345da9
+  state_str: 3f3d75df453d75637168814ca8c159419b2560c8e6f19b53ab314875d999783e
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <p id=5>Bob</p>\n <input id=6 >Add Contact or\
+    \ Number\u2026</input>\n <button id=7>30.06, 12:18 PM</button>\n <button id=8>Hey</button>\n\
+    \ <button id=9 text='Attachment'></button>\n <input id=10 >Type a message\u2026\
+    </input>\n <button id=12>go back</button>"
+  new_state_str: 26108775822161a65b119b22f8e935bad3582d1b70034007d4dcc841cf993a89
+  state_str: 38f0bdc6b46695514a3a95f8fe47ab8c20535d87353f7a3e2253c9b332646156
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <p id=5>Bob</p>\n <input id=6 >Add Contact or\
+    \ Number\u2026</input>\n <button id=7>30.06, 12:18 PM</button>\n <button id=8>Hey</button>\n\
+    \ <button id=9 text='Attachment'></button>\n <input id=10 >Type a message\u2026\
+    </input>\n <button id=12>go back</button>"
+  new_state_str: 26108775822161a65b119b22f8e935bad3582d1b70034007d4dcc841cf993a89
+  state_str: 38f0bdc6b46695514a3a95f8fe47ab8c20535d87353f7a3e2253c9b332646156
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Alice</p>\n <button id=1 text='Delete'></button>\n <button id=2\
+    \ text='Dial number'></button>\n <button id=3 text='Add Person'></button>\n <button\
+    \ id=4 text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n\
+    \ <button id=6>Hello</button>\n <button id=7 text='Attachment'></button>\n <input\
+    \ id=8 >Type a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20
+  state_str: b1676429e8e1aeb01a008fdc209fe90afc35d251eaf067acf072b8c42796e1e2
+- Choice: 17
+  Input: 'null'
+  State: "<p id=0>Dialpad</p>\n <button id=1 text='Add number to contact'></button>\n\
+    \ <button id=2>Alice</button>\n <button id=3>A</button>\n <input id=4 >111111</input>\n\
+    \ <button id=5 text='One'>1</button>\n <button id=6 text='Two'>2<br>ABC</button>\n\
+    \ <button id=7 text='Three'>3<br>DEF</button>\n <button id=8 text='Four'>4<br>GHI</button>\n\
+    \ <button id=9 text='Five'>5<br>JKL</button>\n <button id=10 text='Six'>6<br>MNO</button>\n\
+    \ <button id=11 text='Seven'>7<br>PQRS</button>\n <button id=12 text='Eight'>8<br>TUV</button>\n\
+    \ <button id=13 text='Nine'>9<br>WXYZ</button>\n <button id=14 text='Asterisk'>*</button>\n\
+    \ <button id=15 text='Zero'>0<br>+</button>\n <button id=16 text='Hashtag'>#</button>\n\
+    \ <button id=17 text='Call number'></button>\n <button id=18>go back</button>"
+  new_state_str: 552d30f235e58ed1f603339ad1897b0df260b1dad80bb75397a1cd8e0d34322c
+  state_str: 84db684e5a0797a3aae86d835d895634d6547707363e5367ed05063c40e343da
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Turn microphone off'></button>\n <button id=1 text='Turn\
+    \ speaker off'></button>\n <button id=2 text='Show dialpad'></button>\n <button\
+    \ id=3 text='Hold call'></button>\n <button id=4 text='Add call'></button>\n <button\
+    \ id=5 text='End call'></button>\n <p id=6>Alice</p>\n <p id=7>111111</p>\n <p\
+    \ id=8>Dialing\u2026</p>\n <button id=9>go back</button>"
+  new_state_str: 467d921c37c70b9fd0d0f21ea8b93c3025ef4d0984d7aab6e67e6c940756c3e0
+  state_str: 21f0449399a68c531e2a03a8725de6316198090e923ff6871cf74b7c3a1505fe
+- Choice: 18
+  Input: 'null'
+  State: "<p id=0>Dialpad</p>\n <button id=1 text='Add number to contact'></button>\n\
+    \ <button id=2>Alice</button>\n <button id=3>A</button>\n <input id=4 >111111</input>\n\
+    \ <button id=5 text='One'>1</button>\n <button id=6 text='Two'>2<br>ABC</button>\n\
+    \ <button id=7 text='Three'>3<br>DEF</button>\n <button id=8 text='Four'>4<br>GHI</button>\n\
+    \ <button id=9 text='Five'>5<br>JKL</button>\n <button id=10 text='Six'>6<br>MNO</button>\n\
+    \ <button id=11 text='Seven'>7<br>PQRS</button>\n <button id=12 text='Eight'>8<br>TUV</button>\n\
+    \ <button id=13 text='Nine'>9<br>WXYZ</button>\n <button id=14 text='Asterisk'>*</button>\n\
+    \ <button id=15 text='Zero'>0<br>+</button>\n <button id=16 text='Hashtag'>#</button>\n\
+    \ <button id=17 text='Call number'></button>\n <button id=18>go back</button>"
+  new_state_str: 552d30f235e58ed1f603339ad1897b0df260b1dad80bb75397a1cd8e0d34322c
+  state_str: 84db684e5a0797a3aae86d835d895634d6547707363e5367ed05063c40e343da
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Alice</p>\n <button id=1 text='Delete'></button>\n <button id=2\
+    \ text='Dial number'></button>\n <button id=3 text='Add Person'></button>\n <button\
+    \ id=4 text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n\
+    \ <button id=6>Hello</button>\n <button id=7 text='Attachment'></button>\n <input\
+    \ id=8 >Type a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20
+  state_str: b1676429e8e1aeb01a008fdc209fe90afc35d251eaf067acf072b8c42796e1e2
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 17
+  Input: 'null'
+  State: "<p id=0>Dialpad</p>\n <button id=1 text='Add number to contact'></button>\n\
+    \ <button id=2>Bob</button>\n <button id=3>B</button>\n <input id=4 >222222</input>\n\
+    \ <button id=5 text='One'>1</button>\n <button id=6 text='Two'>2<br>ABC</button>\n\
+    \ <button id=7 text='Three'>3<br>DEF</button>\n <button id=8 text='Four'>4<br>GHI</button>\n\
+    \ <button id=9 text='Five'>5<br>JKL</button>\n <button id=10 text='Six'>6<br>MNO</button>\n\
+    \ <button id=11 text='Seven'>7<br>PQRS</button>\n <button id=12 text='Eight'>8<br>TUV</button>\n\
+    \ <button id=13 text='Nine'>9<br>WXYZ</button>\n <button id=14 text='Asterisk'>*</button>\n\
+    \ <button id=15 text='Zero'>0<br>+</button>\n <button id=16 text='Hashtag'>#</button>\n\
+    \ <button id=17 text='Call number'></button>\n <button id=18>go back</button>"
+  new_state_str: 59cac8dcd2b99fd48bbe9c8c6137d1aa71fff71ebcb8018b8429b10094246a70
+  state_str: 201e2ca288004cb814f1aef4d7c35257edae42470f3e7042af08aff9dd4b92da
+- Choice: 5
+  Input: 'null'
+  State: "<button id=0 text='Turn microphone off'></button>\n <button id=1 text='Turn\
+    \ speaker off'></button>\n <button id=2 text='Show dialpad'></button>\n <button\
+    \ id=3 text='Hold call'></button>\n <button id=4 text='Add call'></button>\n <button\
+    \ id=5 text='End call'></button>\n <p id=6>Bob</p>\n <p id=7>222222</p>\n <p id=8>Dialing\u2026\
+    </p>\n <button id=9>go back</button>"
+  new_state_str: 33261b024cf187d44cfbd77ea3cc0b387c9dc6a7ca8739e8c64c9449cb33976d
+  state_str: 2ebc7467c38510d5329e146e7843adb1ea219bf6960bf55493fb12c5a463cc65
+- Choice: 18
+  Input: 'null'
+  State: "<p id=0>Dialpad</p>\n <button id=1 text='Add number to contact'></button>\n\
+    \ <button id=2>Bob</button>\n <button id=3>B</button>\n <input id=4 >222222</input>\n\
+    \ <button id=5 text='One'>1</button>\n <button id=6 text='Two'>2<br>ABC</button>\n\
+    \ <button id=7 text='Three'>3<br>DEF</button>\n <button id=8 text='Four'>4<br>GHI</button>\n\
+    \ <button id=9 text='Five'>5<br>JKL</button>\n <button id=10 text='Six'>6<br>MNO</button>\n\
+    \ <button id=11 text='Seven'>7<br>PQRS</button>\n <button id=12 text='Eight'>8<br>TUV</button>\n\
+    \ <button id=13 text='Nine'>9<br>WXYZ</button>\n <button id=14 text='Asterisk'>*</button>\n\
+    \ <button id=15 text='Zero'>0<br>+</button>\n <button id=16 text='Hashtag'>#</button>\n\
+    \ <button id=17 text='Call number'></button>\n <button id=18>go back</button>"
+  new_state_str: 59cac8dcd2b99fd48bbe9c8c6137d1aa71fff71ebcb8018b8429b10094246a70
+  state_str: 201e2ca288004cb814f1aef4d7c35257edae42470f3e7042af08aff9dd4b92da
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Conversation details</button>\n <button id=1>Block number</button>\n\
+    \ <button id=2>Mark as Unread</button>\n <button id=3>go back</button>"
+  new_state_str: 9ffbb234505400b8464dea1efcb086d4a7b9be36e8cbadae0702e4e3638808e9
+  state_str: 325687d7c477d59a48c8f3177ae5b8447704989104239d640cb84f283ace8f50
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Bob</button>\n <p id=3>MEMBERS</p>\n <button id=4>222222<br>222222</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 1ff357d72e3942a54f08f90fc68dfb6f5d17173b2c4452ab971173531a631865
+  state_str: 6e7c8984f6762e4e353e99640c077cfe039c0a286b45844702332e19935b12cb
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Rename conversation</p>\n <input id=1 >Conversation name</input>\n\
+    \ <p id=2>Only you can see this conversation name</p>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 57dbf7976f8da04fd5b1dbb9c2b48f8c435da96972de49c9a4770dd160a7aa52
+  state_str: fc78a48a9034348602c6f58b47b43333fed4ba2db6f5073b63581e4b3fad8c27
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Bob</button>\n <p id=3>MEMBERS</p>\n <button id=4>222222<br>222222</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 1ff357d72e3942a54f08f90fc68dfb6f5d17173b2c4452ab971173531a631865
+  state_str: 6e7c8984f6762e4e353e99640c077cfe039c0a286b45844702332e19935b12cb
+- Choice: 13
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Bob</p>\n <button id=6>222222<br>Mobile</button>\n\
+    \ <button id=7>bob@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: 8fcf44ade1880e68dc7af01f764ae99507e0fc4966a991ed70e79814a74b6a08
+  state_str: b270a33b7328e51ce80c36a5e17aded936ae9a4e079d848fa0db04ad7777a8b9
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Bob</button>\n <p id=3>MEMBERS</p>\n <button id=4>222222<br>222222</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: 1ff357d72e3942a54f08f90fc68dfb6f5d17173b2c4452ab971173531a631865
+  state_str: 6e7c8984f6762e4e353e99640c077cfe039c0a286b45844702332e19935b12cb
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Bob</p>\n <button id=1 text='Delete'></button>\n <button id=2 text='Dial\
+    \ number'></button>\n <button id=3 text='Add Person'></button>\n <button id=4\
+    \ text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n <button\
+    \ id=6>Hey</button>\n <button id=7 text='Attachment'></button>\n <input id=8 >Type\
+    \ a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 90f22ebca5428993cd42caba9d0a720338e39370c3f4baffea0443917e5123d4
+  state_str: d318fef9a5dd8e0e32bc1d088526474a7c1585a97f512d83d7345b9e751bb2ce
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Alice</p>\n <button id=1 text='Delete'></button>\n <button id=2\
+    \ text='Dial number'></button>\n <button id=3 text='Add Person'></button>\n <button\
+    \ id=4 text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n\
+    \ <button id=6>Hello</button>\n <button id=7 text='Attachment'></button>\n <input\
+    \ id=8 >Type a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20
+  state_str: b1676429e8e1aeb01a008fdc209fe90afc35d251eaf067acf072b8c42796e1e2
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Conversation details</button>\n <button id=1>Block number</button>\n\
+    \ <button id=2>Mark as Unread</button>\n <button id=3>go back</button>"
+  new_state_str: 9ffbb234505400b8464dea1efcb086d4a7b9be36e8cbadae0702e4e3638808e9
+  state_str: 325687d7c477d59a48c8f3177ae5b8447704989104239d640cb84f283ace8f50
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Alice</button>\n <p id=3>MEMBERS</p>\n <button id=4>111111<br>111111</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: f818b4c205c94b8578791e62b5352f3349b4bc4345ecda977fe8158449018067
+  state_str: 6f6c06166294091be9348b6261fa909de7007bc35b3ece0b655f34e12e3817a3
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Rename conversation</p>\n <input id=1 >Conversation name</input>\n\
+    \ <p id=2>Only you can see this conversation name</p>\n <button id=3>Cancel</button>\n\
+    \ <button id=4>OK</button>\n <button id=5>go back</button>"
+  new_state_str: 57dbf7976f8da04fd5b1dbb9c2b48f8c435da96972de49c9a4770dd160a7aa52
+  state_str: fc78a48a9034348602c6f58b47b43333fed4ba2db6f5073b63581e4b3fad8c27
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Alice</button>\n <p id=3>MEMBERS</p>\n <button id=4>111111<br>111111</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: f818b4c205c94b8578791e62b5352f3349b4bc4345ecda977fe8158449018067
+  state_str: 6f6c06166294091be9348b6261fa909de7007bc35b3ece0b655f34e12e3817a3
+- Choice: 13
+  Input: 'null'
+  State: "<p id=0 text='Change photo'></p>\n <button id=1 text='Toggle favorite'></button>\n\
+    \ <button id=2 text='Send email'></button>\n <button id=3 text='Call contact'></button>\n\
+    \ <button id=4 text='Send SMS'></button>\n <p id=5>Alice</p>\n <button id=6>111111<br>Mobile</button>\n\
+    \ <button id=7>alice@mails.com<br>Home</button>\n <button id=8>Phone storage (not\
+    \ visible by other apps)</button>\n <button id=9 text='Edit contact'></button>\n\
+    \ <button id=10 text='Share'></button>\n <button id=11 text='Delete'></button>\n\
+    \ <button id=12 text='More options'></button>\n <button id=13>go back</button>"
+  new_state_str: e131e93f5e9876af5d1d17d63a70b5a135f1dfc93972683f1af1eef3a7388748
+  state_str: 59483099f9f089c9fb84b7152bf4987021ec560ed1634aeb644b92ddfcd50d02
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Conversation details</p>\n <p id=1>CONVERSATION NAME</p>\n <button\
+    \ id=2>Alice</button>\n <p id=3>MEMBERS</p>\n <button id=4>111111<br>111111</button>\n\
+    \ <button id=5>go back</button>"
+  new_state_str: f818b4c205c94b8578791e62b5352f3349b4bc4345ecda977fe8158449018067
+  state_str: 6f6c06166294091be9348b6261fa909de7007bc35b3ece0b655f34e12e3817a3
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Alice</p>\n <button id=1 text='Delete'></button>\n <button id=2\
+    \ text='Dial number'></button>\n <button id=3 text='Add Person'></button>\n <button\
+    \ id=4 text='More options'></button>\n <button id=5>30.06, 12:18 PM</button>\n\
+    \ <button id=6>Hello</button>\n <button id=7 text='Attachment'></button>\n <input\
+    \ id=8 >Type a message\u2026</input>\n <button id=10>go back</button>"
+  new_state_str: 428b067bee33b9f544af41f20f7740ca0d7109904f4b61cd79e50d5ea90d1f20
+  state_str: b1676429e8e1aeb01a008fdc209fe90afc35d251eaf067acf072b8c42796e1e2
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0>About</p>\n<p id=1>SUPPORT</p>\n<button id=2>Frequently asked questions</button>\n\
+    <button id=3>hello@simplemobiletools.com</button>\n<p id=4>HELP US</p>\n<button\
+    \ id=5>Contributors</button>\n<button id=6>Donate</button>\n<p id=7>SOCIAL</p>\n\
+    <button id=8>Facebook</button>\n<button id=9>GitHub</button>\n<button id=10>Reddit</button>\n\
+    <button id=11>Telegram</button>\n<button id=12>go back</button>\n<p id=13>OTHER</p>\n\
+    <button id=14>Website</button>\n<button id=15>Privacy policy</button>\n<button\
+    \ id=16>Third party licences</button>\n<button id=17>Version 5.18.2</button>\n\
+    <p id=18>Made with \u2764\uFE0F in Slovakia</p>"
+  new_state_str: 252f1ed8f3f2e6bea622548f42e08abaa95d491a26cfb66fda2ce8147d66cc07
+  state_str:
+  - 9e872d9e8106b8559eda4685643675158b10c4ce89f51fea4ec7d8ac59969a4b
+  - d4b23e99b5f642a598d85732dc5ecf729a02ee2e3127a1297fb330d8744e27bd
+- Choice: -1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Settings''></button>
+
+    <button id=2 text=''About''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Bob<br>Hey<br>30.06</button>
+
+    <button id=5>Alice<br>Hello<br>30.06</button>
+
+    <button id=6>go back</button>'
+  new_state_str: fc3f74bf7d6eb2bf6fa69fef7f791f434acac4448c9f2aac78a0820fd4b348f9
+  state_str:
+  - ebe04be39b2a5afdab7abd3dfa557ba5be810fc9e9fc0bd29f0c6585511139db
+step_num: 82
+task_name: utg

@@ -1,0 +1,988 @@
+records:
+- Choice: 2
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0>Equalizer</p>\n <p id=1>-15</p>\n <p id=2>0</p>\n <p id=3>+15</p>\n\
+    \ <p id=4>60 Hz</p>\n <p id=5>230 Hz</p>\n <p id=6>910 Hz</p>\n <p id=7>3.6 kHz</p>\n\
+    \ <p id=8>14 kHz</p>\n <button id=9>Normal</button>\n <button id=10>go back</button>"
+  new_state_str: 2843821ee379eb6e8f6c817a0d13e47473260c42b50e6d217d41e8c5bd898eba
+  state_str: 56f76c52759ccf6b552197099ae8919c5450965bbf181b54260b6ebc93b982f1
+- Choice: 11
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Normal</checkbox>\n <checkbox id=1 checked=False>Classical</checkbox>\n\
+    \ <checkbox id=2 checked=False>Dance</checkbox>\n <checkbox id=3 checked=False>Flat</checkbox>\n\
+    \ <checkbox id=4 checked=False>Folk</checkbox>\n <checkbox id=5 checked=False>Heavy\
+    \ Metal</checkbox>\n <checkbox id=6 checked=False>Hip Hop</checkbox>\n <checkbox\
+    \ id=7 checked=False>Jazz</checkbox>\n <checkbox id=8 checked=False>Pop</checkbox>\n\
+    \ <checkbox id=9 checked=False>Rock</checkbox>\n <checkbox id=10 checked=False>Custom</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: b981a7915163db4ff747379957e556395bf548060f9b5f93c967bb47d21021b1
+  state_str: 96a3979842dafd0a772a9bda13df01400bf7446859773a4a667aa4139b7693c4
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Equalizer</p>\n <p id=1>-15</p>\n <p id=2>0</p>\n <p id=3>+15</p>\n\
+    \ <p id=4>60 Hz</p>\n <p id=5>230 Hz</p>\n <p id=6>910 Hz</p>\n <p id=7>3.6 kHz</p>\n\
+    \ <p id=8>14 kHz</p>\n <button id=9>Normal</button>\n <button id=10>go back</button>"
+  new_state_str: 2843821ee379eb6e8f6c817a0d13e47473260c42b50e6d217d41e8c5bd898eba
+  state_str: 56f76c52759ccf6b552197099ae8919c5450965bbf181b54260b6ebc93b982f1
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 8
+  Input: 'null'
+  State: "<p id=0>Sort by</p>\n <checkbox id=1 checked=True>Title</checkbox>\n <checkbox\
+    \ id=2 checked=False>Artist Name</checkbox>\n <checkbox id=3 checked=False>Year</checkbox>\n\
+    \ <checkbox id=4 checked=True>Ascending</checkbox>\n <checkbox id=5 checked=False>Descending</checkbox>\n\
+    \ <button id=6>Cancel</button>\n <button id=7>OK</button>\n <button id=8>go back</button>"
+  new_state_str: 6a675183d60ceb8222f615f2cf48f1e114fa456864573bf0da3e4b6097e966c6
+  state_str: 32ca80dbddfe85f6320707ad101fa8cdf5189bf611a9715bd096fbaaaa3eb65e
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 0
+  Input: 'null'
+  State: "<button id=0>Create new playlist</button>\n <button id=1>Create new playlist\
+    \ from folder</button>\n <button id=2>Import playlist</button>\n <button id=3>Sleep\
+    \ timer</button>\n <button id=4>Settings</button>\n <button id=5>About</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd
+  state_str: b9dffd3eab2d6b872732a491ea7b9e082342e31e4a4168a889ce13f17cee34ab
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Create new playlist</p>\n <input id=1 >Title</input>\n <button id=2>Cancel</button>\n\
+    \ <button id=3>OK</button>\n <button id=4>go back</button>"
+  new_state_str: 064068f504f42c0530e17e09c9fe030cff4143281e9b4537ca3cc7c433c8ce84
+  state_str: 101c40ed4c82cacdf885a36525d261fb715a9398ac837f455aec0da13ee757f3
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 1
+  Input: 'null'
+  State: "<button id=0>Create new playlist</button>\n <button id=1>Create new playlist\
+    \ from folder</button>\n <button id=2>Import playlist</button>\n <button id=3>Sleep\
+    \ timer</button>\n <button id=4>Settings</button>\n <button id=5>About</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd
+  state_str: b9dffd3eab2d6b872732a491ea7b9e082342e31e4a4168a889ce13f17cee34ab
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Select a folder</p>
+
+    <button id=1>Internal</button>
+
+    <button id=2>Alarms<br>0 items</button>
+
+    <button id=3>Android<br>3 items</button>
+
+    <button id=4>Audiobooks<br>0 items</button>
+
+    <button id=5>DCIM<br>6 items</button>
+
+    <button id=6>Documents<br>0 items</button>
+
+    <button id=7>Download<br>0 items</button>
+
+    <button id=8>Movies<br>0 items</button>
+
+    <button id=9>Music<br>1 item</button>
+
+    <button id=10>Notifications<br>0 items</button>
+
+    <button id=11>Pictures<br>0 items</button>
+
+    <button id=12>Cancel</button>
+
+    <button id=13>OK</button>
+
+    <button id=14>go back</button>
+
+    <button id=15>Podcasts<br>0 items</button>
+
+    <button id=16>Ringtones<br>0 items</button>
+
+    <button id=17>screen_2023-06-30_141247.png<br>16.1 kB</button>
+
+    <button id=18>screen_2023-06-30_143638.png<br>0 B</button>
+
+    <p id=19 text=''handleImage''></p>'
+  new_state_str: 2a4d1146fd50ab99bc75f41953e3de8fae52e1fb6f8aeb86c39f89e87c52f061
+  state_str:
+  - 588cd51f6de0ac9ccb6f29c14e87bbbdcea267e6ba125169a520a6d41ec65403
+  - 0aa4f3b2b82d78cf19b5d93d136c7b13683bbd9ef567d30b2d1c3d9a30914ca6
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Create new playlist</p>\n <input id=1 >Title</input>\n <button id=2>Cancel</button>\n\
+    \ <button id=3>OK</button>\n <button id=4>go back</button>"
+  new_state_str: 064068f504f42c0530e17e09c9fe030cff4143281e9b4537ca3cc7c433c8ce84
+  state_str: 101c40ed4c82cacdf885a36525d261fb715a9398ac837f455aec0da13ee757f3
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 3
+  Input: 'null'
+  State: "<button id=0>Create new playlist</button>\n <button id=1>Create new playlist\
+    \ from folder</button>\n <button id=2>Import playlist</button>\n <button id=3>Sleep\
+    \ timer</button>\n <button id=4>Settings</button>\n <button id=5>About</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd
+  state_str: b9dffd3eab2d6b872732a491ea7b9e082342e31e4a4168a889ce13f17cee34ab
+- Choice: 6
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>5 minutes</checkbox>\n <checkbox id=1 checked=False>10\
+    \ minutes</checkbox>\n <checkbox id=2 checked=False>20 minutes</checkbox>\n <checkbox\
+    \ id=3 checked=True>30 minutes</checkbox>\n <checkbox id=4 checked=False>1 hour</checkbox>\n\
+    \ <checkbox id=5 checked=False>Custom</checkbox>\n <button id=6>go back</button>"
+  new_state_str: 3b46371504426569a5f4f1b4e8f5ac9b357df750dbc0be2eb2dac7609e81a866
+  state_str: 83207e0c2156bc3871f0192a167e7e40171e5ceb27e050025db9a27159464baf
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Create new playlist</button>\n <button id=1>Create new playlist\
+    \ from folder</button>\n <button id=2>Import playlist</button>\n <button id=3>Sleep\
+    \ timer</button>\n <button id=4>Settings</button>\n <button id=5>About</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd
+  state_str: b9dffd3eab2d6b872732a491ea7b9e082342e31e4a4168a889ce13f17cee34ab
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 1
+  Input: 'null'
+  State: "<p id=0>WARNING: Some launchers do not handle app icon customization properly.\
+    \ In case the icon will disappear, try launching the app via Google Play or some\
+    \ widget, if available. Once launched, just set back the default orange icon #F57C00.\
+    \ You might have to reinstall the app in the worst case.</p>\n <button id=1>OK</button>\n\
+    \ <button id=2>go back</button>"
+  new_state_str: db8da4c4aed69c1ee76c3c58386edc9a9b8924ab9d096893dc87ae36659c73bb
+  state_str: 1beb6eb61076f7b97cb5fbee8d7b05256ad7a0f3ddda64595c904f930845f693
+- Choice: 7
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Auto light / dark</checkbox>\n <checkbox id=1\
+    \ checked=False>Light</checkbox>\n <checkbox id=2 checked=True>Dark</checkbox>\n\
+    \ <checkbox id=3 checked=False>Dark red</checkbox>\n <checkbox id=4 checked=False>White</checkbox>\n\
+    \ <checkbox id=5 checked=False>Black & White</checkbox>\n <checkbox id=6 checked=False>Custom</checkbox>\n\
+    \ <button id=7>go back</button>"
+  new_state_str: ee4bc85165d8e30eb0e6662bbd800d46bbbc7663b2262c79288c29040a6fb67d
+  state_str: f8ad670e9a731699680252f02c59a057647e07cd5290c9cc4cb69554d0285bd9
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Customize colors</p>\n <button id=1>Theme<br>Dark</button>\n <button\
+    \ id=2>Text color</button>\n <button id=3>Background color</button>\n <button\
+    \ id=4>Primary color</button>\n <button id=5>App icon color</button>\n <button\
+    \ id=6>go back</button>"
+  new_state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+  state_str: 3c8b0bea669823c2829158e0dfc06ff53513a257e62e069e04a6cda9fb014803
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 3
+  Input: 'null'
+  State: "<p id=0>Artist</p>\n <p id=1>Song title</p>\n <button id=2>OK</button>\n\
+    \ <button id=3>go back</button>"
+  new_state_str: 96cbb54bdb33a347c520357e16883a5cafc93b6d03a7771e15f4a63e621c6326
+  state_str: 61e9a1ca30427a6ff62b6f1ec4a2d3228c6d35cd89401aaa818e2568e09ca94d
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Manage excluded folders</p>\n <p id=1>Excluding a folder will prevent\
+    \ the displaying of all audio files within. Files manually added to playlists\
+    \ will not be affected.</p>\n <button id=2>go back</button>"
+  new_state_str: b4819eab784b40977d1b6d7e0628816129b26d6f43d871bc87090af7f3afd60e
+  state_str: 2a2146e7577c8096750f463995f7acab8e08a231e49aab81aecf71011e5f3b33
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 5
+  Input: 'null'
+  State: "<checkbox id=0 checked=True>Playlists</checkbox>\n <checkbox id=1 checked=True>Folders</checkbox>\n\
+    \ <checkbox id=2 checked=True>Artists</checkbox>\n <checkbox id=3 checked=True>Albums</checkbox>\n\
+    \ <checkbox id=4 checked=True>Tracks</checkbox>\n <button id=5>Cancel</button>\n\
+    \ <button id=6>OK</button>\n <button id=7>go back</button>"
+  new_state_str: 31651c396ccddf2326abcc9e8f4a0ffab4fb6bf8210f20da965099d7679b4ea3
+  state_str: 564378c81550ffa2b41e629ea13fc6d4cfb9109ebcf52e37441afd7401a513e5
+- Choice: 7
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 11
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=True>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: 7db92deafd19474504ee81f4be378e1e2170be4e7b92e1caaf04d2e5266dffe9
+  state_str: b5060f2dff2fa71e6d71546f50c1de13be1515dce5f4db7ce058a485c15cc394
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 4
+  Input: 'null'
+  State: "<button id=0>Create new playlist</button>\n <button id=1>Create new playlist\
+    \ from folder</button>\n <button id=2>Import playlist</button>\n <button id=3>Sleep\
+    \ timer</button>\n <button id=4>Settings</button>\n <button id=5>About</button>\n\
+    \ <button id=6>go back</button>"
+  new_state_str: f057ab1d8ea28cccf9a5659bdbc494f12428a9a4034642c6440db0f387d25dbd
+  state_str: b9dffd3eab2d6b872732a491ea7b9e082342e31e4a4168a889ce13f17cee34ab
+- Choice: 7
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=True>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: 7db92deafd19474504ee81f4be378e1e2170be4e7b92e1caaf04d2e5266dffe9
+  state_str: b5060f2dff2fa71e6d71546f50c1de13be1515dce5f4db7ce058a485c15cc394
+- Choice: 8
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 3
+  Input: 'null'
+  State: "<checkbox id=0 checked=False>Never</checkbox>\n <checkbox id=1 checked=True>If\
+    \ title is not available</checkbox>\n <checkbox id=2 checked=False>Always</checkbox>\n\
+    \ <button id=3>go back</button>"
+  new_state_str: 07669a8ebf6cae602ce83a33860027dc13df7e78010e2a8436db29fa2298bda2
+  state_str: 6f4195dd9c87bc8c0773991fa3b87cc1aeef05538c86b1159341f41f870e9c80
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=True>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: 4736a91ef013aa052da09f09f59ab864785f4e3ef1a635f14ba15503551ab47e
+  state_str: 65ca2a1029687c741c3e0944f8d79716b3353ad15115f1b753d5a16da6d3220d
+- Choice: 11
+  Input: 'null'
+  State: "<p id=0>Settings</p>\n <p id=1>COLOR CUSTOMIZATION</p>\n <button id=2>Customize\
+    \ colors</button>\n <button id=3>Customize widget colors</button>\n <p id=4>GENERAL</p>\n\
+    \ <button id=5>Manage excluded folders</button>\n <button id=6>Manage shown tabs</button>\n\
+    \ <checkbox id=7 checked=False>Swap previous/next headphone buttons</checkbox>\n\
+    \ <button id=8>Show filename as song title<br>If title is not available</button>\n\
+    \ <p id=9>AUDIO</p>\n <checkbox id=10 checked=False>Gapless playback</checkbox>\n\
+    \ <button id=11>go back</button>"
+  new_state_str: d0ed9caef9a21951bf20233048d4c9f49419bff6408409bde7a41eae8755112e
+  state_str: 15285a609c39e3a9e0f41c7f2067e3c61f0f7a9d353aacd5d6cc45a7885298db
+- Choice: 5
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Create new playlist</button>
+
+    <p id=6>Playlists</p>
+
+    <button id=7>Folders</button>
+
+    <button id=8>Artists</button>
+
+    <button id=9>Albums</button>
+
+    <button id=10>Tracks</button>
+
+    <button id=11>go back</button>'
+  new_state_str: 72bbcce61f4f658f6a9e25f8e70135aafa6c70a050f16e478bfe3fb1059a0841
+  state_str:
+  - 3ab5ae72b5b5beeffd08731f524ba1820363ded0cb510a80ad632e3b94630ab1
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <p id=6>Folders</p>
+
+    <button id=7>Artists</button>
+
+    <button id=8>Albums</button>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 3b85df2d3f9c437fd4b40fa0d0053969f0c91e87451211faa22d30e9816a86ae
+  state_str:
+  - d55096874d3850e178a144443fadb52c33a034ad5bd6791ee20600754b424c79
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Recordings</p>\n <button id=1 text='Search'></button>\n <button\
+    \ id=2 text='Sort by'></button>\n <button id=3>test1<br>00:10</button>\n <button\
+    \ id=4>test2<br>00:07</button>\n <button id=5>go back</button>"
+  new_state_str: 2f3ec68271e34d9236a714bce78c7aba3ffa311aeea7d04c336c61be7313c418
+  state_str: e0c0804dee43cc47c77e5f9d568cb5f880ac6bc883c59b2fcd805e05558796e7
+- Choice: 8
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <p id=6>Folders</p>
+
+    <button id=7>Artists</button>
+
+    <button id=8>Albums</button>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 3b85df2d3f9c437fd4b40fa0d0053969f0c91e87451211faa22d30e9816a86ae
+  state_str:
+  - d55096874d3850e178a144443fadb52c33a034ad5bd6791ee20600754b424c79
+- Choice: 7
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4><unknown><br>1 Album, 2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <p id=7>Artists</p>
+
+    <button id=8>Albums</button>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: a4a4aee60f3f31145df1c8d3731111637bc64dc263afdaf484bacf2ed07f896c
+  state_str:
+  - 042ef71680497d6d02417c42f4457f0cda1c7ad30e2e01c525a9882891e693d4
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0><unknown></p>\n <button id=1>1 Album</button>\n <button id=2>Recordings<br>2\
+    \ Tracks</button>\n <button id=3>2 Tracks \u2022 0:00:17</button>\n <button id=4>test1<br>00:10</button>\n\
+    \ <button id=5>test2<br>00:07</button>\n <button id=6>go back</button>"
+  new_state_str: 5e8a912e891733ca21df469107811d817b9135add6721368d1a95b62af12fbb4
+  state_str: 6020509d43063a3b6bed17c212efa6469b1e958f07e1b0dec6634f015953e5cf
+- Choice: 8
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4><unknown><br>1 Album, 2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <p id=7>Artists</p>
+
+    <button id=8>Albums</button>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: a4a4aee60f3f31145df1c8d3731111637bc64dc263afdaf484bacf2ed07f896c
+  state_str:
+  - 042ef71680497d6d02417c42f4457f0cda1c7ad30e2e01c525a9882891e693d4
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 9
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>test1<br>00:10</button>
+
+    <button id=5>test2<br>00:07</button>
+
+    <button id=6>Playlists</button>
+
+    <button id=7>Folders</button>
+
+    <button id=8>Artists</button>
+
+    <button id=9>Albums</button>
+
+    <p id=10>Tracks</p>
+
+    <button id=11>go back</button>'
+  new_state_str: 1e43e274a76f614fea0fa0b0ca5c223a6a64d533eea8039dbb7d81277c71a122
+  state_str:
+  - 09ec4c800598df967694c07f5d5cdcdf197f1e855a1edb32eb151a6baa5643f7
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>Playlists</button>
+
+    <button id=6>Folders</button>
+
+    <button id=7>Artists</button>
+
+    <p id=8>Albums</p>
+
+    <button id=9>Tracks</button>
+
+    <button id=10>go back</button>'
+  new_state_str: 1d95cbcd7dfc4f519d40580f64f2c37d4879e42d30f8efcb989a3d7ade346a6b
+  state_str:
+  - ae5d7b182e022aa306df0bf3adf6646faee77667efe7cfa30a7dd1cef269465a
+- Choice: 2
+  Input: 'null'
+  State: "<p id=0>Recordings</p>\n <button id=1>Recordings<br><unknown><br>2 Tracks\
+    \ \u2022 0:00:17</button>\n <button id=2>0<br>test1<br>00:10</button>\n <button\
+    \ id=3>0<br>test2<br>00:07</button>\n <button id=4>go back</button>"
+  new_state_str: 631930242f8d8db76296db1c59637a2b3369e36d202946afd77c5a48fb70bd9d
+  state_str: 6a0526d443ef469d1a7f9494a58564638ecc5f6eb482c171e7cad2e5315ece49
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58
+  state_str: f50f45f9a985e65777cc82b2099ed3ec6a860bb0889b1e193932a05279f03d9e
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat current song'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 500a7062c6d00ccc304dec7bd680ba82df11b5223b928efe40076bce90a93ff9
+  state_str: 984fdbc42b3d6f948c93bda742335013d53d6d1360ee5217761d1bd740d91ed5
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Stop playback after current song'></button>\n <button id=11>Next:\
+    \ test2</button>\n <button id=12>go back</button>"
+  new_state_str: 4c4015177e901f6d873e0e6dca28e22301c4a79558c19cee7e22fb588419d689
+  state_str: 691a995c485616a3ebcece7f6d393a3a74aaca318c9dc8acd50227ceeb666e9f
+- Choice: 10
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat off'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 8c7db4cbb0173f778708e374afb73f9519bd99fc088c53d395b540f021262452
+  state_str: 3536c66a015d25e1740a7514fe03e22cc73da18c1f43fa7a05d9dbbf5c4d44fd
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58
+  state_str: f50f45f9a985e65777cc82b2099ed3ec6a860bb0889b1e193932a05279f03d9e
+- Choice: 9
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:07</button>\n <p id=4>test2</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test1</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 7180e1f3126aa74ef98145cc02c8cabcea7ad129a4909dcf25bdbbbe45ed38f4
+  state_str: c2a755068f1bdb0cb6ef7529efae5492f52755fce3881999b27d58d815c33dba
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58
+  state_str: f50f45f9a985e65777cc82b2099ed3ec6a860bb0889b1e193932a05279f03d9e
+- Choice: 6
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Enable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 54b8d4ea52d4f90dee9f1abdbab004bc8ee9ae81050b4f915cb5d14fa54b6c84
+  state_str: 8db596b281be87e9adeaadfeb6c15d585f7c8fd816e0a9a8090e10a856879aae
+- Choice: 12
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <button id=1>00:00</button>\n <p id=2>1x</p>\n\
+    \ <button id=3>00:10</button>\n <p id=4>test1</p>\n <p id=5><unknown></p>\n <button\
+    \ id=6 text='Disable shuffle'></button>\n <button id=7 text='Previous'></button>\n\
+    \ <button id=8 text='Play / Pause'></button>\n <button id=9 text='Next'></button>\n\
+    \ <button id=10 text='Repeat all'></button>\n <button id=11>Next: test2</button>\n\
+    \ <button id=12>go back</button>"
+  new_state_str: 55ce8a4ed3df4ef00b18c288ef6a737a6e5502659f1b884cc308144286d54f58
+  state_str: f50f45f9a985e65777cc82b2099ed3ec6a860bb0889b1e193932a05279f03d9e
+- Choice: 5
+  Input: 'null'
+  State: "<p id=0>Recordings</p>\n <button id=1>Recordings<br><unknown><br>2 Tracks\
+    \ \u2022 0:00:17</button>\n <button id=2>0<br>test1<br>00:10</button>\n <button\
+    \ id=3>0<br>test2<br>00:07</button>\n <button id=4>test1</button>\n <button id=5>go\
+    \ back</button>"
+  new_state_str: bf133d812bd5702c463be346ef527d0b2c9c09ea3d8c8ef816079551122533d4
+  state_str: 2dc161dcba72141da8ae126a437d936158582c85d94c40e583f49ca4dcd4c4e6
+- Choice: 8
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>Recordings<br>2 Tracks</button>
+
+    <button id=5>test1</button>
+
+    <button id=6>Playlists</button>
+
+    <button id=7>Folders</button>
+
+    <button id=8>Artists</button>
+
+    <p id=9>Albums</p>
+
+    <button id=10>Tracks</button>
+
+    <button id=11>go back</button>'
+  new_state_str: 1b6b8e6d21ee747f3f97de1dff8de0be768de280e43b68c1a6d036f166865993
+  state_str:
+  - 5b40665d4d998a49c5d763e11d97948b194af220050bcf6a7eca87d4931e0c7c
+- Choice: 4
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Equalizer''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4><unknown><br>1 Album, 2 Tracks</button>
+
+    <button id=5>test1</button>
+
+    <button id=6>Playlists</button>
+
+    <button id=7>Folders</button>
+
+    <p id=8>Artists</p>
+
+    <button id=9>Albums</button>
+
+    <button id=10>Tracks</button>
+
+    <button id=11>go back</button>'
+  new_state_str: e6bbae358ec4256e3092d91baeeb53c9934571503a558a8f63374858c6a4c684
+  state_str:
+  - 954bb516a22f3bef72e80fec9d5d3e3f7e0d1c3a61cff2f4a43462626b0265df
+- Choice: 4
+  Input: 'null'
+  State: "<p id=0><unknown></p>\n <button id=1>1 Album</button>\n <button id=2>Recordings<br>2\
+    \ Tracks</button>\n <button id=3>2 Tracks \u2022 0:00:17</button>\n <button id=4>test1<br>00:10</button>\n\
+    \ <button id=5>test2<br>00:07</button>\n <button id=6>test1</button>\n <button\
+    \ id=7>go back</button>"
+  new_state_str: 00be3ecd7241b1a60a0b659a3a4a0648e4150fb665abeb701c1ad754b10a5901
+  state_str: 19b74196da282ff1387075a377f229743eaa1db6d2a2c0e1ea2e5ea7cedc1e31
+- Choice: -1
+  Input: 'null'
+  State: "<p id=0 text='Album'></p>\n <p id=2>1x</p>\n <button id=3>00:10</button>\n\
+    \ <p id=4>test1</p>\n <p id=5><unknown></p>\n <button id=6 text='Disable shuffle'></button>\n\
+    \ <button id=7 text='Previous'></button>\n <button id=8 text='Play / Pause'></button>\n\
+    \ <button id=9 text='Next'></button>\n <button id=10 text='Repeat all'></button>\n\
+    \ <button id=11>Next: test2</button>\n <button id=12>go back</button>"
+  new_state_str: 1f8df9edc6deebbec908771d0389f8d914b611b872d23d3f771159d47168050d
+  state_str: f50f45f9a985e65777cc82b2099ed3ec6a860bb0889b1e193932a05279f03d9e
+step_num: 67
+task_name: utg

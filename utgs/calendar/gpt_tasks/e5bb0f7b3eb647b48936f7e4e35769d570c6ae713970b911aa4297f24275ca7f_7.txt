@@ -1,0 +1,1 @@
+Delete all events without affecting event types and settings.

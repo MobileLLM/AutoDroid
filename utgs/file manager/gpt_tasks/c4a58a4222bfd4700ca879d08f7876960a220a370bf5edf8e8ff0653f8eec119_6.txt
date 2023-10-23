@@ -1,0 +1,1 @@
+Select the date format as 16.02.2021, 16/02/2021, 02/16/2021, 16-02-2021, 02-16-2021, 2021-02-16, 16 February 2021, or February 16 2021.  Choose to use the 24-hour time format.  Cancel the selection.  Confirm and save the changes.  Return to the previous screen.
