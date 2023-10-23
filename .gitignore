@@ -65,4 +65,4 @@ temp
 venv
 apks/
 output/
-debug*
+debug.py
