@@ -679,7 +679,10 @@ class TaskPolicy(UtgBasedInputPolicy):
         self.debug_mode = debug_mode
         # if use_memory:
         #     self.memory = Memory(app_name=self.app.app_name, app_output_path=self.device.output_dir)
-        if use_memory:
+        if self.task == 'utg':
+            self.debug_mode = True
+            self.use_memory = False
+        if self.use_memory:
             self.similar_ele_path, self.similar_ele_function, self.similar_ele_statement = self.get_most_similar_element()
             if not self.similar_ele_function:
                 self.use_memory = False
@@ -1065,61 +1068,6 @@ class TaskPolicy(UtgBasedInputPolicy):
             self._save2yaml(file_name, state_prompt, idx, state_strs, inputs='null')
         return selected_action, candidate_actions, selected_view_description, thought
 
-
-    def _get_action_with_LLM(self, current_state, action_history, thought_history):
-        state_prompt, candidate_actions, _, _ = current_state.get_described_actions()
-        state_str = current_state.state_str
-        prompt = self._make_prompt(state_prompt, action_history, is_text=False, state_str=state_str, thought_history=thought_history)
-        print('********************************** prompt: **********************************')
-        print(prompt)
-        print('********************************** end of prompt **********************************')
-        response = input(f"UI element ID: ") if self.debug_mode else tools.query_gpt(prompt)
-        # response = input(f"UI element ID: ")
-        print(f'response: {response}')
-        import hashlib
-        task_hash = hashlib.md5(self.task.encode('utf-8')).hexdigest()
-
-        file_name = self.device.output_dir +'/'+ task_hash + '.yaml' #str(str(time.time()).replace('.', ''))
-
-        if '-1' in response:
-            self._save2yaml(file_name, state_prompt, -1, state_str, inputs='null')
-            # input(f"Seems the task is completed. Press Enter to continue...")
-            return FINISHED, None, None
-
-        # match = re.search(r'\d+', response)
-        idx = tools.extract_gpt_answer(response)
-        if not idx:
-            return None, candidate_actions, None
-        # idx = int(match.group(0))
-
-        selected_action = candidate_actions[idx]
-        thought = tools.get_thought(response)
-
-        selected_view_description = tools.get_item_properties_from_id(ui_state_desc=state_prompt, view_id=idx)
-
-        self._save2yaml(file_name, state_prompt, idx, state_str, inputs='null')
-
-        if isinstance(selected_action, SetTextEvent):
-            view_text = current_state.get_view_desc(selected_action.view)
-            # question = f'What text should you enter to the {view_text}? Just return the text and nothing else.'
-            # prompt = f'{task_prompt}\n{state_prefix_prompt}\n{state_prompt}\n{history_prompt}\n{question}'
-            prompt = self._make_prompt(state_prompt, action_history, is_text=True, view_text=view_text, state_str=state_str, thought_history=thought_history)
-            # prompt = f'{introduction}\n{example}\n{task_prompt}\n{state_prefix_prompt}\n{state_prompt}\n\n{history_prompt}\n{question}'
-            print(prompt)
-            response = input(f"input into the element {view_text}: ") if self.debug_mode else tools.query_gpt(prompt)
-            # response = input(f"input into the element {view_text}: ")
-            print(f'response: {response}')
-            input_text = self._extract_input_textv2(response)
-            # if not input_text:
-            #     prompt = f'your answer{}'
-            selected_action.text = input_text.replace('"', '').replace(' ', '-')
-            if len(selected_action.text) > 30:  # heuristically disable long text input
-                selected_action.text = ''
-
-            self._save2yaml(file_name, state_prompt, idx, state_str, inputs=selected_action.text)
-
-        return selected_action, candidate_actions, selected_view_description, thought
-    
     def _insert_predictions_into_state_prompt(self, state_prompt, current_state_item_descriptions):
         state_prompt_list = state_prompt.split('>\n')
         item_list = []
