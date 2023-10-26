@@ -12,6 +12,7 @@ from tqdm import tqdm
 import time
 import hashlib
 import tools
+import argparse
 from pyvis.network import Network
 ACTION_MISSED = None
 
@@ -24,13 +25,13 @@ class Memory(object):
         self.app_output_path = app_output_path #os.path.join('./output', self.app_name)
         utg_path = os.path.join(self.app_output_path, 'utg.yaml')
         if os.path.exists(utg_path): 
-            self.nodes_and_edges = self.load_yaml_utg(update_state_strs=True, utg_path=utg_path)
+            self.nodes_and_edges = self.load_yaml_utg(update_state_strs=False, utg_path=utg_path)
             self.states, self.raw_memory_graph = self.build_manual_memory_graph()
         else:
             all_utg_files = self._get_all_utg_file_paths()
             all_raw_memories, all_states = [], []
             for utg_path in all_utg_files:
-                self.nodes_and_edges = self.load_yaml_utg(update_state_strs=True, utg_path=utg_path)
+                self.nodes_and_edges = self.load_yaml_utg(update_state_strs=False, utg_path=utg_path)
                 states, raw_memory_graph = self.build_manual_memory_graph()
                 all_states.append(states)
                 all_raw_memories.append(raw_memory_graph)
@@ -66,17 +67,6 @@ class Memory(object):
         with open(utg_path, 'r') as file:
             data = yaml.load(file, Loader=yaml.FullLoader)
         
-        # for super-states that contain many scrolled screens, hash the state_str into a string instead of the list
-        if update_state_strs:
-            for record_id in range(len(data['records'])):
-                # if isinstance(data['records'][record_id]['state_str'], list):
-                #     # print(data['records'][record_id]['state_str'])
-                #     if len(data['records'][record_id]['state_str']) == 1:
-                #         new_state_str = data['records'][record_id]['state_str'][0]
-                #     else:
-                #         new_state_str = self.hash_state(data['records'][record_id]['State'])
-                #     data['records'][record_id]['state_str'] = new_state_str
-                data['records'][record_id]['state_str'] = data['records'][record_id]['new_state_str']
         return data
     
     def hash_state(self, state_prompt):
@@ -314,17 +304,17 @@ class Memory(object):
             item_property = tools.get_item_properties_from_id(self.states[state_str]['raw_prompt'], item_id)
             items_prediction_dict[item_property] = item_function
         return items_prediction_dict
+    
+def get_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--app", type=str, help="the name of the app, e.g. Calendar")
+    parser.add_argument("--utg_path", type=str, help="the path to the utg.yaml of that app")
+    args = parser.parse_args()
+    return args
 
 if __name__ == '__main__':
-
-    apps = ['calendar', 'file manager', 'camera', 'dialer']
-    apps += ['contacts', 'SMS Messenger', 'clock', 'music player', 'gallery']
-    apps += ['voice recorder', 'notes', 'app launcher']
-    # apps = ['gallery']
-    apps += ['settings', 'firefox']
-    for app in apps:
-        mem = Memory(app,app_output_path='utgs/' + app)
-        # tools.visualize_network(mem.raw_memory_graph)
-        mem.get_nl_desc(2)
+    args = get_args()
+    mem = Memory(args.app,app_output_path=args.utg_path)
+    mem.get_nl_desc(2)
         # print(mem._find_item_target_screen('e0d0c869524ad63e9df43ce8ed965e1b795181cdc9f9ca7891b7806aabd48a40', 2))
     # import pdb;pdb.set_trace()

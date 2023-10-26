@@ -163,8 +163,21 @@ def visualize_network(G):
     nt.toggle_physics(True)
     nt.show('visualize/nx.html')
 
+def debug_action_extract(answer):
+    import re
+    match = re.match(r'(\w+), \'(.*?)\'', answer)
 
-def extract_action(answer):
+    if match:
+        id_value = int(match.group(1))
+        input_text_value = match.group(2)
+        return id_value, 'input', input_text_value
+    else:
+        return int(answer), 'tap', 'N/A'
+
+
+def extract_action(answer, debug_mode=False):
+    if debug_mode:
+        return debug_action_extract(answer)
     llm_id = 'N/A'
     llm_action = 'tap'
     llm_input = "N/A"

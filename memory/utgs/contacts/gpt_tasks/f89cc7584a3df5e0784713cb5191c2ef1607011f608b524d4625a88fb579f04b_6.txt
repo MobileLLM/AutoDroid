@@ -1,0 +1,1 @@
+Change photo, toggle favorite, send email, call contact, send SMS, view contact details, edit contact, share contact, delete contact, access more options.

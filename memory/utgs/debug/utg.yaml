@@ -1,0 +1,49 @@
+records:
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>October</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  state_str: 0997278ca2273fe230e5113e33e543ad07acabad5bdb35daeb2fc8587743eba7
+- Choice: 2
+  Input: 'null'
+  State: '<checkbox id=0 checked=False>Daily view</checkbox>
+
+    <checkbox id=1 checked=False>Weekly view</checkbox>
+
+    <checkbox id=2 checked=True>Monthly view</checkbox>
+
+    <checkbox id=3 checked=False>Yearly view</checkbox>
+
+    <checkbox id=4 checked=False>Simple event list</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: 41fab8a8229a01a4c4c0872b6e5932eaf07f8213f9a950020253a3a4f0f484b3
+- Choice: 3
+  Input: 'null'
+  State: '<p id=0>Calendar</p>
+
+    <button id=1 text=''Search''></button>
+
+    <button id=2 text=''Change view''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <button id=4>October</button>
+
+    <button id=5 text=''New Event''></button>
+
+    <button id=6>go back</button>'
+  state_str: 0997278ca2273fe230e5113e33e543ad07acabad5bdb35daeb2fc8587743eba7
+step_num: 3
+task_name: utg

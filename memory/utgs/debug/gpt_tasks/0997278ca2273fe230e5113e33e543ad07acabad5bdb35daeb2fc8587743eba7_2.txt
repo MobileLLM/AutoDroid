@@ -1,0 +1,1 @@
+View the calendar in daily, weekly, monthly, yearly, or simple event list format.

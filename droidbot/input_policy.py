@@ -679,9 +679,10 @@ class TaskPolicy(UtgBasedInputPolicy):
         self.debug_mode = debug_mode
         # if use_memory:
         #     self.memory = Memory(app_name=self.app.app_name, app_output_path=self.device.output_dir)
-        if self.task == 'utg':
+        if '--manual' in task:
             self.debug_mode = True
             self.use_memory = False
+            self.task = task.replace('--manual', '')
         if self.use_memory:
             self.similar_ele_path, self.similar_ele_function, self.similar_ele_statement = self.get_most_similar_element()
             if not self.similar_ele_function:
@@ -905,7 +906,7 @@ class TaskPolicy(UtgBasedInputPolicy):
             '''
         else:
             action, candidate_actions, target_view, thought = self._get_action_from_views_actions(
-                current_state=current_state, action_history=self.__action_history, thought_history=self.__thought_history)
+                current_state=current_state, action_history=self.__action_history, thought_history=self.__thought_history, state_strs=current_state.state_str)
         
         if action == FINISHED:
             return None, FINISHED
@@ -1045,12 +1046,8 @@ class TaskPolicy(UtgBasedInputPolicy):
         print(f'response: {response}')
 
         file_name = self.device.output_dir +'/'+ self.task.replace('"', '_').replace("'", '_') + '.yaml' #str(str(time.time()).replace('.', ''))
-        if not self.debug_mode:
-            idx, action_type, input_text = tools.extract_action(response)
-        else:
-            idx = int(response)
-            input_text = 'N/A'
-        
+        idx, action_type, input_text = tools.extract_action(response, self.debug_mode)
+
         selected_action = candidate_actions[idx]
         
         selected_view_description = tools.get_item_properties_from_id(ui_state_desc=state_prompt, view_id=idx)
