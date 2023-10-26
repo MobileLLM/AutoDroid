@@ -80,7 +80,7 @@ pip install -e .
     ```
     + The trace of the task will be saved in `output/of/app/<your task>.yaml`
  
-## Lmitations
+## Limitations
 
 We find that AutoDroid could not determine whether a task has been completed in many cases, which will be fixed in our future works.
 
