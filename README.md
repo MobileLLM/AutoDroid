@@ -1,6 +1,8 @@
 # AutoDroid
 ## About
-Paper: [Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272)
+This repository contains the code for the system for the paper: [Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272).
+
+For accessing the code specifically related to processing the dataset `DroidTask`, please visit the [DroidTaskToolBox](https://github.com/MobileLLM/DroidTask) repository.
 ## How to install
 Make sure you have:
 
@@ -25,11 +27,13 @@ pip install -e .
     + If you want to test AutoDroid with explored memory mentioned in [our paper](https://arxiv.org/abs/2308.15272), please download the `apk.zip` folder from [Google Cloud](https://drive.google.com/file/d/1KfSc78bauVJxMYduNXtyxb31VFGiDYSO/view?usp=share_link), and unzip it.
     + If you want to test AutoDroid with any app, please download the `.apk` file to your host machine, and prepare a device or an emulator connected to your host machine via `adb`. 
 
+
 2. Start DroidBot:
    ```shell
    droidbot -a <path/to/.apk> -o <output/of/app> -task <your task> -keep_env -keep_app
    ```
    you can try the scripts in the ./scripts folder, and the tasks from the DroidTask are listed in [the form](https://docs.google.com/spreadsheets/d/1r2v9BtQ-Xlsc5tUIFZbkBodL07bqKcCnaaaYAJQnUHU/edit?usp=sharing).
+
 
 3. Explore:
     + Note that we only support exploring manually in this repo, and will support automatically exploring in the future. 
@@ -57,12 +61,24 @@ pip install -e .
     ```
     + The processed app memory is stored in `<output of app>/added_element_descriptions.yaml`
     + `utg.yaml` and `added_element_descriptions.yaml` are used in [DroidTask repo](https://github.com/MobileLLM/DroidTask) as the `utg.yaml` and the `<app>.yaml` in the navigation folder.
-   4. Collect new tasks manually:
-       + It is mainly the same with exploring, except that you should set the task to `'<your task>--manual'`, for example:
-       ```shell
-      droidbot -a <path/to/.apk> -o <output/of/app> -task 'create an event of laundry--manual' -keep_env -keep_app
-      ```
-       + The trace of the task will be saved in `output/of/app/<your task>.yaml`
+
+
+4. Collect new tasks manually:
+    + It is mainly the same with exploring, except that you should set the task to `'<your task>--manual'`, for example:
+    ```shell
+   droidbot -a <path/to/.apk> -o <output/of/app> -task 'create an event of laundry--manual' -keep_env -keep_app
+   ```
+    + If you want to edit an input box, you should enter `<id>, 'input_text'`, for example:
+    ```
+   Current UI state:
+   <button id=0 text='Collapse'></button>
+   <input id=1>Search…</input>
+   <button id=2 text='Clear query'></button>
+   <button id=3 text='Change view'></button>
+    ...
+    UI element ID: 1, 'input_text'
+    ```
+    + The trace of the task will be saved in `output/of/app/<your task>.yaml`
  
 ## Lmitations
 
