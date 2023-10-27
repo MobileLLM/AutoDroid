@@ -1,8 +1,8 @@
 import os
 import re
 import hashlib
+import ast
 ACTION_MISSED = None
-
 
 def get_id_from_view_desc(view_desc):
     '''
@@ -48,11 +48,13 @@ def get_view_without_id(view_desc):
 
 def query_gpt(prompt):
     import requests
-    URL = os.environ['GPT_URL']  # NOTE: replace with your own GPT API
-    body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":True}
-    headers = {'Content-Type': 'application/json', 'path': 'v1/chat/completions'}
-    r = requests.post(url=URL, json=body, headers=headers)
-    return r.content.decode()
+    URL = 'https://gpt.yanghuan.site/api/openai/v1/chat/completions'
+    body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":False, "temperature": 0.5}
+    headers = {'Content-Type': 'application/json', 'path': '/api/openai/v1/chat/completions', 'Authorization': 'Bearer ak-LgOVMZ0nHqetz55TjSBlZia9u7QvYxB2kNvNlx8ACsjkZexD'}
+    answers = requests.post(url=URL, json=body, headers=headers)
+    index = answers.text.find('{')
+    dict_responses = ast.literal_eval(answers.text[index:])
+    return dict_responses['choices'][0]['message']['content']
 
 def delete_old_views_from_new_state(old_state, new_state, without_id=True):
     '''

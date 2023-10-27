@@ -714,8 +714,8 @@ class TaskPolicy(UtgBasedInputPolicy):
         max_similarity, similar_ele_idx = -9999, -9999
         for state_str, elements in app_embeddings.items():
             # if the target element is in the first ui, no onclick is needed
-            if ele_statements[app_name][state_str]['path'] == []:
-                continue
+            # if ele_statements[app_name][state_str]['path'] == []:
+            #     continue
             # similarities[state_str] = []
             for idx, ele in enumerate(elements):
                 if ele:

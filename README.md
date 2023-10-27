@@ -14,8 +14,8 @@ Make sure you have:
 Then clone this repo and install with `pip`:
 
 ```shell
-git clone git@github.com:wenh18/AutoDroidSys.git
-cd AutoDroidSys/
+git clone git@github.com:MobileLLM/AutoDroid.git
+cd AutoDroid/
 pip install -e .
 ```
 
