@@ -68,7 +68,7 @@ pip install -e .
     ```shell
    droidbot -a <path/to/.apk> -o <output/of/app> -task 'create an event of laundry--manual' -keep_env -keep_app
    ```
-    + If you want to edit an input box, you should enter `<id>, 'input_text'`, for example:
+    + If you want to choose a button, enter the `<id>` of it as mentioned above. If you want to edit an input box, you should enter `<id>, 'input_text'`, for example:
     ```
    Current UI state:
    <button id=0 text='Collapse'></button>
