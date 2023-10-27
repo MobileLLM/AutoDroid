@@ -48,24 +48,8 @@ def get_view_without_id(view_desc):
     id_string = ' id=' + id
     return re.sub(id_string, '', view_desc)
 
-def query_gpt4(prompt):
-    import requests
-    URL = 'https://gptapi.nextweb.fun/api/openai/v1/chat/completions'
-    body = {"model":"gpt-4","messages":[{"role":"user","content":prompt}],"stream":False, "temperature": 0.5}
-    headers = {'Content-Type': 'application/json', 'path': '/api/openai/v1/chat/completions', 'Authorization': 'Bearer ak-b8adf9be65f2b6499471a7d65e8c7094'}
-    answers = requests.post(url=URL, json=body, headers=headers)
-    dict_responses = ast.literal_eval(answers.text)
-    return dict_responses['choices'][0]['message']['content']
 def query_gpt(prompt):
-    import requests
-    URL = 'https://gpt.yanghuan.site/api/openai/v1/chat/completions'
-    body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":False, "temperature": 0.5}
-    headers = {'Content-Type': 'application/json', 'path': '/api/openai/v1/chat/completions', 'Authorization': 'Bearer ak-LgOVMZ0nHqetz55TjSBlZia9u7QvYxB2kNvNlx8ACsjkZexD'}
-    answers = requests.post(url=URL, json=body, headers=headers)
-    index = answers.text.find('{')
-    dict_responses = ast.literal_eval(answers.text[index:])
-    return dict_responses['choices'][0]['message']['content']
-
+    
 
 def delete_old_views_from_new_state(old_state, new_state, without_id=True):
     '''
