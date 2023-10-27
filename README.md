@@ -24,7 +24,7 @@ pip install -e .
 ## How to use
 
 1. Prepare:
-    + If you want to test AutoDroid with explored memory mentioned in [our paper](https://arxiv.org/abs/2308.15272), please download the `apk.zip` folder from [Google Cloud](https://drive.google.com/file/d/1KfSc78bauVJxMYduNXtyxb31VFGiDYSO/view?usp=share_link), and unzip it.
+    + If you want to test AutoDroid with explored memory mentioned in [our paper](https://arxiv.org/abs/2308.15272), please download the `apk.zip` folder from [Google Cloud](https://drive.google.com/file/d/1KfSc78bauVJxMYduNXtyxb31VFGiDYSO/view?usp=share_link), and unzip it, and prepare a device or an emulator connected to your host machine via `adb`. 
     + If you want to test AutoDroid with any app, please download the `.apk` file to your host machine, and prepare a device or an emulator connected to your host machine via `adb`. 
 
 
