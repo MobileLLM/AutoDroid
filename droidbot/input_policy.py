@@ -676,13 +676,8 @@ class TaskPolicy(UtgBasedInputPolicy):
         self.__action_history = []
         self.__thought_history = []
         self.use_memory = use_memory
-        self.debug_mode = debug_mode
         # if use_memory:
         #     self.memory = Memory(app_name=self.app.app_name, app_output_path=self.device.output_dir)
-        if '--manual' in task:
-            self.debug_mode = True
-            self.use_memory = False
-            self.task = task.replace('--manual', '')
         if self.use_memory:
             self.similar_ele_path, self.similar_ele_function, self.similar_ele_statement = self.get_most_similar_element()
             if not self.similar_ele_function:
@@ -1041,12 +1036,12 @@ class TaskPolicy(UtgBasedInputPolicy):
         print('********************************** prompt: **********************************')
         print(prompt)
         print('********************************** end of prompt **********************************')
-        response = input(f"UI element ID: ") if self.debug_mode else tools.query_gpt(prompt)
+        response = input(f"UI element ID: ")
         
         print(f'response: {response}')
 
         file_name = self.device.output_dir +'/'+ self.task.replace('"', '_').replace("'", '_') + '.yaml' #str(str(time.time()).replace('.', ''))
-        idx, action_type, input_text = tools.extract_action(response, self.debug_mode)
+        idx, action_type, input_text = tools.extract_action(response)
 
         selected_action = candidate_actions[idx]
         
