@@ -3,7 +3,7 @@
 ## About
 This repository contains the code for the system for the paper: [Empowering LLM to use Smartphone for Intelligent Task Automation](https://arxiv.org/abs/2308.15272).
 
-For accessing the code specifically related to processing the dataset `DroidTask`, please visit the [DroidTask](https://github.com/MobileLLM/DroidTask_DataOverview) repository.
+For accessing the dataset `DroidTask`, please visit the [DroidTask](https://github.com/MobileLLM/DroidTask_DataOverview) repository.
 
 AutoDroid is implemented based on the [DroidBot](https://github.com/honeynet/droidbot/) framework.
 
