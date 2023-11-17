@@ -46,13 +46,21 @@ def get_view_without_id(view_desc):
     id_string = ' id=' + id
     return re.sub(id_string, '', view_desc)
 
-def query_gpt(prompt):
-    import requests
-    URL = os.environ['GPT_URL']  # NOTE: replace with your own GPT API
-    body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":True}
-    headers = {'Content-Type': 'application/json', 'path': 'v1/chat/completions'}
-    r = requests.post(url=URL, json=body, headers=headers)
-    return r.content.decode()
+def query_gpt(prompt, model_name="gpt-3.5-turbo"):
+    import time
+    import openai
+    openai.api_base = 'https://api.openai-proxy.org/v1'
+    openai.api_key = 'sk-dMHkagT7vyUQmldu49cDH3bOkdaU8Ue4dUXjnT93I70KNxMu'
+
+    response = openai.ChatCompletion.create(
+        model=model_name,
+        messages=[
+            # {"role": "system", "content": "You are a personal agent running in a smartphone."},
+            {"role": "user", "content": prompt},
+        ],
+        timeout=15
+    )
+    return response["choices"][0]["message"]["content"]
 
 def delete_old_views_from_new_state(old_state, new_state, without_id=True):
     '''

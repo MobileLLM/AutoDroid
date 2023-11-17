@@ -12,7 +12,7 @@ from .input_event import *
 from .utg import UTG
 import time
 from .input_event import ScrollEvent
-from memory.memory_builder import Memory
+# from memory.memory_builder import Memory
 import tools
 import pdb
 import os
@@ -1036,7 +1036,7 @@ class TaskPolicy(UtgBasedInputPolicy):
         print('********************************** prompt: **********************************')
         print(prompt)
         print('********************************** end of prompt **********************************')
-        response = input(f"UI element ID: ")
+        response = tools.query_gpt(prompt)
         
         print(f'response: {response}')
 
