@@ -49,6 +49,7 @@ Welcome to contribute!
 
 ## Note
 
-Note that AutoDroid is currently for research purpose only. It may perform unintended actions (e.g. modifying your account/settings). Please use at your own risk.
+- We thank a lot for the wonderful opensource apps from [Simple Mobile Tools](https://github.com/SimpleMobileTools).
+- Note that AutoDroid is currently for research purpose only. It may perform unintended actions (e.g. modifying your account/settings). Please use at your own risk.
 
 Enjoy!
