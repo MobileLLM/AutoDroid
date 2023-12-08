@@ -16,6 +16,7 @@ from .input_event import ScrollEvent
 import tools
 import pdb
 import os
+from query_lmql import prompt_llm_with_history
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 # Max number of restarts
@@ -953,7 +954,34 @@ class TaskPolicy(UtgBasedInputPolicy):
         }
         with open(file_name, 'w', encoding='utf-8') as f:
             yaml.dump(data, f)
-    
+    def _make_prompt_lmql(self, state_prompt, action_history, is_text, state_str, view_text=None, thought_history=None, use_thoughts=False):
+        if self.use_memory:
+            # if isinstance(state_str, list):
+            #     if len(state_str) == 1:
+            #         state_str = state_str[0]
+            #     else:
+            #         state_str = self.memory.hash_state(state_prompt)
+            # new_state_prompt = self.f(action_history, state_prompt, state_str)
+            # if new_state_prompt !z= None and new_state_prompt != 'no_description':
+            #     state_prompt = new_state_prompt
+            if len(action_history) <= len(self.similar_ele_path):
+                current_ui_id = len(action_history) - 1
+                new_state_prompt = tools.insert_onclick_into_prompt(state_prompt, self.similar_ele_path[current_ui_id], self.similar_ele_function)
+                if new_state_prompt != state_prompt:  # current state contains an element of insight
+                    self.state_ele_memory[state_str] = new_state_prompt
+                state_prompt = new_state_prompt
+            # elif state_str in self.state_ele_memory.keys():
+            #     state_prompt = self.state_ele_memory[state_str]
+
+        if use_thoughts:
+            history_with_thought = []
+            for idx in range(len(action_history)):
+                history_with_thought.append(action_history[idx] + ' Reason: ' + thought_history[idx])
+        else:
+            history_with_thought = action_history
+
+
+        return '\n'.join(history_with_thought),state_prompt
     def _make_prompt(self, state_prompt, action_history, is_text, state_str, view_text=None, thought_history=None, use_thoughts=False):
         if self.use_memory:
             # if isinstance(state_str, list):
@@ -1024,28 +1052,25 @@ class TaskPolicy(UtgBasedInputPolicy):
         if current_state:
             state_prompt, candidate_actions, _, _ = current_state.get_described_actions()
             state_str = current_state.state_str
-            prompt = self._make_prompt(state_prompt, action_history, is_text=False, state_str=state_str, thought_history=thought_history)
+            history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
+                                                      thought_history=thought_history)
         else:
             views_with_id = []
             for id in range(len(views)):
                 views_with_id.append(tools.insert_id_into_view(views[id], id))
             state_prompt = '\n'.join(views_with_id)
             state_str = tools.hash_string(state_prompt)
-            prompt = self._make_prompt(state_prompt, action_history, is_text=False, state_str=state_str, thought_history=thought_history)
-        
-        print('********************************** prompt: **********************************')
-        print(prompt)
-        print('********************************** end of prompt **********************************')
-        response = tools.query_gpt(prompt)
-        
-        print(f'response: {response}')
+            history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
+                                                      thought_history=thought_history)
+
+        ids = [str(idx) for idx, i in enumerate(candidate_actions)]
+        idx, action_type, input_text=prompt_llm_with_history(history=history, ui_desc=state_prompt, ids=ids)
 
         file_name = self.device.output_dir +'/'+ self.task.replace('"', '_').replace("'", '_') + '.yaml' #str(str(time.time()).replace('.', ''))
-        idx, action_type, input_text = tools.extract_action(response)
-
+        idx = int(idx)
         selected_action = candidate_actions[idx]
         
-        selected_view_description = tools.get_item_properties_from_id(ui_state_desc=state_prompt, view_id=idx)
+        selected_view_description = tools.get_item_properties_from_id(task=self.task,ui_state_desc=state_prompt, view_id=idx)
         thought = ''# tools.get_thought(response)
 
         if isinstance(selected_action, SetTextEvent):
