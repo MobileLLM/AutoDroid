@@ -2,6 +2,7 @@ import os
 import re
 import hashlib
 import ast
+from openai import OpenAI
 ACTION_MISSED = None
 
 def get_id_from_view_desc(view_desc):
@@ -46,13 +47,33 @@ def get_view_without_id(view_desc):
     id_string = ' id=' + id
     return re.sub(id_string, '', view_desc)
 
+# def query_gpt(prompt):
+#     import requests
+#     URL = os.environ['GPT_URL']  # NOTE: replace with your own GPT API
+#     body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":True}
+#     headers = {'Content-Type': 'application/json', 'path': 'v1/chat/completions'}
+#     r = requests.post(url=URL, json=body, headers=headers)
+#     return r.content.decode()
+
+
 def query_gpt(prompt):
-    import requests
-    URL = os.environ['GPT_URL']  # NOTE: replace with your own GPT API
-    body = {"model":"gpt-3.5-turbo","messages":[{"role":"user","content":prompt}],"stream":True}
-    headers = {'Content-Type': 'application/json', 'path': 'v1/chat/completions'}
-    r = requests.post(url=URL, json=body, headers=headers)
-    return r.content.decode()
+    # print(prompt)
+    client = OpenAI(
+        api_key= os.environ['API'] # NOTE: replace with your own GPT API
+    )
+    retry = 0
+    completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        model="gpt-3.5-turbo",
+        timeout=15
+    )
+    res = completion.choices[0].message.content
+    return res
 
 def delete_old_views_from_new_state(old_state, new_state, without_id=True):
     '''
@@ -259,15 +280,4 @@ def hash_string(string):
 
 if __name__ == '__main__':
     print(query_gpt('how can i cancel wechat charge'))
-    # import openai
-    #
-    # openai.api_key = "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"  # 替换成你的API密钥
-    #
-    #
-    # response = openai.Completion.create(
-    #     engine="davinci",
-    #     prompt="Translate the following English text to French: 'Hello, how are you?'",
-    #     max_tokens=50
-    # )
-    #
-    # print(response.choices[0].text.strip())
+
