@@ -48,6 +48,8 @@ POLICY_NONE = "none"
 POLICY_MEMORY_GUIDED = "memory_guided"  # implemented in input_policy2
 FINISHED = "task_completed"
 MAX_SCROLL_NUM = 7
+USE_LMQL = False
+
 class InputInterruptedException(Exception):
     pass
 
@@ -1052,25 +1054,42 @@ class TaskPolicy(UtgBasedInputPolicy):
         if current_state:
             state_prompt, candidate_actions, _, _ = current_state.get_described_actions()
             state_str = current_state.state_str
-            history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
-                                                      thought_history=thought_history)
+            if USE_LMQL:
+                history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
+                                                      thought_history=thought_history)  
+            else:
+                prompt = self._make_prompt(state_prompt, action_history, is_text=False, state_str=state_str, thought_history=thought_history)
         else:
             views_with_id = []
             for id in range(len(views)):
                 views_with_id.append(tools.insert_id_into_view(views[id], id))
             state_prompt = '\n'.join(views_with_id)
             state_str = tools.hash_string(state_prompt)
-            history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
-                                                      thought_history=thought_history)
+            if USE_LMQL:
+                history, state_prompt = self._make_prompt_lmql(state_prompt, action_history, is_text=False, state_str=state_str,
+                                                      thought_history=thought_history)  
+            else:
+                prompt = self._make_prompt(state_prompt, action_history, is_text=False, state_str=state_str, thought_history=thought_history)
 
-        ids = [str(idx) for idx, i in enumerate(candidate_actions)]
-        idx, action_type, input_text=prompt_llm_with_history(history=history, ui_desc=state_prompt, ids=ids)
+        # ids = [str(idx) for idx, i in enumerate(candidate_actions)]
+        ids = str([i for i in range(len(candidate_actions))])
+        
+        if USE_LMQL:
+            idx, action_type, input_text=prompt_llm_with_history(task=self.task, history=history, ui_desc=state_prompt, ids=ids)
+        else:
+            print('********************************** prompt: **********************************')
+            print(prompt)
+            print('********************************** end of prompt **********************************')
+            response = tools.query_gpt(prompt)
+            
+            print(f'response: {response}')
+            idx, action_type, input_text = tools.extract_action(response)
 
         file_name = self.device.output_dir +'/'+ self.task.replace('"', '_').replace("'", '_') + '.yaml' #str(str(time.time()).replace('.', ''))
         idx = int(idx)
         selected_action = candidate_actions[idx]
         
-        selected_view_description = tools.get_item_properties_from_id(task=self.task,ui_state_desc=state_prompt, view_id=idx)
+        selected_view_description = tools.get_item_properties_from_id(ui_state_desc=state_prompt, view_id=idx)
         thought = ''# tools.get_thought(response)
 
         if isinstance(selected_action, SetTextEvent):
