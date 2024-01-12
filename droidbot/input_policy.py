@@ -664,7 +664,7 @@ class ManualPolicy(UtgBasedInputPolicy):
 
 class TaskPolicy(UtgBasedInputPolicy):
 
-    def __init__(self, device, app, random_input, task, use_memory=True, debug_mode=False):
+    def __init__(self, device, app, random_input, task, use_memory=False, debug_mode=False):
         super(TaskPolicy, self).__init__(device, app, random_input)
         self.logger = logging.getLogger(self.__class__.__name__)
         self.task = task

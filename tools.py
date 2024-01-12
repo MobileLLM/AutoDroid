@@ -59,7 +59,9 @@ def get_view_without_id(view_desc):
 def query_gpt(prompt):
     # print(prompt)
     client = OpenAI(
-        api_key= os.environ['API'] # NOTE: replace with your own GPT API
+        base_url='https://api.openai-proxy.org/v1',
+        # This is the default and can be omitted
+        api_key='sk-dMHkagT7vyUQmldu49cDH3bOkdaU8Ue4dUXjnT93I70KNxMu'
     )
     retry = 0
     completion = client.chat.completions.create(

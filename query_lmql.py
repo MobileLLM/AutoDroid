@@ -1,9 +1,6 @@
 import lmql
 import os
 import openai
-# openai.api_key = 'sk-dMHkagT7vyUQmldu49cDH3bOkdaU8Ue4dUXjnT93I70KNxMu'
-# openai.base_url = 'https://api.openai-proxy.org/v1'
-os.environ['OPENAI_API_KEY'] = 'sk-dMHkagT7vyUQmldu49cDH3bOkdaU8Ue4dUXjnT93I70KNxMu'
 model=lmql.model("openai/gpt-3.5-turbo-instruct") # OpenAI API model
 # model=lmql.model("llama.cpp:<YOUR_WEIGHTS>.gguf") # llama.cpp model
 @lmql.query(model=model,decoder='argmax')
