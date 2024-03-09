@@ -55,7 +55,6 @@ def get_view_without_id(view_desc):
 #     r = requests.post(url=URL, json=body, headers=headers)
 #     return r.content.decode()
 
-
 def query_gpt(prompt):
     # print(prompt)
     client = OpenAI(
@@ -172,7 +171,7 @@ def visualize_network(G):
     nt.show('visualize/nx.html')
 
 
-def extract_action(answer):
+def extract_actionv0(answer):
     llm_id = 'N/A'
     llm_action = 'tap'
     llm_input = "N/A"
@@ -242,6 +241,55 @@ def extract_action(answer):
                         llm_input = "N/A"
                 except:
                     pass
+    return llm_id, llm_action, llm_input
+
+def extract_action(v):
+    import json
+    try:
+        if isinstance(v, str):
+            v = ast.literal_eval(v)
+    except:
+        print('format error: v')
+        llm_id = -1
+        llm_action = "N/A"
+        llm_input = "N/A"
+    try:
+        if 'Finished' in v.keys():
+            whether_finished_answer = v['Finished'].lower() == 'yes' or v['Finished'].lower() == 'y' or v['Finished'].lower() == 'true' or 'finished' in v['Finished'].lower() 
+        elif 'finished' in v.keys():
+            whether_finished_answer = v['finished'].lower() == 'yes' or v['finished'].lower() == 'y' or v['finished'].lower() == 'true' or 'finished' in v['finished'].lower() 
+        else:
+            whether_finished_answer = False
+        if whether_finished_answer:
+            llm_id = -1
+            llm_action = "N/A"
+            llm_input = "N/A"
+        else:
+            llm_id = 'N/A'
+
+    except:
+        pass
+    if llm_id != -1:
+        step_desc = v
+        try:
+            llm_id = step_desc['id']
+            llm_action = step_desc['action']
+            llm_input = step_desc['input_text']
+            if llm_id == "N/A":
+                llm_id = -1
+            else:
+                llm_id = int(llm_id)
+            if "tap" in llm_action.lower() or "check" in llm_action.lower() or "choose" in llm_action.lower():
+                llm_action = "tap"
+            elif "none" in llm_action.lower():
+                llm_action = "N/A"
+            elif "click" in llm_action.lower():
+                llm_action = "tap"
+            elif "input" in llm_action.lower():
+                llm_action = "input"
+            assert llm_action in ["tap", "input", "N/A"]
+        except:
+            llm_id = -1
     return llm_id, llm_action, llm_input
 
 def insert_onclick_into_prompt(state_prompt, insert_ele, target_ele_desc):
