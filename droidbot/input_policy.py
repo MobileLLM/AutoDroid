@@ -1084,7 +1084,7 @@ class TaskPolicy(UtgBasedInputPolicy):
             
             print(f'response: {response}')
             idx, action_type, input_text = tools.extract_action(response)
-        import pdb;pdb.set_trace()
+        # import pdb;pdb.set_trace()
         file_name = self.device.output_dir +'/'+ self.task.replace('"', '_').replace("'", '_') + '.yaml' #str(str(time.time()).replace('.', ''))
         idx = int(idx)
         if idx == -1:
