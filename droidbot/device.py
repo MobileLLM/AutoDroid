@@ -504,7 +504,7 @@ class Device(object):
         Get current activity
         """
         r = self.adb.shell("dumpsys activity activities")
-        activity_line_re = re.compile('\* Hist #\d+: ActivityRecord{[^ ]+ [^ ]+ ([^ ]+) t(\d+)}')
+        activity_line_re = re.compile(r'\*\s*Hist\s*#\d+:\s*ActivityRecord\{[^ ]+\s*[^ ]+\s*([^ ]+)\s*t(\d+)}')
         m = activity_line_re.search(r)
         if m:
             return m.group(1)
